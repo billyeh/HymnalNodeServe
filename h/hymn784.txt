@@ -1,0 +1,28 @@
+{"1": "Pray to fellowship with Jesus
+In the spirit seek His face;
+Ask and listen in His presence
+Waiting in the secret place.",
+"chorus": "Pray to fellowship with Jesus
+In the spirit seek His face;
+Ask and listen in His presence
+Waiting in the secret place.",
+"2": "Pray to fellowship with Jesus
+Fully opened from within
+With thy face unveiled, beholding
+Single, pure, and genuine.",
+"3": "Pray to fellowship with Jesus
+Seeking Him in confidence;
+Learn to touch Him as the Spirit
+Looking up in reverence.",
+"4": "Pray to fellowship with Jesus
+Speaking nothing in pretense;
+Ask according to the spirit
+Praying by the inner sense.",
+"5": "Pray to fellowship with Jesus
+List'ning earnestly to Him;
+Be impressed with His intentions
+Yielding to Him from within.",
+"6": "Pray to fellowship with Jesus
+Bathing in His countenance;
+Saturated with His beauty
+Radiate His excellence."}

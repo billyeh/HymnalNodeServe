@@ -1,0 +1,10 @@
+{"1": "Therefore being justified by faith
+We have peace with God
+Through our Lord Jesus Christ",
+"chorus": "Because the love of God is shed abroad
+In our hearts, by the Holy Spirit
+Which is given, which is given
+Unto us, to us, to us.",
+"2": "God hath commended His love toward us
+In that while we were yet sinners
+Christ died for us."}

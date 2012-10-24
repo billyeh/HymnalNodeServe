@@ -1,0 +1,26 @@
+{"1": "Let's mingle and blend,
+Our hearts knit again,
+In the family of God.
+Let's mingle and blend,
+Our hearts knit again,
+With our family of God.",
+"chorus": "Isn't it pure and fine?
+Isn't it right and holy?
+Isn't it noble, true?
+Isn't it sweet and lovely?",
+"2": "Open up your heart, 
+Open up your home,
+Open up your mouth,
+Open up your song,
+Open up your life,
+Open up your time,
+Open up your poem,
+Open up your rhyme.",
+"3": "How we love one another!
+We are sisters! We are brothers!
+How our hearts fill with love
+When we think on things above!",
+"4": "Let's mingle and blend...
+Our hearts knit again...
+In the spirit of love...
+In the fam'ly of God."}

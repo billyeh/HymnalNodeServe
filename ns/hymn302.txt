@@ -1,0 +1,16 @@
+{"chorus": "Draw me, dear Lord.
+Draw me today.
+From everything else, dear Lord,
+Draw me away.",
+"1": "O Lord, this whole world
+Seems to weigh me down.
+All the cares, the strife the sin,
+Within me and all around.",
+"2": "But, Lord, I want to set my heart,
+And, Lord, I want to stay with You.
+'Cause only when You're near to me
+Is everything okay.",
+"3": "And though everything may fall apart
+Or everything go my way,
+It doesn't really matter, Lord,
+As long as I gain You today."}

@@ -1,0 +1,27 @@
+{"1": "We're renewed and revived by the Lord day by day;
+He is grace upon grace and refreshing as dew.
+Shining brighter and brighter, our path's a clear way,
+As morning by morning His mercies are new.",
+"2": "Transformed by beholding from glory to glory,
+And from strength to strength on to Zion we go.
+Constitute us with truth as daily we study-
+Here a little there a little-Your Word to know.",
+"3": "Perfected and nourished from house to house meeting,
+We speak one by one that the church may be built.
+As little by little ev'ry enemy's fleeing,
+More and more surpassingly with glory we're filled.",
+"chorus": "Day by day,
+Grace upon grace,
+Brighter and brighter,
+Morning by morning
+(His mercies are new.)",
+"chorus": "Glory to glory,
+Strength to strength,
+Here a little,
+There a little
+(Your Word to know.)",
+"chorus": "House to house,
+One by one,
+Little by little,
+More and more
+(With glory we're filled.)"}

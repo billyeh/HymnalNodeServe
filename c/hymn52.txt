@@ -1,0 +1,22 @@
+{"1": "In God's green pastures feeding by His cool waters lie;
+Soft in the evening walk my Lord and I,
+All the sheep of His pasture
+Fare so wondrously fine; His sheep am I.",
+"chorus": "Sisters: "Waters cool,
+Brothers: "In the valley;
+Sisters: "Pastures green,
+Brothers: "On the mountain,
+Sisters: "In the evening
+Brothers: "In the evening
+Everyone: "Walk my Lord and I.",
+"chorus": "Sisters: "Dark the night,
+Brothers: "In the valley,
+Sisters: "Rough the way,
+Brothers: "On the mountain,
+Sisters: "Step by step...
+Brothers: "Step by step.
+Everyone: "My Lord and I.",
+"2": "Through the streets of the city in the darkness of the night,
+Far from the fold, He heard my lonely cry.
+Now I sit at His table in the palace of light;
+His sheep am I."}

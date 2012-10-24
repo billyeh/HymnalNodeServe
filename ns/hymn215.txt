@@ -1,0 +1,32 @@
+{"1": "I wake up this morning, Lord;
+The sun shines through my windowsill.
+How can I help but praise Your name!
+You're my Lord and King!",
+"chorus": "Because You...gave Your life up for me.
+The Spirit...You were raised to be.
+Now You are...living deep in me,
+As my hope of glory.",
+"2": "Each day Your mercies they are new,
+To me refreshing as the dew;
+You are my bountiful supply.
+Every morning You're nigh!",
+"3": "For me You came from up above,
+Because You are the God of love;
+Your love will never let me go;
+Everyday it flows.",
+"4": "Your love flows out to me as grace,
+Enabling me to run the race;
+As truth You're my reality,
+As my all to be.",
+"5": "As I walk on this pilgrim road,
+My flesh and self You will erode;
+In my heart, You will have Your way;
+Take more room each day.",
+"6": "Each day the world I leave behind;
+You write Your laws upon my mind,
+Inscribing on my softened heart,
+Filling every part.",
+"7": "O Lord, I'm just a tree in You,
+Rooted and being built in You,
+Absorbing all You are to me,
+What a place to be!"}

@@ -1,0 +1,17 @@
+{"1": "All hail the pow'r of Jesus' name!
+Before Him prostrate fall;
+With one accord His praise proclaim,
+And crown Him Lord of all!",
+"2": "Ye saints redeemed from Adam's race,
+Ye ransomed from the fall,
+Hail Him who saves you by His grace,
+And crown Him Lord of all.",
+"3": "Tell forth the only Name that's giv'n
+On which we now may call,
+The Name adored by hosts in heav'n,
+And crown Him Lord of all.",
+"4": "In glory all the ransomed throng
+Soon at His feet shall fall;
+Join in the blest eternal song,
+And crown Him Lord of all.
+note: "(Repeat the last two lines of each stanza)"}

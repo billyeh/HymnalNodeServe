@@ -1,0 +1,24 @@
+{"1": "Life's too short
+To waste a single day
+The kingdom's life
+Is closer everyday.",
+"chorus": "In the midst of time,
+The kingdom's mine
+Just by calling on His name each day.",
+"2": "The sweetest taste
+Of life is deep within.
+Its flowing out
+Is primed by calling Him.",
+"chorus": "In the midst of time,
+The kingdom's mine
+Just by calling on His name each day.",
+"3": "Time is quickly
+Running out each day.
+The Lord will come
+And swiftly end this age.",
+"chorus": "At the end of time,
+The goal we'll see
+The millennium is our entry.",
+"chorus": "At the end of time,
+The goal we'll see
+The New Jerusalem we'll be."}

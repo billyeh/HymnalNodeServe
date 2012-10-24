@@ -1,0 +1,13 @@
+{"1": "O come, all ye faithful! joyfully triumphant,
+To Bethlehem hasten now with glad accord;
+Lo! in a manger lies the God Almighty;",
+"chorus": "O come, let us adore Him,
+O come, let us adore Him,
+O come, let us adore Him,
+Christ the Lord!",
+"2": "Raise, raise choirs of angels, songs of loudest triumph,
+Through heaven's high arches be your praises poured:
+Now to our God be glory in the highest;",
+"3": "Amen! Lord, we bless Thee, born for our salvation!
+O Jesus! forever be Thy Name adored;
+Word of the Father, late in flesh appearing;"}

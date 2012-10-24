@@ -1,0 +1,49 @@
+{"1": "I need You, Jesus,
+More and more each day.
+I can't live without You,
+Most wonderful One!",
+"chorus": "I need You, Lord,
+More and more every day.
+I can't live without You,
+Oh, most wonderful One!",
+"2": "My lovely Bridegroom,
+Oh, most pleasant One,
+Take me in Your chambers,
+Sustain me with love!",
+"chorus": "I need You, Lord,
+More and more every day.
+I can't live without You,
+Oh, most wonderful One!",
+"3": "Jesus, just kiss me,
+Kisses of Your mouth.
+Grace upon Thy lips is
+So sweet to my taste.",
+"chorus": "I need You, Lord,
+More and more every day.
+I can't live without You;
+I need Your sweet taste.",
+"4": "I'm sick with love.
+Thy banner over me is love.
+You have ravished my heart,
+None other for me.",
+"chorus": "I need You, Lord,
+More and more every day.
+I can't live without You.
+I've been ravished by Thee.",
+"5": "I love my Master.
+I'll not go out free.
+Take my ear to the door post
+And bore it for Thee.",
+"chorus": "I need You, Lord,
+More and more every day.
+I can't live without You,
+Oh, most wonderful One!",
+"6": "Make haste, Beloved!
+Come quickly soon!
+Jesus, our desire.
+Thy Bride calls for Thee.",
+"chorus": "Come quickly, Lord,
+We can't wait anymore.
+Please make haste, dear Beloved!
+Your Bride calls for Thee.
+Come quickly, Lord, Amen."}

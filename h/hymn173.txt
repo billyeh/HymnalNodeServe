@@ -1,0 +1,20 @@
+{"1": "Thou art fairer than the morning,
+O my Savior and my King!
+Of Thy grandeur and Thy beauty,
+How my soul delights to sing.",
+"chorus": "Thou art fairer than the morning,
+Thou art brighter, brighter than the day;
+At the glory of Thy presence
+Clouds and darkness flee away.",
+"2": "Clothed in light as with a garment,
+Crowned with majesty divine,
+Lo, the scepter of dominion
+Now and ever, Lord, is Thine.",
+"3": "O the greatness of Thy mercy,
+And the richness of Thy grace!
+O the love that in Thy kingdom
+Is preparing me a place!",
+"4": "When at last I reach the kingdom,
+Win the crown, the battle o'er,
+With ten thousand times ten thousand
+I shall sing forevermore."}

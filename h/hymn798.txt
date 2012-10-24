@@ -1,0 +1,24 @@
+{"1": "Revive Thy work, dear Lord!
+Thy mighty arm make bare;
+Move in the hearts and wake the souls,
+And make Thy presence dear.",
+"chorus": "Revive Thy work, dear Lord!
+And manifest Thy power;
+O come upon Thy church as in
+The Pentecostal hour.",
+"2": "Revive Thy work, dear Lord!
+Disturb this sleep of death;
+Quicken the smouldering embers now
+By Thine almighty breath.",
+"3": "Revive Thy work, dear Lord!
+Create soul-thirst for Thee;
+And hungering for the Bread of Life,
+O may our spirits be!",
+"4": "Revive Thy work, dear Lord!
+And give abounding joy;
+O fill our hearts with perfect love,
+And burn out all alloy!",
+"5": "Revive Thy work, dear Lord!
+Repeat Thy deeds of grace;
+Thy mighty name be magnified,
+To Thee be all the praise."}

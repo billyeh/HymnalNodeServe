@@ -1,0 +1,40 @@
+{"1": "I do not know where they have laid Him.
+The stone is taken away from the tomb.
+Oh! They have taken Him away!
+Oh! Where is He?",
+"2": "Disciples came and saw the empty tomb
+But went away so soon to their own homes.
+They're satisfied with just the facts.
+But where's my Lord?",
+"chorus": "Where is He, my Jesus?
+Where is He, my Beloved?
+Where is He Whom my soul doth love?
+Jesus, my Love, I just want You.",
+"3": "My heart is broken from my deepest need.
+Don't ask me, angels, why I'm weeping.
+Nothing but Jesus fills my inner being.
+Oh! Where's my Love?",
+"4": "Someone is standing right behind me.
+It's just the gardener I can barely see.
+Sir, if you carried Him away...
+Oh! Where is He?",
+"chorus": "Where is He my Jesus?
+Where is He my Beloved?
+Tell me where you have laid Him
+And I'll carry Him away, I'll carry Him away.",
+"5": "And then I heard a voice say, "Mary."
+That sweetest voice that penetrated me.
+It is the voice of my Beloved,
+Jesus, my Love.",
+"chorus": "I have found my Jesus!
+I have found my Beloved!
+I have found Whom my soul doth love,
+Jesus, my love, I just love You!",
+"6": "But Jesus told me not to touch Him yet.
+He must ascend first to the Father
+And to My Father and your Father
+To My God and your God.",
+"chorus": "Go and tell My brothers,
+I ascend to the Father
+To My Father and your Father,
+And My God and your God, go tell My brothers."}

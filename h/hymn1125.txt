@@ -1,0 +1,24 @@
+{"1": "Down at the cross where my Savior died,
+God's righteous nature was satisfied;
+There to my sin was the blood applied,
+Glory to His name!",
+"chorus": "Glory to His name,
+Glory to His name;
+There to my sin was the blood applied,
+Glory to His name!",
+"2": "Saved from our sin at this fountain, we
+Fully enjoy our redemption free;
+This we'll enjoy for eternity,
+Glory to His name!",
+"3": "Oh, precious fact, when my Savior died,
+Not only sin's debt was satisfied;
+Life's flowing fountain was opened wide!
+Glory to His name!",
+"chorus": "Glory to His name,
+Glory to His name;
+Life's flowing fountain was opened wide,
+Glory to His name!",
+"4": "Now both redemption and life we share,
+Cleansed in His blood, we're abiding there
+Drinking the water of life fore'er;
+Glory to His name!"}

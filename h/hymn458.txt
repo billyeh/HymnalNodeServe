@@ -1,0 +1,20 @@
+{"1": "Living for Jesus, oh, what peace!
+Rivers of pleasure never cease;
+Trials may come, yet I'll not fear,
+Living for Jesus, He is near.",
+"chorus": "Help me to serve Thee more and more,
+Help me to praise Thee o'er and o'er;
+Live in Thy presence day by day,
+Never to turn from Thee away.",
+"2": "Living for Jesus, oh, what rest!
+Pleasing my Savior, I am blest;
+Only to live for Him alone,
+Doing His will till life is done.",
+"3": "Living for Jesus, everywhere,
+All of my burdens He doth bear;
+Friends may forsake me, He'll be true;
+Trusting in Him, He'll guide me through.",
+"4": "Living for Jesus, till at last
+Into His glory I have passed;
+There to behold Him on His throne,
+Hear from His lips, "My child, well done!""}

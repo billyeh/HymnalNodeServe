@@ -1,0 +1,32 @@
+{"1": "What a blessed fact! What a tiding glad!
+In the Spirit we have been baptized;
+Take this settled fact, nothing need we add
+In the Spirit we have been baptized.",
+"chorus": "Take it! take it!
+Take now this fact by living faith;
+Take it! take it!
+Take now this accomplished fact by faith.",
+"2": "In the testament it is clearly told
+In the Spirit we have been baptized;
+It is so complete, we need only hold
+In the Spirit we have been baptized.",
+"chorus": "Hold it! hold it!
+Hold now this fact by living faith;
+Hold it! hold it!
+Hold now this accomplished fact by faith.",
+"3": "Christ upon the Church hath His Spirit poured
+In the Spirit we have been-baptized;
+Share her portion now, share in full accord
+In the Spirit we have been baptized.",
+"chorus": "Share it! share it!
+Share now this fact by living faith;
+Share it! share it!
+Share now this accomplished fact by faith.",
+"4": "With the Body right, on the Body ground
+Move and act on this accomplished fact;
+Sins and doubts condemn, wait no more around
+But by living faith now move and act.",
+"chorus": "Act now! act now!
+Act on this fact by living faith;
+Act now! act now!
+Act on this accomplished fact by faith."}

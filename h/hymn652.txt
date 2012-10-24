@@ -1,0 +1,24 @@
+{"1": "O troubled soul, beneath the rod
+Thy Father speaks-be still, be still;
+Learn to be silent unto God,
+And let Him mold thee to His will.",
+"chorus": "Be still, O troubled soul, be still;
+Fear not, thy Father's arms enfold thee.
+Take up thy cross, lay down thy will;
+Be silent unto God, and let Him mold thee.",
+"2": "O anxious soul, lay down thy load,
+Oh, hear His voice, He speaks to thee,
+"Be still and know that I am God,
+And cast thy every care on Me."",
+"3": "O fearful soul, be still, be still,
+Be of good cheer; has He not said,
+"I will be with you, fear no ill,
+'Tis I, 'tis I, be not afraid"?",
+"4": "O praying soul, be still, be still,
+He cannot break His plighted word;
+Sink down into His blessed will,
+And wait in patience on the Lord.",
+"5": "O waiting soul, be still, be strong,
+And though He tarry, trust and wait;
+Doubt not, He will not wait too long,
+Fear not, He will not come too late."}

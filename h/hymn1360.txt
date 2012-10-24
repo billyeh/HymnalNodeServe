@@ -1,0 +1,20 @@
+{"1": "Oh, how glorious! Oh, how precious!
+Now the Spirit dwells in me.
+Life imparting, truth revealing,
+Shining, leading constantly.",
+"chorus": "Fill me now! Fill me now!
+Fill me with Thy Spirit now!
+Strip me wholly, empty thoroughly,
+Fill me with Thy Spirit now!",
+"2": "Word of promise, real within me,
+Life divine now freeing me-
+From sin's cruel control releasing,
+From death's power setting free.",
+"3": "Deepest springs of life dispensing,
+Like the hart I thirst for Thee;
+Desp'rate, may I drink Thy fullness,
+'Till Thy river flows through me.",
+"4": "May my self be put to death, Lord,
+Under Thy control I'd be,
+Transformed to Thy living image,
+I'd forever flow out Thee."}

@@ -1,0 +1,33 @@
+{"1": "Little by little,
+The Lord is cutting off all our natural life;
+As we grow in Him,
+He replaces us with more of His life divine.",
+"chorus": "It is our destiny,
+To live a normal life in the divine dispensing,
+It is a blessing,
+To be satisfied with ordinary days
+  in the divine dispensing.",
+"2": "Day by day,
+Our inward parts are being renewed by the Lord;
+Every day,
+Fresh and rich supply to us He does afford.",
+"3": "Here a little,
+And there a little, Christ reveals Himself to us;
+When we read His word,
+We are satisfied and we enjoy Him thus.",
+"4": "Morning by morning,
+Jehovah He is faithful to awaken us;
+He instructs our ears,
+With just a word, the weary to sustain we must.",
+"5": "From strength to strength,
+We're on the highways to enter into our God;
+Though Satan opposes,
+We are strengthened to lay hold of more of God.",
+"6": "Grace upon grace,
+The Triune God is processed for us to enjoy;
+The law is over,
+Now we can partake of His supply through grace.",
+"7": "From glory to glory,
+We are in the process of being transformed;
+Beholding, reflecting,
+To God's image with all saints we'll be conformed."}

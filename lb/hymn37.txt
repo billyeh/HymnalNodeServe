@@ -1,0 +1,21 @@
+{"1": "Awake, awake, Deborah!
+Awake, awake, utter a song!
+Arise, Barak, and lead
+Your captivity captive!
+(Repeat)",
+"chorus": "Let your enemies perish, oh Jehovah.
+But let them that love Him be as the sun!",
+"2": "Awake, awake, Oh generation!
+Come out, come out from all the nations.
+Arise, Christians, and give
+Yourselves to Christ and the church.
+(Repeat)",
+"chorus": "This is the Lord's generation!
+Oh come out from all the nations!",
+"3": "Awake, awake, Oh sisters!
+Awake, awake, utter this song!
+Arise, brothers, and wield
+The sword of the Spirit!
+(Repeat)",
+"chorus": "Let us stand strong in the Lord
+By fighting with prayer in the Word!"}

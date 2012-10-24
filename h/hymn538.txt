@@ -1,0 +1,28 @@
+{"1": "It is God's intent and pleasure,
+To have Christ revealed in me
+Nothing outward as religion
+But His Christ within to be.",
+"chorus": "It is God's intent and pleasure,
+That His Christ be wrought in me;
+Nothing outwardly performing
+But His Christ my all to be.",
+"2": "It is God's intent and pleasure,
+That His Christ may live in me;
+Nothing as an outward practise
+But Christ working inwardly.",
+"3": "It is God's intent and pleasure,
+That His Christ be formed in me;
+Not the outward forms to follow
+But Christ growing inwardly.",
+"4": "It is God's intent and pleasure,
+That His Christ make home in me;
+Not just outwardly to serve Him
+But Christ dwelling inwardly.",
+"5": "It is God's intent and pleasure,
+That His Christ my hope may be;
+It is not objective glory
+But 'tis Christ subjectively.",
+"6": "It is God's intent and pleasure,
+That His Christ be all in me;
+Nothing outwardly possessing
+But His Christ eternally."}

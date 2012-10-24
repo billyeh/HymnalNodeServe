@@ -1,0 +1,26 @@
+{"1": "Draw me, Lord;
+Lest these earthly cares consume
+My driven soul.
+Move me Lord;
+As a coursing river turns
+Within Thine hands.",
+"chorus": "Draw me, Lord!
+Draw me, Lord!",
+"2": "Capture me;
+Be the conqueror of this
+Wild, charging mare.
+Win me Lord,
+And subdue all pow'r of self
+To yield to Thee.",
+"3": "Draw me, Lord;
+Ev'ry heartbeat tends to drift
+My course from Thee.
+Draw me, Lord;
+I would gladly let Thee win
+And yield my sword.",
+"4": "Draw me, Lord;
+Oh, Thy love compels me as
+An ocean's tide!
+Draw me, Lord;
+For Thy drawing maketh hearts
+To fast pursue."}

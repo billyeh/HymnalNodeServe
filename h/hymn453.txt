@@ -1,0 +1,20 @@
+{"1": "Under an eastern sky,
+Amid a rabble's cry,
+A Man went forth to die,
+For me! for me!",
+"2": "Thorn-crowned His blessed head,
+Blood-stained His every tread;
+Cross-laden He was led,
+For me! for me!",
+"3": "Pierced His hands and feet,
+Three hours o'er Him beat
+Fierce rays of noon-tide heat,
+For me! for me!",
+"4": "Thus wert Thou made all mine;
+Lord, make me wholly Thine;
+Grant grace and strength divine
+To me! to me!",
+"5": "In thought and word and deed,
+Thy will to do, O lead
+My soul, e'en though it bleed,
+To Thee, to Thee."}

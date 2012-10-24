@@ -1,0 +1,36 @@
+{"1": "Looking unto Jesus,
+Never need we yield!
+Over all the armor,
+Faith the battle-shield!
+Standard of salvation,
+In our hearts unfurled,
+Let its elevation
+Overcome the world.",
+"chorus": "Looking unto Jesus,
+Never need we yield!
+Over all the armor,
+Faith the battle-shield!",
+"2": "Look away to Jesus,
+Look away from all!
+Then we need not stumble,
+Then we shall not fall.
+From each snare that lureth,
+Foe or phantom grim,
+Safety this ensureth,
+Look away to Him.",
+"3": "Looking into Jesus,
+Wond'ringly we trace
+Heights of power and glory,
+Depths of love and grace.
+Vistas far unfolding
+Ever stretch before,
+As we gaze, beholding,
+Ever more and more.",
+"4": "Looking up to Jesus
+On the emerald throne,
+Faith shall pierce the heavens,
+Where our King is gone.
+Lord, on Thee depending,
+Now, continually,
+Heart and mind ascending,
+Let us dwell with Thee."}

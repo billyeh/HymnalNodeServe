@@ -1,0 +1,20 @@
+{"1": "Simply loving everyday;
+Loving through a stormy way,
+Even when my faith is small,
+Loving Jesus, that is all.",
+"chorus": "Loving as the moments fly,
+Loving as the days go by,
+Loving Him whate'er befall,
+Loving Jesus, that is all.",
+"2": "Brightly doth His Spirit shine
+Into this poor heart of mine;
+While He leads I cannot fall,
+Loving Jesus, that is all.",
+"3": "Singing if my way be clear,
+Praying if the path be drear;
+If in danger, for Him call,
+Loving Jesus, that is all.",
+"4": "Loving Him while life shall last,
+Loving Him till earth is past,
+Till His gracious advent call,
+Loving Jesus, that is all."}

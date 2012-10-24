@@ -1,0 +1,20 @@
+{"1": "O do not let the Word depart,
+And close thine eyes against the light:
+Poor sinner, harden not your heart,
+Be saved, O tonight.",
+"chorus": "O why not tonight?
+O why not tonight?
+Wilt thou be saved?
+Then why not tonight?",
+"2": "Tomorrow's sun may never rise
+To bless thy long-deluded sight;
+This is the time, O then be wise,
+Be saved, O tonight.",
+"3": "Our Lord in pity lingers still,
+And wilt thou thus His love requite?
+Renounce at once thy stubborn will,
+Be saved, O tonight.",
+"4": "Our blessed Lord refuses none
+Who would to Him their souls unite;
+Believe on Him, the work is done.
+Be saved, O tonight."}

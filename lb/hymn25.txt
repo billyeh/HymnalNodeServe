@@ -1,0 +1,44 @@
+{"1": "Brothers' part:
+Whom have I in heaven but Thee?
+And there's none upon the earth that I
+ desire beside Thee.
+Whom have I in heaven but Thee?
+And there's none upon the earth that I
+ desire beside Thee.",
+"2": "My flesh and my heart faileth.
+But God is the strength of my heart
+And my portion forever.
+ (Repeat 2)",
+"3": "Nevertheless, I am continually with Thee;
+Thou hast holden me by my right hand;
+Thou shalt guide me with Thy counsel and
+Afterwards receive me to glory.",
+"4": "One thing have I desired of the Lord;
+That will I seek after,
+That I may dwell in the house of the Lord.
+ (Repeat 4)",
+"5": "I may dwell in the house of the Lord,
+All the days of my life,
+To behold the beauty of the Lord
+And to inquire in His temple.",
+"1": "Sisters' part:
+I am continually with Thee;
+Thou hast beholden me by my right hand.
+I am continually with Thee;
+Thou hast holden me by my right hand.",
+"2": "He is my refuge
+And my fortress;
+My God, in Him will I trust.
+ (Repeat 2)",
+"3": "I have set the Lord
+Always before me;
+He is at my right hand;
+I shall not be moved.",
+"4": "Blessed are they
+That dwell in the house;
+They will be praising Thee all the day long.
+ (Repeat 4)",
+"5": "There is a river
+Whose streams make glad
+The city of our God.
+God is in the midst of her."}

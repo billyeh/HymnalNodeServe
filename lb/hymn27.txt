@@ -1,0 +1,44 @@
+{"1": "Let's go on!
+Forward come!",
+"chorus": "A heart that is loving Him,
+A heart that is willing,
+A heart that's uplifted,
+No, not defeated!",
+"chorus": "Let's go on!
+Forward come
+To the Son!",
+"chorus": "We are Your vessels,
+Created to be
+Man in Your image
+To be filled up with Thee.
+You're my enjoyment
+Overflowing me!
+I'm a man in Your image,
+Thus expressing Thee!",
+"2": "Let's go on!
+Forward come!",
+"chorus": "A spirit that's burning,
+A heart that is bubbling,
+Saints that are eating
+And always drinking!",
+"chorus": "Let's go on!
+Forward come
+To the Son!",
+"3": "Let's go on!
+Forward come!",
+"chorus": "Spirit releasing,
+Saints that are feasting,
+Not analyzing,
+Or criticizing.",
+"chorus": "Let's go on!
+Forward come
+To the Son!",
+"4": "Let's go on!
+Forward come!",
+"chorus": "Life so enjoyable,
+Else it be terrible,
+But He's so wonderful,
+And so available!",
+"chorus": "Let's go on!
+Forward come
+To the Son!"}

@@ -1,0 +1,22 @@
+{"1": ""Give," said the little stream,
+"Give," oh, give, give, oh, give,
+Give," said the little stream,
+As it hurried down the hill;
+"I'm small, I know, but wherever I go,
+The fields grow greener still."",
+"chorus": "Singing, singing all the day,
+"Give away, oh, give away,"
+Singing, singing all the day,
+"Give, oh, give away."",
+"2": ""Give," said the little rain,
+"Give, oh, give, give, oh, give,
+Give," said the little rain
+As it fell upon the flowers.
+"I'll raise their drooping heads again,"
+As it fell upon the flowers.",
+"3": ""Give," then, what you can give,
+"Give, oh, give, give, oh, give,
+Give," then, what you can give,
+There is something all can give.
+Do as the streams and blossoms do,
+And for other people live."}

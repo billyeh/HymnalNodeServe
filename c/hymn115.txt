@@ -1,0 +1,16 @@
+{"1": "The heaven and the earth God made.
+Foundations of the earth He laid.
+And His great power was displayed-
+The angels sang for joy.",
+"chorus": "The angels sang for joy,
+The angels sang for joy,
+The heavens and the earth God made,
+The angels sang for joy.",
+"2": "The earth became as dark as night,
+And then God said, Let there be light,
+And there was light, yes, there was light,
+And God saw it was good.",
+"chorus": "And God saw it was good,
+And God saw it was good,
+Let there be light: "and there was light,
+And God saw it was good."}

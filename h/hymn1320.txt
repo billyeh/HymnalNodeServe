@@ -1,0 +1,20 @@
+{"1": "We have seen the Lord is coming
+For the church for whom He died;
+We are in the age of ages,
+When the Lord will take His Bride!",
+"chorus": "'Tis a glorious age, the age of the ages,
+Now, in this age, Christ will come!
+So prepare ye now the church for the marriage,
+Christ and the church will be one!",
+"2": "Praise God, in this age we're living,
+Age of God's recovery.
+We are in the local churches,
+Where the Bride prepared may be.",
+"3": "Unreservedly we're giving
+All, that He be satisfied;
+For the life and for the building
+Of His holy, chosen Bride.",
+"chorus": "'Tis a glorious age, the age of the ages,
+Now in this age Christ will come!
+We're preparing now the church for the marriage,
+Christ and the church will be one!"}

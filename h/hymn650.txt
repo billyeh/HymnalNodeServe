@@ -1,0 +1,22 @@
+{"1": "O doubting, struggling Christian,
+Why thus in anguish pray?
+O cease to doubt and struggle,
+There is a better way.",
+"chorus": "O settle it all with Jesus,
+O settle it all today;
+O cease to doubt and struggle,
+O cease to plead and pray;
+O rest in His word forever,
+And settle it all today.",
+"2": "Give up thy will to Jesus,
+And trust Him though He slay;
+Hush all thy fears and questions,
+And settle it today.",
+"3": "O soul so tossed with tempest,
+Upon His promise stay;
+Cast out faith's strong sheet anchor,
+And settle it today.",
+"4": "Lord, I give up the struggle,
+To Thee commit my way;
+I trust Thy word forever,
+And settle it today."}

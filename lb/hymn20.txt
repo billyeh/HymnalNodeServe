@@ -1,0 +1,40 @@
+{"1": "What's the use? There is no hope for me,
+Deep inside just fear and misery.
+Man's enslaved by this haunting melody-
+Everything, my friend, is temporary.",
+"chorus": "There is an answer: "a wonderful Person!
+He's Jesus the Lord; He's God's beloved Son!
+This wonderful Person is now your solution.
+Just take and receive Him; He's God's Firstborn Son!",
+"2": "Day by day, I tried to stop this song.
+What is it? There must be something wrong...
+Oh! This life is just a hopelessness!
+Always searching, but tasting emptiness.",
+"chorus": "There is an answer: "a wonderful Person!
+He's Jesus the Lord; He's God's beloved Son!
+This wonderful Person is now your solution.
+Just take and receive Him; He's God's Firstborn Son!",
+"3": "All day long you play the "same ole song":
+"Good morning", "How are you?", "No, there is nothing wrong."
+You're swept by the world of deceptive vanity,
+A tide looking good, but it's void of reality.",
+"chorus": "Just call "Oh Lord Jesus": "the truth you're confessing
+That God raised this Jesus from among the dead.
+Your heart this believing, just call to receive Him.
+He's Jesus the Savior, your great salvation.",
+"4": "You're conformed to unreality,
+Trapped in a wheel of human anxiety.
+You are caught, you're in the web already.
+You're spun to this song: "you're just the spider's prey.",
+"chorus": "Jesus crushed the devil and overcame evil.
+That kingdom He leveled and destroyed the devil.
+He will free you from sin, from death, world and Satan.
+Just call "Oh Lord Jesus" and He will enter in.",
+"5": "Life is a song as a time hour glass,
+Sand by sand, my friend it cannot last.
+You're born, you live, and eventually you die.
+Friend, you can't change it, no need to even try.",
+"chorus": "There is a new song, a wonderful Person!
+He's Jesus the Lord, He's God's beloved Son!
+This wonderful Person is now your solution!
+Just take and receive Him; He's God's Firstborn Son!"}

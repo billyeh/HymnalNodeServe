@@ -1,0 +1,24 @@
+{"1": "What a wonderful church life,
+All the saints truly are one,
+No matter where and who we are,
+We are one!
+Nothing can set us apart,
+For we have the same life,
+Although Satan tried and tried,
+We are one!",
+"chorus": "We are, we are, we are one in Christ!
+Abiding in the true vine,
+Receiving all the riches of the life divine,
+We are one!
+We are, we are, we are one in Christ!
+Growing in the tree of life,
+In Him we fellowship unto eternal life,
+We are one!",
+"2": "What a glorious church life,
+Christ in us has made us one,
+Eating the tree of life,
+We are one!
+How can we ever depart
+Such a sweet and blessed life?
+Christ in us and we in Christ!
+We are one!"}

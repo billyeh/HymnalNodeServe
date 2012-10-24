@@ -1,0 +1,24 @@
+{"1": "We have found the Christ who's all in all;
+He is everything to us;
+O how blest upon His name to call,
+How divine, how glorious!",
+"chorus": "It is joy unspeakable and full of glory,
+Full of glory, full of glory;
+It is joy unspeakable and full of glory,
+And the half has never yet been told!",
+"2": "We have found that Christ the Spirit is
+Who within our spirit dwells;
+How available, how near He is,
+And His sweetness all excels.",
+"3": "We have found the way to live by Christ-
+Pray His Word and call His name!
+This-the eating, drinking-has sufficed
+And its worth we now proclaim.",
+"4": "We have found the local church, our home;
+We are home and home indeed!
+Nevermore in Babylon we roam;
+In the church is all we need.",
+"5": "We have found that meeting with the saints
+Is the greatest joy on earth;
+'Tis by this our spirit never faints
+And our lives are filled with worth."}

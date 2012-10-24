@@ -1,0 +1,20 @@
+{"nonum": "We give thanks to Thee, O Lord,
+We give thanks.
+We give thanks to Thee, O Lord,
+We give thanks.
+For Thy name is near;
+Thy wondrous works men declare-
+We give thanks to Thee O Lord,
+We give thanks.",
+"nonum": "For Thou, Lord, art high-
+Above all the earth.
+Thou art exalted
+Far above all gods.
+For Thou, Lord, art high-
+Above all the earth.
+Thou art exalted
+Far above all gods.",
+"nonum": "We exalt Thee; we exalt Thee;
+We exalt Thee, O Lord!
+We exalt Thee; we exalt Thee;
+We exalt Thee, O Lord!"}

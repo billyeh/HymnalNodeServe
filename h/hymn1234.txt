@@ -1,0 +1,17 @@
+{"1": "I thirsted in the barren land of Babylon
+And nothing satisfying there I found;
+But to the blessed local church one day I came,
+Where springs of living water do abound.",
+"chorus": "Drinking at the springs of living water,
+Happy now am I,
+My heart they satisfy;
+Drinking at the springs of living water,
+O wonderful and bountiful supply!",
+"2": "How sweet the living water from the hills of God,
+It's flowing in and flowing out of me;
+O now I've found the place for which I long had sought,
+Where there is life and life abundantly.",
+"3": "O brother, won't you gather in the local church?
+A fountain here is flowing deep and wide.
+The Shepherd now would bring you to the local church,
+Where thirsty spirits can be satisfied."}

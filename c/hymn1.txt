@@ -1,0 +1,12 @@
+{"1": "Praise Him, praise Him, all ye little children,
+God is love, God is love;
+Praise Him, praise Him, all ye little children,
+God is love, God is love.",
+"2": "Love Him, love Him, all ye little children,
+God is love, God is love;
+Love Him, love Him, all ye little children,
+God is love, God is love.",
+"3": "Thank Him, thank Him, all ye little children,
+God is love, God is love;
+Thank Him, thank Him, all ye little children,
+God is love, God is love."}

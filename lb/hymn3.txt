@@ -1,0 +1,24 @@
+{"1": "Lord, You're irresistible,
+And, dear Lord, You're wonderful!
+Lord, You have attracted me,
+Captured, Lord, by Your beauty.",
+"chorus": "No one, dear Lord, compares to You, my Love.
+There's none on earth or in the heaven above.
+Yes, everything compared to You is vanity.
+Dear Lord, You are the one unique reality.",
+"2": "Lord, You're indescribable,
+And, Lord, You're so enjoyable!
+Lord, You are majestic!
+Lord, You're so fantastic!",
+"3": "Lord, You are the loveliest,
+And, dear Lord, the finest.
+Lord, You are the highest,
+And, dear One, the very best!",
+"4": "Lord, You're the most excellent,
+And, Lord, You're just magnificent!
+Lord, Oh Lord, You're ultimate!
+Dearest One, You're infinite!",
+"5": "No one, Lord, can e'er compete,
+And, dearest Lord, You're so complete!
+Lord, You're so refreshing!
+And, Lord, You are my everything!"}

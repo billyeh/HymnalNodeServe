@@ -1,0 +1,15 @@
+{"1": "Blessed are those who wash their robes
+That they might have right to the tree of life.
+Blessed are those who wash their robes
+That they might have right to the tree of life.",
+"2": "And may enter, and may enter, and may enter by the gates
+And may enter, and may enter, and may enter by the gates
+Into the city, blessed are those.",
+"3": "I am the Alpha and the Omega,
+The First and the Last,
+The First and the Last.
+The Beginning and the End,
+Blessed are those who wash their robes,
+Blessed are those who wash their robes,
+Wash their robes!",
+"note": "repeat 1 and 2"}

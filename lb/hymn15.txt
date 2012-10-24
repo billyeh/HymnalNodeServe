@@ -1,0 +1,24 @@
+{"1": "I need You, dear Lord Jesus,
+Each day, I need You more.
+I cannot live without You.
+It's You, Lord, I adore.",
+"chorus": "I need You more and more each day.
+I need You, Lord, in every way.
+Your Person has attracted me.
+I need You desperately.(Dear Lord.)",
+"2": "I love You, dearest Jesus.
+Each day, I love You more.
+Each touch of You, my Jesus,
+Is sweeter than before.",
+"chorus": "I love You more and more each day,
+I love You, Lord, in every way.
+Your Person has attracted me.
+I need You desperately. (Dear Lord.)",
+"3": "One taste of You, my Lover.
+I need You over and over.
+My heart can't have another.
+That's why I'm a believer.",
+"chorus": "I love You more and more each day.
+I love You, Lord, in every way.
+Your Person has attracted me.
+I need You desperately. (Dear Lord.)"}

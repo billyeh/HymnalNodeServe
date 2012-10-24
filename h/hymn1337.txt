@@ -1,0 +1,29 @@
+{"1": "When the Lord turned again the captivity of Zion,
+We were like them that dream,
+We were like them that dream.",
+"2": "Then was our mouth filled with laughter,
+And our tongue with singing:
+Then said they among the nations,
+The Lord hath done great things,
+The Lord hath done great things for them.",
+"chorus": "The Lord hath done great things for us;
+Whereof we are glad.
+The Lord hath done great things for us;
+Whereof we are glad.",
+"3": "Turn again our captivity, O Lord, as the streams,
+As the streams in the south,
+As the streams in the south.",
+"4": "They that sow in tears shall reap in joy,
+They that sow in tears shall reap in joy.",
+"5": "He that goeth forth and weepeth,
+Bearing precious seed, shall doubtless,
+Come again with rejoicing,
+Come again with rejoicing,
+Bringing his sheaves with him.",
+"chorus": "The Lord hath done great things for us;
+Whereof we are glad.
+The Lord hath done great things for us;
+Whereof we are glad.",
+"6": "When the Lord turned again the captivity of Zion,
+We were like them that dream,
+We were like them that dream."}

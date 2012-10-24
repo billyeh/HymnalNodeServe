@@ -1,0 +1,24 @@
+{"1": "Light after darkness,
+Gain after loss,
+Strength after weakness
+Crown after cross;
+Sweet after bitter,
+Hope after fears,
+Home after wand'ring,
+Praise after tears.",
+"2": "Sheaves after sowing,
+Sun after rain,
+Sight after mystery,
+Peace after pain;
+Joy after sorrow,
+Calm after blast,
+Rest after weariness,
+Sweet rest at last.",
+"3": "Near after distant,
+Gleam after gloom,
+Love after loneliness,
+Life after tomb;
+After long agony,
+Rapture of bliss,
+Right was the pathway,
+Leading to this."}

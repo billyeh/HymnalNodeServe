@@ -1,0 +1,23 @@
+{"1": "Dearest Lord, I come;
+This is now my pray'r,
+Keep me open to You,
+May I always love You.",
+"chorus": "Lord, I love You more today,
+So much more than yesterday;
+Lord, I need You, Lord, I love You.",
+"2": "Now that the choice is mine,
+Lord, I still choose You;
+'Though the paths be not marked,
+I'm still trusting in You.",
+"3": "And if the way is hard,
+If things don't go my way,
+Keep my heart soft to You,
+Keep me open to You.",
+"4": "Dearest Lord, I pray,
+Lead me everyday;
+Don't let things come between,
+Keep my eyes fixed on You.",
+"5": "When many years have gone,
+And many things have passed,
+I will still be for You,
+I will still say to You:"}

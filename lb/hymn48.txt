@@ -1,0 +1,19 @@
+{"1": "The Lord is my strength and my song.
+He's become my salvation.
+The Lord is my strength and my song.
+He's become my salvation.
+The Lord is my strength and my song.
+He's become my salvation.
+The Lord is my strength and my song.
+He's become my salvation.",
+"chorus": "He is my God, and I will praise Him.
+My father's God, and I'll exalt Him.
+He is my God, and I will praise Him.
+My father's God, and I'll exalt Him.",
+"2": "Thou in Thy mercy
+Hast led forth Thy people,
+Led forth Thy people,
+Which Thou hast redeemed.
+Thou hast guided them,
+Guided them in Thy strength
+Unto Thy holy habitation."}

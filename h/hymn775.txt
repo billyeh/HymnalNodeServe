@@ -1,0 +1,16 @@
+{"1": "In the mighty Name of Jesus,
+When we bow before the throne,
+Many deadly foes are vanquished,
+Many victories are won.",
+"chorus": "Mighty Name! Mighty Name!
+In that Name alone we win.
+Mighty Name! Mighty Name!
+Conquering Satan, death and sin.",
+"2": "When we plead the Name of Jesus,
+Satan and his hosts must flee.
+Jesus! Jesus! Precious Jesus!
+In Thy Name is victory.",
+"3": "Soon shall come the blessed moment
+When the battle shall be won,
+When the Mighty Name of Jesus
+Shall exalt us to the throne."}

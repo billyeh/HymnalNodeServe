@@ -1,0 +1,16 @@
+{"1": "In the church of Jesus there is love for you,
+Love most pure and tender, love most deep and true;
+Why should you be lonely, why for friendship sigh,
+When the church of Jesus has a full supply?",
+"2": "In the church of Jesus there is life for you,
+Warm as summer sunshine, sweet as morning dew;
+Why should you be fearful, why take anxious thought,
+Since the church of Jesus cares for those He bought?",
+"3": "In the church of Jesus there is work for you;
+Such as even angels might rejoice to do;
+Why stand idly sighing for some life work grand,
+While the church of Jesus seeks your reaping hand?",
+"4": "In the church of Jesus there's a place for you;
+Glorious, bright, and joyous, right and peaceful too;
+Why then like a wand'rer, roam with weary pace,
+If the church of Jesus holds for you a place."}

@@ -1,0 +1,16 @@
+{"1": "Jesus loves me, this I know,
+For the Bible tells me so;
+Little ones to Him belong;
+They are weak, but He is strong.",
+"chorus": "Yes, Jesus loves me,
+Yes, Jesus loves me,
+Yes, Jesus loves me,
+The Bible tells me so.",
+"2": "Jesus, take this heart of mine;
+Make it pure and wholly Thine.
+Thou hast bled and died for me;
+I will live henceforth for Thee.",
+"chorus": "Yes, I love Jesus.
+Yes, I love Jesus.
+Yes, I love Jesus.
+In prayer I tell Him so."}

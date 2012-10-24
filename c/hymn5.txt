@@ -1,0 +1,12 @@
+{"nonum": "Genesis and Exodus, Leviticus, Numbers, Deuteronomy,
+Joshua, Judges, Ruth, First and Second Samuel,
+and First and Second Kings;
+First and Second Chronicles, then Ezra, Nehemiah,
+Esther, Job, the book of Psalms,
+Proverbs, Ecclesiastes, Song of Songs,
+Isaiah, Jeremiah, Lamentations, and Ezekiel;
+Daniel, Hosea, Joel, Amos, Obadiah,
+Jonah, Micah, Nahum, Habakkuk,
+Zephaniah, Haggai, Zechariah, Malachi.",
+"copyright": " 2007 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's  Sheet Music."}

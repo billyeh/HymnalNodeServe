@@ -1,0 +1,18 @@
+{"1": "Everybody ought to know; (Everybody ought to know)
+Everybody ought to know; (Everybody ought to know)
+Everybody ought to know; (Everybody ought to know)
+Where Jesus dwells.
+(Repeat)",
+"chorus": "He is dwelling in our spirit;
+He is Breath and Life to us;
+We are one with Him in spirit.
+Everybody ought to know.",
+"2": "Everybody ought to know;
+Everybody ought to know;
+Everybody ought to know;
+The living Christ.
+(Repeat)",
+"chorus": "Christ is the life-giving Spirit;
+All God's fullness He contains;
+We partake of all His riches
+Just by calling on His Name."}

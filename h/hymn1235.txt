@@ -1,0 +1,36 @@
+{"1": "Oh, listen to the wanderer
+In whom there was a lack;
+Then hearken to the song he sings
+And follow in his track.",
+"chorus": "Praise the Lord, praise the Lord,
+Praise the Lord, Hallelujah! Hallelujah!
+Praise the Lord, praise the Lord,
+I'll never be the same!",
+"2": "A wanderer within the world
+For pleasure ever seeks;
+Be it in body or in mind,
+With vanity it reeks.",
+"3": "For self I labored day and night,
+My castles built in sand;
+But, praise the Lord, He wrecked them all-
+Much better things He planned.",
+"4": "Once all for self-confused, alone,
+How could I bear the shame?
+But now within the local church
+I'll never be the same.",
+"5": "I am a happy member now
+Within the local church.
+A wanderer has found his home
+And ended all his search.",
+"6": "I was an individualist,
+An island in myself;
+But now the Lord is building me
+With others in Himself.",
+"7": "I'm drawn together with His own
+In fellowship so sweet.
+I've learned from others to receive
+Of Christ whene'er we meet.",
+"8": "My wanderings have really ceased-
+I've found the church, God's best!
+The secret of my happiness-
+Enjoying God's own rest!"}

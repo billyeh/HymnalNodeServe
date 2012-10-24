@@ -1,0 +1,22 @@
+{"1": "The vict'ry's won! The Lord has triumphed o'er the foe!
+The vict'ry shout is heard afar and near!
+His blood prevails! It giveth us the victory!
+And soon the mighty Victor will appear.",
+"chorus": "Sisters:
+The vict'ry's won! O Christian brothers,
+The vict'ry's won! This shout we raise!
+In Zion's city, proclaim His vict'ry
+Till all the earth is filled with praise.
+Brothers:
+The vict'ry's won! O Christian sisters,
+The mighty work of Christ is done!
+The Lord victorious has conquered for us-
+Eternal joys have now begun.",
+"2": "The vict'ry's won! We've overcome the enemy.
+The Word of God we boldly testify.
+God speaks His Word-in it there's life and liberty-
+And by the Word the devil we defy.",
+"3": "The vict'ry's won! Beneath our feet the enemy,
+For we love not our soul life unto death;
+And so we shout, "O Lord, You are our victory!"
+And praise our God with all our spirit's breath."}

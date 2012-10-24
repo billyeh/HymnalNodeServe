@@ -1,0 +1,16 @@
+{"1": "We're in the land, we're in the land!
+O Hallelujah! In the land!
+Christ is the land, Christ is the land,
+O praise the Lord, He is the land!",
+"chorus": "He is the milk and honey, too;
+The grain, the oil, the wine so new.
+We're in the land! We're in the land!
+O Hallelujah! In the land!",
+"2": "This land includes so many things:
+Wheat, barley, vines, deep-flowing springs,
+Fig trees and never-failing bread-
+O what a land before us spread!",
+"chorus": "To have the produce and abound
+We daily labor on the ground;
+Then to the meetings we will bring
+The topmost Christ, our offering!"}

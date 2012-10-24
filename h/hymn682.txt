@@ -1,0 +1,20 @@
+{"1": "When I survey life's varied scene,
+Amid the darkest hours
+Sweet rays of comfort shine between
+And thorns are mixed with flowers.",
+"2": "Lord, teach me to adore Thy hand,
+From whence my comforts flow,
+And let me in this desert land
+A glimpse of glory know.",
+"3": "Father, whate'er of earthly bliss
+Thy sovereign hand denies,
+Accepted at Thy throne of grace,
+Let this petition rise:",
+"4": "Give me a calm, a thankful heart,
+From every murmur free;
+The blessings of Thy grace impart,
+And let me live to Thee.",
+"5": "Let the sweet hope that Thou art mine
+My life and death attend,
+Thy presence through my journey shine,
+And crown my journey's end."}

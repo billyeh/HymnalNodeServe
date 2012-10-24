@@ -1,0 +1,20 @@
+{"1": "The Lord is my Shepherd; I shall not want.
+He makes me to lie down in green pastures;
+He leads me beside still waters.",
+"2": "He restores my soul: "He guides me.
+In the paths of righteousness
+For His Name's sake.",
+"3": "Even though I walk through the valley,
+The valley of the shadow of death;
+Even though I walk through the valley,
+The valley of the shadow of death;
+I fear no evil for Thou art with me;
+Thy rod and Thy staff they comfort me.",
+"4": "Thou dost prepare a table for me
+In the presence of mine enemies
+And anointest my head with oil.",
+"5": "Only goodness and mercy will follow me
+All the days of my life,
+Only goodness and mercy will follow me
+All the days of my life,
+And I will dwell in the house of the Lord forever."}

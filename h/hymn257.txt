@@ -1,0 +1,17 @@
+{"1": "Lord, may Thy Wind of heaven blow,
+Upon us here today!
+With stirring and reviving might
+To us Thy pow'r display.",
+"chorus": "Oh, mighty Lord, on us descend.
+Oh, may Thy Spirit blow!
+With power cause us to transcend.
+Grant us the living flow!
+,",
+"2": "With Thy empow'ring Spirit blow,
+And all the barriers break;
+With Thy life-giving Spirit breathe
+That we of Thee partake.",
+"3": "Thy Spirit is of sevenfold wealth
+For us to share of Thee;
+Grant us the full experience of,
+The God in persons Three."}

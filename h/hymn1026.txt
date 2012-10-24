@@ -1,0 +1,16 @@
+{"1": "Today the Savior calls;
+Ye wand'rers come:
+O ye benighted souls!
+Why longer roam?",
+"2": "Today the Savior calls;
+O hear Him now!
+Before your day is gone,
+To Jesus bow.",
+"3": "Today the Savior calls;
+For refuge fly;
+The storm of vengeance falls,
+And death is nigh.",
+"4": "The Spirit calls today;
+Yield to His pow'r;
+O grieve Him not away,
+'Tis mercy's hour!"}

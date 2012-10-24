@@ -1,0 +1,9 @@
+{"nonum": "You shall love the Lord with all your heart
+You shall love the Lord with all your soul,
+You shall love the Lord with all your mind,
+With all your heart, with all your soul, with all your mind.",
+"nonum": "Oh, Lord I love You for all the things You are!
+Oh, Lord I love You for all the things You do!
+Oh, Lord I love You. Help me love You more,
+With all my heart, with all my soul, with all my mind.",
+"note": "2 parts can be sung simultaneously"}

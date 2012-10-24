@@ -1,0 +1,32 @@
+{"1": "God has saved me from the world;
+I'll never go back anymore.
+God has saved me from the world;
+I'll never go back anymore.",
+"chorus": "No, no, no, no, no,
+I'll never go back anymore;
+No, no, no, no, no,
+I'll never go back anymore.",
+"2": "I've come out from Babylon;
+I'll never go back anymore.
+I've come out from Babylon;
+I'll never go back anymore.",
+"3": "Since I found the local church,
+I'll never go back anymore.
+Since I found the local church,
+I'll never go back anymore.",
+"4": "Since I've touched the Lord within,
+I'll never go back anymore.
+Since I've touched the Lord within,
+I'll never go back anymore.",
+"5": "Christ is everything to me;
+I'll never go back anymore.
+Christ is everything to me;
+I'll never go back anymore.",
+"6": "Praise the Lord, I'm home at last;
+I'll never go back anymore.
+Praise the Lord, I'm home at last;
+I'll never go back anymore.",
+"7": "I'm for God's recovery;
+I'll never go back anymore.
+I'm for God's recovery;
+I'll never go back anymore."}

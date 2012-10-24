@@ -1,0 +1,31 @@
+{"1": "Jesus, Jesus, Jesus,
+There's no one like You.
+Jesus, Jesus, Jesus,
+I just love You.",
+"chorus": "I love You, Jesus, precious Lord,
+No one's like You.
+I love You, Jesus, Wonderful,
+No one's like You.",
+"chorus": "No one is like You, dearest One.
+You are the most precious Person.
+Jesus, the most desired One!",
+"2": "Bridegroom, Bridegroom, Bridegroom,
+Your bride is calling You.
+Bridegroom, Bridegroom, Bridegroom,
+Your bride just wants You!",
+"chorus": "Most pleasant Person, dear Bridegroom,
+Come quickly soon!
+Most pleasant Person, dear Bridegroom,
+Come quickly soon!",
+"chorus": "You are the most pleasant Person.
+Your bride is waiting, dear Bridegroom.
+Bridegroom, we're calling, please come soon!",
+"3": "Jesus, Jesus, Jesus, the most beautiful!
+Jesus, Jesus, Jesus, the most wonderful!",
+"chorus": "One look at You, Oh glorious One,
+My heart You've won.
+Your touch, dear Lord is wonderful!
+You're wonderful!",
+"chorus": "Jesus, the fairest of the fair!
+No one, dear Lord can e'er compare.
+Jesus, the fairest of the fair!"}

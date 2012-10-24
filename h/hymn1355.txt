@@ -1,0 +1,12 @@
+{"1": "God has forgiven all my sins;
+Behind His back they all are cast.
+He'll never call to mind again
+The sins He vanquished in the past.",
+"chorus": "God has forgiven all my sins,
+And as a gloomy cloud is blown,
+My sins are vanished all away!
+No more will they be seen or known.",
+"2": "My sins were like a heavy stone
+God cast and buried in the sea.
+As east so far from west is thrown,
+My sins have been removed from me!"}

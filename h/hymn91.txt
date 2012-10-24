@@ -1,0 +1,20 @@
+{"1": "It was alone the Savior prayed
+In dark Gethsemane;
+Alone He drained the bitter cup
+And suffered there for me.",
+"chorus": "Alone, alone,
+He bore it all alone;
+He gave Himself to save His own,
+He suffered, bled and died alone, alone.",
+"2": "It was alone the Savior stood
+In Pilate's judgment hall;
+Alone the crown of thorns He wore,
+Forsaken thus by all.",
+"3": "Alone upon the cross He hung
+That others He might save;
+Forsaken then by God and man.
+Alone, His life He gave.",
+"4": "Can you reject such matchless love?
+Can you His claim disown?
+Come, give your all in gratitude,
+Nor leave Him thus alone."}

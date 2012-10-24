@@ -1,0 +1,24 @@
+{"1": "Just one touch as He moves along,
+Pushed and pressed by the jostling throng,
+Just one touch and the weak was strong,
+Cured by the Healer divine.",
+"chorus": "Just one touch as He passes by,
+He will list to the faintest cry.
+Come and be cured while the Lord is nigh,
+Christ is the Healer divine.",
+"2": "Just one touch! and He makes me whole,
+Speaks sweet peace to my sin-sick soul,
+At His feet all my burdens roll,
+Cured by the Healer divine.",
+"3": "Just one touch! and the work is done,
+I am cured by the blessed Son,
+I will sing while the ages run,
+Cured by the Healer divine.",
+"4": "Just one touch! and He turns to me,
+O the love in His eyes I see!
+I am His for He hears my plea,
+Cured by the Healer divine.",
+"5": "Just one touch! by His mighty power
+He can heal thee this very hour,
+Thou canst hear though the tempests low'r,
+Cured by the Healer divine."}

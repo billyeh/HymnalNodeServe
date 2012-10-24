@@ -1,0 +1,12 @@
+{"1": "Is it raining, little flower?
+Oh, be glad of rain!
+Too much sun would wither thee;
+Soon 'twill shine again.
+Though the sky is black, 'tis true,
+Yet behind it shines the blue.",
+"2": "Art thou weary, tender heart?
+Oh, be glad of pain;
+Sweetest things in sorrow grow
+As the flow'rs in rain.
+God is watching, thou'lt have sun
+When the clouds their work have done."}

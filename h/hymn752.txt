@@ -1,0 +1,20 @@
+{"1": "I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+Jehovah-Rapha is My Name:
+For I am the Lord that healeth thee.",
+"2": "I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+Sickness must flee at My command:
+For I am the Lord that healeth thee.",
+"3": "I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+The prayer of faith shall banish disease:
+For I am the Lord that healeth thee.",
+"4": "I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+My Name is still as ointment poured forth:
+For I am the Lord that healeth thee.",
+"5": "I am the Lord that healeth thee,
+I am the Lord that healeth thee;
+Come and be free from all your pains:
+For I am the Lord that healeth thee."}

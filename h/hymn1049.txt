@@ -1,0 +1,32 @@
+{"1": "Drawn to the Cross which Thou hast blest,
+With healing gifts for souls distrest,
+To find in Thee my Life, my Rest,
+Christ crucified, I come.",
+"2": "Stained with the sins which I have wrought
+In word and deed and secret thought;
+For pardon which Thy Blood hath bought,
+Christ crucified, I come.",
+"3": "Weary of selfishness and pride,
+False pleasures gone, vain hopes denied,
+Deep in Thy wounds my shame to hide,
+Christ crucified, I come.",
+"4": "Thou knowest all my griefs and fears,
+Thy grace abused, my misspent years;
+Yet now to Thee, for cleansing tears,
+Christ crucified, I come.",
+"5": "I would not, if I could, conceal
+The ills which only Thou canst heal;
+So to the Cross, where sinners kneel,
+Christ crucified, I come.",
+"6": "Wash me, and take away each stain,
+Let nothing of my sin remain;
+For cleansing, though it be through pain,
+Christ crucified, I come.",
+"7": "To share with Thee Thy life divine,
+Thy very likeness to be mine,
+Since Thou hast made my nature Thine,
+Christ crucified, I come.",
+"8": "To be what Thou wouldst have me be,
+Accepted, sanctified in Thee,
+Through what Thy grace shall work in me,
+Christ crucified, I come."}

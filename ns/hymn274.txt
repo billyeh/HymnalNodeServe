@@ -1,0 +1,18 @@
+{"chorus": "Lord, Thou has been our dwelling place in all generations.
+Before the mountains were brought forth,
+Or ever Thou has formed the earth and the world,
+Even from eternity to eternity,
+Thou art God.",
+"1": "For a thousand years in Thy sight are but yesterday,
+When it is past as a watch in the night.
+So teach us to number our days,
+That we may apply our hearts unto wisdom.",
+"2": "O satisfy us early with Thy mercy,
+That we may rejoice and be glad all our days.
+Make us glad according to the days,
+And the years wherein we have seen evil.",
+"3": "Let Thy work appear unto Thy servants,
+And Thy glory unto their children.
+And let the beauty of the Lord,
+The beauty of the Lord, our God be upon us.
+(Repeat chorus as finale)"}

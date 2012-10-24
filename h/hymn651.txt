@@ -1,0 +1,32 @@
+{"1": "When is the time to trust?
+Is it when all is calm,
+When waves the victor's palm,
+And life is one glad psalm?
+Nay! but the time to trust
+Is when the waves beat high,
+When storm clouds fill the sky,
+And pray'r is one long cry.",
+"2": "When is the time to trust?
+Is it when friends are true?
+Is it when comforts woo
+In all we say and do?
+Nay! but the time to trust
+Is when we stand alone,
+And summer birds have flown,
+And every prop is gone.",
+"3": "When is the time to trust?
+Is it some future day,
+When you have tried your way,
+And learned to trust and pray?
+Nay! but the time to trust
+Is in this moment's need,
+Poor, broken, bruised reed.
+Poor, troubled soul, make speed!",
+"4": "When is the time to trust?
+Is it when hopes beat high,
+When sunshine gilds the sky
+With joy and ecstasy?
+Nay! but the time to trust
+Is when our joy has fled,
+When sorrow bows the head,
+And all is cold and dead."}

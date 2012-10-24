@@ -1,0 +1,15 @@
+{"1": "Nothing can content me more,
+Than Jesus in the morning,
+Echoing the hallways of my heart.
+My eyes from darkness clearly see,
+The love within His smile, for me.
+It's then I know the reason for my life.",
+"chorus": "Jesus, You're my reason for being here,
+Oh, it's so clear; so I sing!",
+"2": "No greater joy can be for me,
+Than turning to Jesus,
+When the shadows of the day begin to haunt me.
+His soft, warm Spirit spreads throughout,
+Quenching all my fear and doubt.
+Jesus is the all-inclusive love.",
+"note": "(Repeat verse 2)"}

@@ -1,0 +1,20 @@
+{"1": "He lives, the great Redeemer lives,
+What joy the blest assurance gives!
+And now, before His Father, God,
+Pleads the full merits of His blood.",
+"2": "Repeated crimes awake our fears,
+And Justice armed with frowns appears;
+But in the Savior's lovely face
+Sweet Mercy smiles, and all is peace.",
+"3": "Hence, then, ye black, despairing thoughts;
+Above our fears, above our faults,
+His mighty intercessions rise,
+And guilt recedes, and terror dies.",
+"4": "In every dark, distressful hour,
+When sin and Satan join their power,
+Let this dear hope repel the dart,
+That Jesus bears us on His heart.",
+"5": "Great Advocate, almighty Friend!
+On Him our humble hopes depend;
+Our cause can never, never fail,
+For Jesus pleads, and must prevail."}

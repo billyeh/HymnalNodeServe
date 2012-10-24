@@ -1,0 +1,20 @@
+{"1": "Years I spent in sorrow 'round the cross,
+Still repenting over sins and dross.
+Then at last the river I did cross,
+To touch the throne.",
+"chorus": "Mercy now is flowing, oh, the grace-
+That I find of Him to run the race!
+Boldly now I come again to taste
+My glorious Lord.",
+"2": "In my Christian life I'd daily fall,
+So I answered every altar-call,
+Till I left the altar, left it all,
+To touch the throne.",
+"3": "Brothers, to the Holiest forward come;
+Leave your sins behind, the race now run.
+Hallelujah! All the work is done-
+The veil is gone!",
+"4": "Now within the veil, enjoying God,
+Manna, law of life, and budding rod;
+Christ Himself, the ark, is our abode-
+Hallelujah!"}

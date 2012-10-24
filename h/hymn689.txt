@@ -1,0 +1,20 @@
+{"1": "O child of the Kingdom in doubt and distress!
+Why linger-thy Father is waiting to bless?
+Assured of the mercy and love of thy Lord,
+Claim each precious promise, take God at His Word!",
+"chorus": "Take God at His Word,
+Take God at His Word!
+Believe every promise,
+Take God at His Word!",
+"2": "Thy pathway through sorrows and trials may go,
+Though deep be the waters, they will not o'erflow;
+Oh, trust in the Savior, His name be adored!
+Confide in His promise, take God at His Word!",
+"3": "He says He will guide thee through sunshine and gloom;
+His presence shall brighten thy path to the throne;
+And down in death's valley His voice shall be heard:
+Fear not, tempted Christian, take God at His Word!",
+"4": "An heir to a kingdom, and promised a crown;
+With God thy protector-oh, why be cast down?
+Oh, think of the triumphs of faith thou hast heard;
+Be not unbelieving, take God at His Word!"}

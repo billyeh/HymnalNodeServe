@@ -1,0 +1,36 @@
+{"1": "O Lord, You've called to us, and Canaan we would win,
+To be Your corporate man and dwell with You therein;
+But how the darkness of this world does hold us in-
+O Lord, appear to us, we pray.",
+"chorus": "O Lord, appear to us today;
+We see this is the only way.
+The idols to forsake
+And Canaan land partake,
+O Lord, appear to us today.",
+"2": "O God of glory, shine; draw and we'll follow You.
+Our strength and motive be, it's nothing we could do.
+Your light attracts us, Lord, 'til all else fades from view-
+O Lord, do shine on us, we pray.",
+"chorus": "O Lord, do shine on us today;
+Till all our background fades away,
+Till You alone we see,
+Shining so gloriously-
+O Lord, do shine on us today.",
+"3": "In Your appearing, Lord, we have Your speaking clear;
+Your word empowers us and drives away all fear.
+So, Lord, keep calling us, Your voice we need to hear.
+O Lord, do speak to us, we pray.",
+"chorus": "O Lord, do speak in us today;
+You know the words You need to say.
+To open all our heart,
+Your very Self impart.
+O Lord, do speak in us today.",
+"4": "O Lord, it's not of us, we've seen it's all of You;
+You are the calling One, Originator too!
+We can receive this call by our beholding You-
+O God of glory, come, we pray.",
+"chorus": "O God of glory, come today;
+We've seen this is the only way
+To answer Your dear call
+That You might be our all-
+O God of glory, come today."}

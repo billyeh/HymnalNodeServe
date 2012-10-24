@@ -1,0 +1,24 @@
+{"1": "We don't care where you come from,
+We don't care where you would go.
+Since we meet in the Lord,
+Let us all meet joyfully.
+Things may come to discourage
+And they leave you somewhat sad;
+Let it all go, let it go!
+And let's sing a melody.",
+"chorus": "Welcome here, our dear friend,
+We're so glad that you have come,
+Here we all love you,
+And the Lord loves you most.
+In the church we need you now,
+Everything here is for you.
+We wait for you to return,
+Just remember that we'll think of you.",
+"2": "Won't you cast off your burdens,
+Put aside all your restraints,
+Sing a song full of joy,
+Breathe in the refreshing air
+Let's enjoy holy feelings
+Savour sweetness and repose 
+Let's bring home peace and this joy
+So we'll never be distressed."}

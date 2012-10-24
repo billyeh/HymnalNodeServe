@@ -1,0 +1,17 @@
+{"chorus": "The mighty God, even the Lord,
+The mighty God, even the Lord,
+Hath spoken, and called the earth
+From the rising of the sun
+Unto the going down thereof.",
+"1": "Out of Zion,
+The perfection of beauty, God hath shined.
+Out of Zion,
+The perfection of beauty, God hath shined.",
+"2": "Our God shall come,
+He shall come and shall not keep silence;
+He shall call
+To the heaven above and to the earth.",
+"3": "Gather my saints
+Gather my saints together unto me.
+And the heavens
+Shall declare His righteousness. Selah."}

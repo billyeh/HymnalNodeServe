@@ -1,0 +1,28 @@
+{"1": "What profit all the labor here?
+There's nothing new for you and me!
+Remember not the former things
+They're all vanity!",
+"chorus": "Vanity! Vanity!
+Vanity! Vanity!
+'Tis chasing the wind
+It's all vanity!",
+"2": "Man's life is full of grief and pain:
+Much wisdom bringeth misery!
+Increasing knowledge addeth woe!
+It's all vanity!",
+"3": "What good our pleasure and our wealth?
+Though joys we have and family
+We'll have our worries just the same!
+It's all vanity!",
+"4": "Days of toil to gain and restless nights:
+Though gained without calamity
+When death comes it is gone for aye!
+It's all vanity!",
+"5": "Remember God in days of youth!
+Fear Him, and such will be your gain!
+With Him you will be satisfied
+For He is not vain!",
+"chorus": "Christ without, all is vain!
+Christ within, all is gain!
+All things are vain
+Christ only is gain!"}

@@ -1,0 +1,24 @@
+{"1": "Thy Holy Spirit, Lord, alone
+Can meet our need today;
+His might alone empow'ring us
+Can bring us neath Thy sway.",
+"chorus": "Thy Spirit of pow'r with might,
+Send in our midst, we pray,
+And come upon each seeking soul;
+Baptize us with power today.",
+"2": "Thy Holy Spirit, Lord, alone
+Can grant us Thy desire;
+His power alone can turn our heart
+And light the sacred fire.",
+"3": "Thy Holy Spirit, Lord, can give
+The gifts we seek to share;
+His pow'r can signs and wonders work
+And stir up holy fear.",
+"4": "Thy Holy Spirit, Lord, can bring
+The show'r we need this hour;
+And while we seek, Lord Jesus, come
+In motivating power.",
+"5": "Thy Spirit of pow'r with might,
+Send in our midst, we pray,
+And like a rushing, mighty wind
+Sweep over our souls today."}

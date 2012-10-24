@@ -1,0 +1,20 @@
+{"1": "'Tis now in part I know His grace;
+I catch sweet glimpses of His face,
+But in that better world of His,
+I shall behold Him as He is.",
+"chorus": "Then shall I know as I am known,
+And sing His praise before the throne;
+Then shall I know as I am known,
+And sing His praise before the throne.",
+"2": "'Tis now in part I know His love;
+Bright sunbeams shine from skies above;
+But glories more exceeding far,
+Shall rise beyond life's evening star.",
+"3": "'Tis now in part I understand
+The leadings of my Father's hand;
+But I shall own His ways were right,
+When welcomed to His presence bright.",
+"4": "'Tis now in part, but O how sweet
+To rest by faith at His dear feet;
+Though now we see as through a glass,
+The veil will lift, the shadows pass."}

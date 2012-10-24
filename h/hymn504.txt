@@ -1,0 +1,16 @@
+{"1": "Jesus, I live to Thee,
+The Loveliest and Best;
+My life in Thee, Thy life in me,
+In Thy blest love I rest.",
+"2": "Jesus, I die to Thee,
+Whenever death shall come;
+To die in Thee is life to me,
+With Thee I'm ever one!",
+"3": "Whether to live or die,
+I know not which is best;
+To live in Thee is bliss to me,
+To die is endless rest.",
+"4": "Living or dying, Lord,
+I ask but to be Thine;
+My life in Thee, Thy life in me,
+Makes Thee forever mine."}

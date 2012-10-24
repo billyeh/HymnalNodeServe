@@ -1,0 +1,15 @@
+{"1": "Turn, turn my heart to You;
+Lord, I confess my heart is untrue.
+Turn, turn my wandering heart;
+Lord, unto me Thy love impart.",
+"chorus": "Lord, I call,
+I call on Thee.
+You're the only One for me!",
+"2": "Rich, rich, He's rich to all,
+Rich unto all that call on His name.
+Rich, rich, He's rich, so call;
+Now and forever, Jesus the same.",
+"3": "Love, love, the love of God
+Flows as a river, full to the brim.
+Love, love, I'm filled with love,
+Crazy in love with Jesus within."}

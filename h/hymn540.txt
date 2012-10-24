@@ -1,0 +1,28 @@
+{"1": "What release the Savior gave me!
+Christ indeed has set me free!
+All the pow'r of sin is broken
+All death's sting is passed from me!",
+"chorus": "Christ has made me more than conqu'ror
+By His mighty victory
+Now His resurrection power,
+From my spirit strengthens me!",
+"2": "From the law Christ has delivered
+To its claims I'm ever dead;
+Nevermore the law shall bind me
+But by grace I'll live instead.",
+"3": "Christ has sin condemned at Calv'ry,
+And its power done away;
+Now it has no ground within me
+I am freed from all its sway.",
+"4": "Death by Him has been abolished
+Incorrupted life is shown;
+Death's enthralling bonds are broken
+Resurrection life is known.",
+"5": "Christ through death has crushed the devil
+World and demons by His might
+From the pow'r of darkness brought me,
+To the realm of life and light.",
+"6": "All-sufficient grace He giveth
+With His pow'r He covers me
+Makes me glory in my weakness,
+And in weakness strengthens me."}

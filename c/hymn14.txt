@@ -1,0 +1,14 @@
+{"chorus": "In the ten commandments God gave us,
+There's a promise found in one:
+If we honor both our parents then
+our days will be made long.",
+"1": "All we think, (all we think!) all we do, (all we do)
+All we choose and all we say,
+We can show our honor for our folks,
+When we cheerfully obey!",
+"2": "Obey! (Obey!) Obey! (Obey!)
+Obey our folks today. (today)
+When we say, "Amen!" we honor them,
+Let's cheerfully obey!",
+"copyright": " 2005 Bible StorySongs, Inc. Used by permission.
+Visit BibleStorySongs.com to order CD's  Sheet Music."}

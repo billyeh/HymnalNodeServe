@@ -1,0 +1,20 @@
+{"1": "Oh, Jesus, Jesus, wonderful Jesus
+Who art enthroned in heav'n above,
+Crowned both with glory and with honor,
+Attract us by Thy charming love.",
+"chorus": "Oh! Jesus, Jesus, most desired,
+Oh! Jesus, Jesus, dearest Lord,
+Thy charming beauty us hath captured,
+We love, we love Thee, precious Lord.",
+"2": "Thy glory is the splendor related
+To Thy dear Person, Jesus Lord;
+While honor is the preciousness
+Related to Thine own great worth.",
+"3": "Thou art, dear Lord, the greatest attraction,
+Within the universe to see,
+And like unto an immense magnet,
+Drawing Thy seekers unto Thee.",
+"4": "Without Thyself, the charming Object,
+How could we from all things turn 'way?
+How could we from so many distractions
+Upon this earth, Lord, look away?"}

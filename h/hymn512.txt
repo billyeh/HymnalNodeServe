@@ -1,0 +1,30 @@
+{"1": "Jesus, Sun and Shield art Thou,
+Sun and Shield forever.
+Never canst Thou cease to shine,
+Cease to guard us, never.
+Cheer our steps as on we go,
+Come between us and the foe.",
+"2": "Jesus, Bread and Wine art Thou,
+Wine and Bread forever.
+Never canst Thou cease to feed
+Or refresh us, never.
+Feed us still on bread divine,
+Drink we still of heavenly wine.",
+"3": "Jesus, Love and Life art Thou,
+Life and Love forever.
+Ne'er to quicken shalt Thou cease,
+Or to love us, never.
+All of life and love we need
+Is in Thee, in Thee indeed.",
+"4": "Jesus, Peace and Joy art Thou,
+Joy and Peace forever.
+Joy that fades not, changes not,
+Peace that leaves us never.
+Joy and Peace we have in Thee
+Now and through eternity.",
+"5": "Jesus, Song and Strength art Thou,
+Strength and Song forever.
+Strength that never can decay,
+Song that ceaseth never.
+Still to us this strength and song,
+Through eternal days prolong."}

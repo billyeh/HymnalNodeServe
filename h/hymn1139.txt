@@ -1,0 +1,21 @@
+{"1": "I will get me to the mountain,
+I will get me to the hill;
+In Thy death and resurrection,
+Jesus, take me deeper still.",
+"chorus": "I will get me to the mountain,
+Willingly would get me there.
+All my self fore'er forsaking,
+One with Thee, O Lord,
+Thy death to share.",
+"2": "Still at times I sense the shadows
+Of my nature, untransformed;
+Lord, I'll go unto the mountain,
+To Thy death to be conformed.",
+"3": "On the mountain till the daybreak,
+Linger I, Lord, thus with Thee,
+May Thy all-transforming Spirit
+Saturate me thoroughly.",
+"4": "Mingled with Thee on the mountain,
+Soon my sun begins to shine;
+Death has worked her deep impression,
+Now my nature's one with Thine."}

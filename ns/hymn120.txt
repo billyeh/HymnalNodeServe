@@ -1,0 +1,12 @@
+{"1": "Seek ye first the kingdom of God
+And His righteousness;
+And all these things shall be added unto you.
+Hallelu, Hallelujah!",
+"2": "Ask, and it shall be given unto you;
+Seek, and you shall find.
+Knock, and it shall be opened unto you.
+Hallelu, Hallelujah!",
+"3": "Man shall not live by bread alone,
+But by every word
+That proceeds out from the mouth of God.
+Hallelu, Hallelujah!"}

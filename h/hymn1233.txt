@@ -1,0 +1,22 @@
+{"1": "O home in the church,
+Where we've ended our search
+With the brothers rejoicing all day;
+Where Christ is our life,
+And we're through with all strife,
+Now we're home, hallelujah, to stay!",
+"chorus": "Home, home in the church;
+Yes, it's here that we've ended our search;
+And through all our days
+We will shout to His praise,
+"Hallelujah for Christ and the church!"",
+"2": "Here God is at rest,
+Of His treasures the best-
+How His heart is rejoicing all day!
+His home is our heart,
+Ne'er for Satan a part,
+Here His glory He'll fully display.",
+"chorus": "God's home is the church;
+Yes, it's here that He ended His search;
+And through all our days
+We will shout to His praise,
+"Hallelujah for Christ and the church!""}

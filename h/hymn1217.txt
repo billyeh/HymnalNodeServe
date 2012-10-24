@@ -1,0 +1,24 @@
+{"1": "Lord, we've heard the call, "Come forward,"
+Unto the most Holy Place,
+To behold shekinah glory
+Shining from Your blessed face.",
+"chorus": "Coming forward to the Holiest,
+Through the incense altar's prayer;
+No more veil of separation,
+We may boldly enter there.",
+"2": "We come forward by a new way,
+Freshly cut and freshly slain,
+To the Holiest of Holies;
+Glorious access we obtain.",
+"3": "We come forward unto our God,
+Who is sitting on the throne;
+He has paved the way to glory
+By His blood and cross alone.",
+"4": "We come forward to the new age,
+With assured heart, true and bold.
+To enjoy th' eternal purpose,
+Ne'er to shrink back to the old.",
+"5": "Praise You, Lord, we've all come forward.
+Now within the Holiest,
+You're our God and we're Your people;
+Here we dwell forever blest."}

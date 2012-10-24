@@ -1,0 +1,24 @@
+{"1": "In the holiest place, touch the throne of grace
+Grace as a river shall flow;
+In the holiest place, touch the throne of grace
+Grace as a river shall flow.",
+"chorus": "Hallelujah! Hallelujah!
+Grace as a river shall flow;
+Hallelujah! Hallelujah!
+Grace as a river shall flow.",
+"2": "In the holiest place, live before His face
+Light of glory thru me will shine;
+In the holiest place, live before His face
+Light of glory thru me will shine.",
+"chorus": "Hallelujah! Hallelujah!
+Light of glory thru me will shine;
+Hallelujah! Hallelujah!
+Light of glory thru me will shine.",
+"3": "To the spirit turn, and the incense burn
+Touch the living fountain of life;
+To the spirit turn, and the incense burn
+Touch the living fountain of life.",
+"4": "Hallelujah! Hallelujah!
+Touch the living fountain of life;
+Hallelujah! Hallelujah!
+Touch the living fountain of life."}

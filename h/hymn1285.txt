@@ -1,0 +1,28 @@
+{"1": "The faith which once for all was giv'n
+Unto the saints of old,
+Has been committed unto us
+To guard, defend, and hold.",
+"chorus": "And we know whom we have believed
+And are persuaded that He is able
+To guard, through the Holy Spirit,
+Our deposit to that day.",
+"2": "This good deposit is the mark
+Of God's economy,
+Without it we will miss the aim
+Of His recovery.",
+"3": "The myst'ry of the common faith,
+A conscience pure requires;
+A holy, separated life
+For us the Lord desires.",
+"4": "This outline of the healthy words,
+In faith and love we'll hold;
+All different teaching, fruitless talk,
+Reject with spirit bold.",
+"5": "Oh, healthful teaching, wholesome words:
+The truth of godliness!
+Oh, good deposit, common faith,
+And life of holiness!",
+"6": "Lord, make us now those faithful men
+Who pass on what we've heard;
+Make us examples of the saints
+In spirit, faith, and word."}

@@ -1,0 +1,20 @@
+{"1": "Once I thought I walked with Jesus,
+Yet such changeful feelings had;
+Sometimes trusting, sometimes doubting,
+Sometimes joyful, sometimes sad.",
+"chorus": "Oh, the peace the Savior gives!
+Peace I never knew before;
+And my way has brighter grown
+Since I've learned to trust Him more.",
+"2": "But He call'd me closer to Him,
+Bade my doubting, fearing, cease;
+And when I had fully yielded,
+Filled my soul with perfect peace.",
+"3": "Now I'm trusting every moment,
+Nothing less can be enough;
+And the Savior bears me gently
+O'er those places once so rough.",
+"4": "Day by day my soul He's keeping
+By His wondrous power within;
+And my heart is full of singing
+To my Savior from all sin."}

@@ -1,0 +1,49 @@
+{"1": "Lord, I have been running so long.
+Now, Lord, I admit I was wrong.
+Oh Lord, finally my heart has been won by You.",
+"chorus": "I love You, Lord. (I love You, Lord.)
+I need You, Lord. (I need You, Lord.)
+I love You, Lord. I need You, Lord.
+I want You, Lord, to be my Lord right now.",
+"2": "I've committed so many sins.
+Lord, how I've heaped up my offense!
+I pray, now in Your precious blood cleanse me, Lord.",
+"chorus": "I love You, Lord. (I love You, Lord).
+I need You, Lord. (I need You, Lord).
+I love You, Lord. I need You, Lord.
+I want You, Lord, to cleanse me, Lord right now.",
+"3": "Lord, I am unworthy indeed.
+You're so full of mercy, I see,
+To save one so rebellious as me, my Lord.",
+"chorus": "I love You, Lord. (I love You, Lord).
+I need You, Lord. (I need You, Lord).
+I love You, Lord. I need You, Lord.
+I want You, Lord, to save me, Lord right now.",
+"4": "Lord, You are the most precious One.
+Oh, You are God's dear beloved Son
+To me such a rich treasure become, dear Lord.",
+"chorus": "I love You, Lord. (I love You, Lord).
+I need You, Lord. (I need You, Lord).
+I love You, Lord. I need You, Lord.
+I want You, Lord, to be my Lord right now.",
+"5": "Lord Jesus, I want to have You.
+Lord, there is none else that will do.
+Lord, come dwell now in me; come into me, Lord.",
+"chorus": "I love You, Lord. (I love You, Lord).
+I need You, Lord. (I need You, Lord).
+I love You, Lord. I need You, Lord.
+I want You, Lord, to dwell in me right now.",
+"6": "Lord, come now and live within me.
+I open my heart's room to be
+Indwelt in every part, Lord, only by You.",
+"chorus": "I love You, Lord. (I love You, Lord).
+I need You, Lord. (I need You, Lord).
+I love You, Lord. I need You, Lord.
+I want You, Lord, to dwell in me right now.",
+"7": "Lord, all that I am I give You.
+Take all that I have just for You.
+Lord, spoil everything else; I want You alone.",
+"chorus": "I love You, Lord. (I love You, Lord).
+I need You, Lord. (I need You, Lord).
+I love You, Lord. I need You, Lord.
+I want You, Lord; I give myself to You."}

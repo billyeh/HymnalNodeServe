@@ -1,0 +1,24 @@
+{"1": "With praise and thanksgiving
+There stands a great throng
+In the presence of Jesus
+And sing this new song.",
+"chorus": "Unto Him Who hath loved us
+And washed us from sin,
+Unto Him be the glory forever!
+Amen!",
+"2": "All these once were sinners,
+Defiled in His sight,
+Now arrayed in pure garments,
+In praise they unite.",
+"3": "He maketh the rebel
+A priest and a king,
+He hath bought us, and taught us
+This new song to sing.",
+"4": "How helpless and hopeless
+We sinners had been,
+If He never had loved us till
+Cleansed from our sin.",
+"5": "Aloud in His praises
+Our voices shall ring,
+So that others, believing,
+This new song shall sing."}

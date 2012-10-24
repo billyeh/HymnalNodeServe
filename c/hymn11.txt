@@ -1,0 +1,20 @@
+{"1": "If you're happy and you know it,
+Clap your hands.
+If you're happy and you know it,
+Clap your hands.
+If you're happy and you know it,
+And you really want to show it,
+If you're happy and you know it,
+Clap your hands.",
+"2": "If you're happy and you know it,
+Stomp your feet.
+(stomp, stomp)",
+"3": "If you're happy and you know it,
+Call, "Oh, Lord".
+(Oh, Lord)",
+"4": "If you're happy and you know it,
+Say, "Amen".
+(Amen)",
+"5": "If you're happy and you know it,
+Do all four.
+(clap, clap; stomp, stomp; Oh, Lord; Amen.)"}

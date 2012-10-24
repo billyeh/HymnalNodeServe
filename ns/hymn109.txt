@@ -1,0 +1,16 @@
+{"chorus": "Lord, there's nothing in this world like You;
+You fill me up completely.
+And I would never give You up for anything
+Because nothing else could satisfy me so.",
+"1": "People think that they can find
+Satisfaction, peace of mind.
+Everything leads to another,
+But I've found the best.",
+"2": "No more trying something else,
+Or thinking that there's something more;
+No more hoping "someday,"
+'Cause today I have the best.",
+"3": "Looking not at failures past,
+Hoping not in future dreams;
+Not wishing I were different,
+Knowing everything's the best."}

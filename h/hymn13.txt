@@ -1,0 +1,36 @@
+{"1": "Thou art love-and Thou art light, Lord
+In the Son as life Thou art;
+Love expressing, light illum'ning
+Thou dost life to us impart.",
+"chorus": "Thou art love! Thou art light!
+In the Son as life Thou art;
+Love expressing, light illum'ning,
+Thou dost life to us impart.",
+"2": "Love bespeaks Thy very being
+What Thou dost is shown by light;
+Love is inward, light is outward
+Love accompanies the light.",
+"3": "Love by grace is manifested
+And the light by truth is shown;
+By Thy love we may enjoy Thee;
+By Thy light Thou, Lord, art known.",
+"4": "Thru Thy love, which led to Calvary
+We receive the life of God;
+Light our understanding opens
+That we may apply the blood.",
+"5": "Thru Thy love, as life Thou enter'st,
+Fellowship with Thee to give;
+Thru Thy light we take Thy cleansing,
+And in fellowship may live.",
+"6": "By the light and blood which cleanses
+The anointing we shall know;
+Then the life of love Thine essence
+More and more in us will flow.",
+"7": "By Thy love we are Thy children
+Abba Father calling Thee;
+Light disperses all our darkness
+Till, like Him, Thy Son, we see.",
+"8": "O what grace! O what truth!
+Love is seen and light is shown!
+We would praise Thee never ceasing
+Thou by love and light art known!"}

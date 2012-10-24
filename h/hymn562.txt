@@ -1,0 +1,20 @@
+{"1": "Abiding, oh, so wondrous sweet,
+I'm resting at the Savior's feet;
+I trust in Him, I'm satisfied,
+I'm resting in the Crucified.",
+"chorus": "Abiding, abiding,
+Oh! so wondrous sweet;
+I'm resting, resting
+At the Savior's feet.",
+"2": "He speaks, and by His word is giv'n
+His peace, a blessed gift of heav'n;
+Not as the world He peace doth give,
+'Tis through this hope my soul shall live.",
+"3": "I live; not I; 'tis He alone
+By whom the mighty work is done;
+Dead to myself, alive to Him,
+I count all loss His rest to gain.",
+"4": "Now rest, my heart, the work is done,
+I'm saved through the Eternal Son;
+Let all my pow'rs my soul employ,
+To tell the world my peace and joy."}

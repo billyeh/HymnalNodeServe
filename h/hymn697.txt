@@ -1,0 +1,25 @@
+{"1": "Weary pilgrim on life's pathway-
+Struggling on beneath thy load-
+Hear these words of consolation,
+"Cast thy burden on the Lord."",
+"chorus": "Cast thy burden on the Lord!
+Cast thy burden on the Lord,
+And He will strengthen thee,
+sustain and comfort thee-
+Cast thy burden on the Lord.",
+"2": "Are thy tired feet unsteady?
+Does thy lamp no light afford?
+Is thy cross too great and heavy?
+"Cast thy burden on the Lord."",
+"3": "Are the ties of friendship severed?
+Hushed the voices fondly heard?
+Breaks thy heart with weight of anguish?
+"Cast thy burden on the Lord."",
+"4": "Does thy heart with faintness falter?
+Does thy mind forget His word?
+Does thy strength succumb to weakness?
+"Cast thy burden on the Lord."",
+"5": "He will hold thee up from falling;
+He will guide thy steps aright;
+He will strengthen each endeavor;
+He will keep thee by His might."}

@@ -1,0 +1,32 @@
+{"1": "My heart was far from You.
+My worship was not true.
+My lips were honoring Thee
+But I was so empty.",
+"chorus": "Lord, help me! Have mercy!
+Lord, now deliver me!
+All else is vanity.
+You are reality!",
+"2": "Traditions are a lie.
+Mere practice can't satisfy.
+No matter how hard you try
+Inside you feel so dry.",
+"chorus": "Lord water me! I'm so thirsty!
+I come to drink of Thee.
+You are the Spirit of life
+To free me from all strive.",
+"3": "The doctrines and the creeds
+Have never met my needs.
+The letters have killed me dead
+My need is Living Bread.",
+"chorus": "Lord, feed me! I'm so hungry!
+I come to eat of Thee.
+Your Person now I can take.
+The Living Word partake.",
+"4": "I need You desperately
+To get You into me!
+I drink You as the Spirit, Lord,
+And eat You in the Word.",
+"chorus": "I'm satisfied! And You're testified!
+There is no lack in Thee.
+You are the river and the tree,
+My feast eternally."}

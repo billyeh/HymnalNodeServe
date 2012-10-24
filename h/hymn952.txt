@@ -1,0 +1,21 @@
+{"1": "A lamp in the night, a song in time of sorrow,
+A great glad hope which faith can ever borrow
+To gild the passing day with the glory of the morrow,
+Is the hope of the coming of the Lord.",
+"chorus": "Blessed hope, blessed hope,
+Blessed hope of the coming of the Lord;
+How the aching heart it cheers;
+How it glistens through our tears,
+Blessed hope of the coming of the Lord.",
+"2": "A star in the sky, a beacon bright to guide us;
+An anchor sure to hold when storms betide us;
+A refuge for the soul, where in quiet we may hide us,
+Is the hope of the coming of the Lord.",
+"3": "A call of command, like trumpet clearly sounding,
+To make us bold when evil is surrounding;
+To stir the sluggish heart, and to keep in goodabounding,
+Is the hope of the coming of the Lord.",
+"4": "A word from the One to all our hearts the dearest,
+A parting word to make Him aye the nearest;
+Of all His precious words, the sweetest, brightest, clearest,
+Is the hope of the coming of the Lord."}
