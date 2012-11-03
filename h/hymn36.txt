@@ -1,16 +1,1 @@
-{"1": "We praise Thee, glorious Father,
-As objects of Thy grace,
-Who for Thine own heart's pleasure
-Are now before Thy face:
-Thy sons marked out for glory
-Known from eternity
-With Christ Thy Well-beloved,
-Object supreme to Thee.",
-"2": "Who else but Thee, O Father,
-Could in Thine only Son
-So bless us with Thy Spirit,
-And have us for Thine own?
-Soon shall we be forever
-With Christ in glory; then
-We'll shine in His blest image
-Eternally, Amen!"}
+["1 We praise Thee, glorious Father,\nAs objects of Thy grace,\nWho for Thine own heart's pleasure\nAre now before Thy face:\nThy sons marked out for glory\nKnown from eternity\nWith Christ Thy Well-beloved,\nObject supreme to Thee.", "2 Who else but Thee, O Father,\nCould in Thine only Son\nSo bless us with Thy Spirit,\nAnd have us for Thine own?\nSoon shall we be forever\nWith Christ in glory; then\nWe'll shine in His blest image\nEternally, Amen!"]

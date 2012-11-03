@@ -1,17 +1,1 @@
-{"1": "Rise up, my love, my beautiful one,
-And come away, for behold, the winter is past,
-The rain is over and gone.
-Flow'rs appear on the earth,
-The time of singing has come,
-And the voice of the turtle dove
-Is heard in our land.
-My beloved is mine,
-And I am His,
-He who feeds His flocks among the lilies.
-'Til the day breaks,
-And the shadows flee away,
-Come my beloved,
-Come my beloved!
-Rise up, my love, my beautiful one
-And come away, for behold, the winter is past,
-The rain is over and gone."}
+["1 Rise up, my love, my beautiful one,\nAnd come away, for behold, the winter is past,\nThe rain is over and gone.\nFlow'rs appear on the earth,\nThe time of singing has come,\nAnd the voice of the turtle dove\nIs heard in our land.\nMy beloved is mine,\nAnd I am His,\nHe who feeds His flocks among the lilies.\n'Til the day breaks,\nAnd the shadows flee away,\nCome my beloved,\nCome my beloved!\nRise up, my love, my beautiful one\nAnd come away, for behold, the winter is past,\nThe rain is over and gone."]

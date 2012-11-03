@@ -1,8 +1,1 @@
-{"1": "Deep in me, Lord, mark Thou Thy holy Cross,
-On motives, choices, private dear desires.
-Let all that self in any form inspires
-Be unto me as dross.",
-"2": "And when Thy touch of death is here and there
-Laid on a thing most precious in mine eyes.
-Let me not wonder, let me recognize
-The answer to my prayer."}
+["1 Deep in me, Lord, mark Thou Thy holy Cross,\nOn motives, choices, private dear desires.\nLet all that self in any form inspires\nBe unto me as dross.", "2 And when Thy touch of death is here and there\nLaid on a thing most precious in mine eyes.\nLet me not wonder, let me recognize\nThe answer to my prayer."]

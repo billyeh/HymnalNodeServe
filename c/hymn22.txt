@@ -1,12 +1,1 @@
-{"1": "All English children call Him, "Lord,"
-And all the Spanish say, "Senor,"
-With all the Germans who call Him, "Herr."
-They are calling His name everywhere.",
-"2": ""O Shuyo," call the Japanese,",
-"O Tju Ah," echo the Chinese,",
-"O Hallelujah," they all exclaim.
-In each land they are praising His Name.",
-"3": "Children are meeting in Brazil,
-Canada, Mexico, Taiwan,
-England, New Zealand, and Germany.
-Hear them all, as they sing joyfully."}
+["1 All English children call Him, \"Lord,\"\nAnd all the Spanish say, \"Senor,\"\nWith all the Germans who call Him, \"Herr.\"\nThey are calling His name everywhere.", "2 \"O Shuyo,\" call the Japanese,\n\"O Tju Ah,\" echo the Chinese,\n\"O Hallelujah,\" they all exclaim.\nIn each land they are praising His Name.", "3 Children are meeting in Brazil,\nCanada, Mexico, Taiwan,\nEngland, New Zealand, and Germany.\nHear them all, as they sing joyfully."]

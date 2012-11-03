@@ -1,8 +1,1 @@
-{"1": "Great is the Lord, and greatly to be praised,
-In the city of our God,
-In the mountain of His holiness.
-Beautiful in elevation, the joy of the whole earth,
-Is Mount Zion, on the sides of the north,
-The city of the great King.
-Is Mount Zion, on the sides of the north,
-The city of the great King."}
+["1 Great is the Lord, and greatly to be praised,\nIn the city of our God,\nIn the mountain of His holiness.\nBeautiful in elevation, the joy of the whole earth,\nIs Mount Zion, on the sides of the north,\nThe city of the great King.\nIs Mount Zion, on the sides of the north,\nThe city of the great King."]

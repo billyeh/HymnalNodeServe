@@ -1,16 +1,1 @@
-{"1": "In the Overcomer's Name
-Be an overcomer too!
-Stand and put the foe to shame
-All the livelong battle through!",
-"2": "Jesus is the Name to sound,
-Name to rally fainting hearts!
-To recapture "forfeit" ground,
-Lost awhile through Satan's arts.",
-"3": "Backward drive the Evil One!
-Force him out of every hold;
-Smite until the sinking sun
-Sets upon the warrior bold!",
-"4": "In the Overcomer's Name
-Be an overcomer too!
-Stand and put the foe to shame
-All the livelong battle through!"}
+["1 In the Overcomer's Name\nBe an overcomer too!\nStand and put the foe to shame\nAll the livelong battle through!", "2 Jesus is the Name to sound,\nName to rally fainting hearts!\nTo recapture \"forfeit\" ground,\nLost awhile through Satan's arts.", "3 Backward drive the Evil One!\nForce him out of every hold;\nSmite until the sinking sun\nSets upon the warrior bold!", "4 In the Overcomer's Name\nBe an overcomer too!\nStand and put the foe to shame\nAll the livelong battle through!"]

@@ -1,9 +1,1 @@
-{"1": "Seek the Lord while He may be found,
-Call upon Him while He is near:
-Let the wicked forsake his way,
-And the unrighteous man his thoughts:
-And let him return to the Lord,
-Unto our God,
-And He will abundantly pardon,
-He will abundantly pardon you-
-Return to the Lord."}
+["1 Seek the Lord while He may be found,\nCall upon Him while He is near:\nLet the wicked forsake his way,\nAnd the unrighteous man his thoughts:\nAnd let him return to the Lord,\nUnto our God,\nAnd He will abundantly pardon,\nHe will abundantly pardon you-\nReturn to the Lord."]

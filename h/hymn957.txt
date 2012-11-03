@@ -1,16 +1,1 @@
-{"1": "Watch! for the morning is breaking,
-A moment, and He will be here!
-The mists and the shadows are fleeing,
-The darkness will soon disappear;
-And He, for whom ages have waited,
-The Lord Who has tarried so long,
-Will come in an outburst of glory,
-A moment, and we shall be gone.",
-"2": "Watch! for the morning is breaking,
-A moment, the crown will be won!
-A moment, and we shall be with Him,
-A moment, the journey is done!
-Lord, keep us each moment unsleeping,
-And count us all worthy to be
-In that noble band of Thy watchers,
-Whose life is a vigil with Thee."}
+["1 Watch! for the morning is breaking,\nA moment, and He will be here!\nThe mists and the shadows are fleeing,\nThe darkness will soon disappear;\nAnd He, for whom ages have waited,\nThe Lord Who has tarried so long,\nWill come in an outburst of glory,\nA moment, and we shall be gone.", "2 Watch! for the morning is breaking,\nA moment, the crown will be won!\nA moment, and we shall be with Him,\nA moment, the journey is done!\nLord, keep us each moment unsleeping,\nAnd count us all worthy to be\nIn that noble band of Thy watchers,\nWhose life is a vigil with Thee."]

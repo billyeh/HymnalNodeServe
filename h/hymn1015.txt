@@ -1,6 +1,1 @@
-{"1": "O glory, glory, what a life,
-I have received today!
-All darkness, death and pow'r of sin,
-Have now been chased away!
-Have now been chased away!
-Have now, have now been chased away!"}
+["1 O glory, glory, what a life,\nI have received today!\nAll darkness, death and pow'r of sin,\nHave now been chased away!\nHave now been chased away!\nHave now, have now been chased away!"]

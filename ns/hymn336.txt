@@ -1,9 +1,1 @@
-{"nonum": "Great is the mystery of godliness,
-Great is the mystery of godliness.
-The church is the pillar and base of the truth,
-The church is the pillar and base of the truth.
-The church is the house of the living God.
-God was manifested in the flesh,
-Justified in the Spirit,
-Seen by angels, preached among the nations,
-Believed on in the world, taken up in glory."}
+["nonum Great is the mystery of godliness,\nGreat is the mystery of godliness.\nThe church is the pillar and base of the truth,\nThe church is the pillar and base of the truth.\nThe church is the house of the living God.\nGod was manifested in the flesh,\nJustified in the Spirit,\nSeen by angels, preached among the nations,\nBelieved on in the world, taken up in glory."]

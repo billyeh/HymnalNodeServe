@@ -1,18 +1,1 @@
-{"1": "He grew up like a tender plant-
-The Son of God,
-And like a root out of dry ground-
-No attracting form
-Nor majesty.",
-"2": "He alone bore the sin of man,
-To save me
-And poured out His life unto death;
-The Lamb of God,
-Oh Jesus Christ!",
-"chorus": "Surely He has borne our sicknesses
-And carried our sorrows.
-He made Himself an offering,
-An offering for sin.
-He was crushed because of our iniquities
-And by His stripes we've been healed.
-He will see the fruit of the travail of His soul.
-The righteous One will make the many righteous."}
+["1 He grew up like a tender plant-\nThe Son of God,\nAnd like a root out of dry ground-\nNo attracting form\nNor majesty.", "2 He alone bore the sin of man,\nTo save me\nAnd poured out His life unto death;\nThe Lamb of God,\nOh Jesus Christ!", "chorus Surely He has borne our sicknesses\nAnd carried our sorrows.\nHe made Himself an offering,\nAn offering for sin.\nHe was crushed because of our iniquities\nAnd by His stripes we've been healed.\nHe will see the fruit of the travail of His soul.\nThe righteous One will make the many righteous."]

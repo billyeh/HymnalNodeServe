@@ -1,16 +1,1 @@
-{"1": "He washed away my sins,
-Gave me a brand new heart;
-A heart to love Him, trust Him,
-Seek Him in His Word.",
-"chorus": "He tells me guard thy heart
-Above all that thou guardest;
-For out of it, flows the springs,
-The springs of life.",
-"2": "He walks with me each day;
-I open up to Him;
-He is my life, my stay,
-And everything I need.",
-"3": "And sometimes when I fail,
-I forget that He's there;
-He's just waiting, watching,
-Then He draws me near."}
+["1 He washed away my sins,\nGave me a brand new heart;\nA heart to love Him, trust Him,\nSeek Him in His Word.", "chorus He tells me guard thy heart\nAbove all that thou guardest;\nFor out of it, flows the springs,\nThe springs of life.", "2 He walks with me each day;\nI open up to Him;\nHe is my life, my stay,\nAnd everything I need.", "3 And sometimes when I fail,\nI forget that He's there;\nHe's just waiting, watching,\nThen He draws me near."]

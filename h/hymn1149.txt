@@ -1,18 +1,1 @@
-{"1": "Of Him whence grace and truth did spring,
-We're at the fountain drinking;
-This Christ we'll ever praise and sing,
-Here in the church, His home!",
-"chorus": "Glory to God! We're at the fountain drinking!
-Glory to God! We're in the church, our home!",
-"2": "Ask but His grace, and lo, 'tis giv'n,
-We're at the fountain drinking;
-Seek but Himself, the heaven of heaven,
-And find Him here at home!",
-"3": "Though Satan fights with all his power,
-We're at the fountain drinking;
-He'll not prevail, not one short hour,
-Against the church, our home!",
-"4": "Athirst we to this spring do fly,
-We're at the fountain drinking;
-Drink deep, this well will not run dry!
-It's in the church, our home!"}
+["1 Of Him whence grace and truth did spring,\nWe're at the fountain drinking;\nThis Christ we'll ever praise and sing,\nHere in the church, His home!", "chorus Glory to God! We're at the fountain drinking!\nGlory to God! We're in the church, our home!", "2 Ask but His grace, and lo, 'tis giv'n,\nWe're at the fountain drinking;\nSeek but Himself, the heaven of heaven,\nAnd find Him here at home!", "3 Though Satan fights with all his power,\nWe're at the fountain drinking;\nHe'll not prevail, not one short hour,\nAgainst the church, our home!", "4 Athirst we to this spring do fly,\nWe're at the fountain drinking;\nDrink deep, this well will not run dry!\nIt's in the church, our home!"]

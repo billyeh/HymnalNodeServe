@@ -1,18 +1,1 @@
-{"1": "Jesus Lord, I long
-For Your embrace
-To taste Your kisses sweeter than wine,
-To know the love that surpasses all time,
-To feel the joy when I am in Your arms,
-Precious One.",
-"2": "Jesus Lord, You died 
-To set me free.
-Now You're my all and my everything;
-I am so lost when I'm not near Thee;
-Sick with love for You I'll ever be,
-Treasured One.",
-"3": "Jesus Lord, I'm charmed
-By Your mercy
-And I rejoice that You've chosen me
-To be with You in eternity
-But until then keep me close to Thee,
-Lovely One."}
+["1 Jesus Lord, I long\nFor Your embrace\nTo taste Your kisses sweeter than wine,\nTo know the love that surpasses all time,\nTo feel the joy when I am in Your arms,\nPrecious One.", "2 Jesus Lord, You died \nTo set me free.\nNow You're my all and my everything;\nI am so lost when I'm not near Thee;\nSick with love for You I'll ever be,\nTreasured One.", "3 Jesus Lord, I'm charmed\nBy Your mercy\nAnd I rejoice that You've chosen me\nTo be with You in eternity\nBut until then keep me close to Thee,\nLovely One."]

@@ -1,12 +1,1 @@
-{"1": "Lord, I've set my heart; Lord, I just love You.
-Beside You I have no other desire.
-Lord, I just like to live You.",
-"chorus": "Lord, I love You because You love me.
-I just like to live You,
-And be under Your instant moment by moment leading.",
-"2": "On the entire earth, in the whole universe,
-I have no int'rest or other desire:
-My desire is only You.",
-"3": "Thank You, dearest Lord; You've predestinated me.
-You've called me and saved me and, Lord, preserved me.
-You have brought me, Lord, to this day."}
+["1 Lord, I've set my heart; Lord, I just love You.\nBeside You I have no other desire.\nLord, I just like to live You.", "chorus Lord, I love You because You love me.\nI just like to live You,\nAnd be under Your instant moment by moment leading.", "2 On the entire earth, in the whole universe,\nI have no int'rest or other desire:\nMy desire is only You.", "3 Thank You, dearest Lord; You've predestinated me.\nYou've called me and saved me and, Lord, preserved me.\nYou have brought me, Lord, to this day."]

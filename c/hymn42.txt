@@ -1,16 +1,1 @@
-{"1": "Remember your Creator
-While you are young,
-As a child, know the Scriptures
-And seek out God's truth.
-Oh, remember your Creator
-While you are young,
-And let Him have a way
-In the days of your youth.",
-"2": "Remember your Creator
-While you are young.
-To remember our Creator
-Means to love Him.
-The Lord is the Creator,
-Our source of life.
-In the days of our youth
-We would love only Him."}
+["1 Remember your Creator\nWhile you are young,\nAs a child, know the Scriptures\nAnd seek out God's truth.\nOh, remember your Creator\nWhile you are young,\nAnd let Him have a way\nIn the days of your youth.", "2 Remember your Creator\nWhile you are young.\nTo remember our Creator\nMeans to love Him.\nThe Lord is the Creator,\nOur source of life.\nIn the days of our youth\nWe would love only Him."]

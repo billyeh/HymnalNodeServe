@@ -1,16 +1,1 @@
-{"1": "Life out of death-dear Master, is it spoken
-Of the life here, or in the better land?
-Nay, wherefore wait? The vessel marred and broken
-Shall now be moulded by the Potter's hand.",
-"2": "Life out of death-oh, wondrous resurrection!
-Seed sown in conscious weakness, raised in power;
-Thy life lived out in days of toil and friction,
-"Not I, but Christ" in me from hour to hour.",
-"3": "Life out of death-a pilgrim path and lonely,
-Trodden by those who glory in the Cross.
-They live in fellowship with "Jesus only,"
-And for His sake count earthly gain but loss.",
-"4": "Life out of death-blest mission to be ever
-Bearing the living water brimming o'er.
-With life abundant from the clear, pure river,
-Telling that thirsty souls need thirst no more."}
+["1 Life out of death-dear Master, is it spoken\nOf the life here, or in the better land?\nNay, wherefore wait? The vessel marred and broken\nShall now be moulded by the Potter's hand.", "2 Life out of death-oh, wondrous resurrection!\nSeed sown in conscious weakness, raised in power;\nThy life lived out in days of toil and friction,\n\"Not I, but Christ\" in me from hour to hour.", "3 Life out of death-a pilgrim path and lonely,\nTrodden by those who glory in the Cross.\nThey live in fellowship with \"Jesus only,\"\nAnd for His sake count earthly gain but loss.", "4 Life out of death-blest mission to be ever\nBearing the living water brimming o'er.\nWith life abundant from the clear, pure river,\nTelling that thirsty souls need thirst no more."]

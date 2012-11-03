@@ -1,8 +1,1 @@
-{"1": "Jesus bids us shine with a clear, pure light,
-Like a little candle burning in the night;
-In this world of darkness, we must shine,
-You in your small corner and I in mine.",
-"2": "Jesus bids us shine, then, for all around
-Many kinds of darkness in this world abound-
-Sin and want and sorrow; we must shine,
-You in your small corner, and I in mine."}
+["1 Jesus bids us shine with a clear, pure light,\nLike a little candle burning in the night;\nIn this world of darkness, we must shine,\nYou in your small corner and I in mine.", "2 Jesus bids us shine, then, for all around\nMany kinds of darkness in this world abound-\nSin and want and sorrow; we must shine,\nYou in your small corner, and I in mine."]

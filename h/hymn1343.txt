@@ -1,10 +1,1 @@
-{"1": "A new commandment
-I give unto you
-That you love one another
-As I have loved you,
-That you love one another
-As I have loved you.
-By this shall all men
-Know you are My disciples
-If you have love one to another.
-note: "(Repeat the last three lines)"}
+["1 A new commandment\nI give unto you\nThat you love one another\nAs I have loved you,\nThat you love one another\nAs I have loved you.\nBy this shall all men\nKnow you are My disciples\nIf you have love one to another.\nnote: \"(Repeat the last three lines)"]

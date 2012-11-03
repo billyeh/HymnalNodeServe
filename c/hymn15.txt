@@ -1,18 +1,1 @@
-{"1": "B-I-B-L-E,
-B-I-B-L-E,
-B-I-B-L-E,
-the B-I-B-L-E,
-Jesus said, It's written
-That a man shall live
-By the Word proceeding
-From the mouth of God.",
-"2": "Not by bread alone,
-But by the Word of God,
-Not by bread alone
-But by the Word of God!
-NO! man cannot live by
-Earthly bread alone;
-YES! we need the words of the
-B-I-B-L-E!",
-"copyright": " 2005 Bible StorySongs, Inc. Used by permission.
-Visit BibleStorySongs.com to order CD's  Sheet Music."}
+["1 B-I-B-L-E,\nB-I-B-L-E,\nB-I-B-L-E,\nthe B-I-B-L-E,\nJesus said, It's written\nThat a man shall live\nBy the Word proceeding\nFrom the mouth of God.", "2 Not by bread alone,\nBut by the Word of God,\nNot by bread alone\nBut by the Word of God!\nNO! man cannot live by\nEarthly bread alone;\nYES! we need the words of the\nB-I-B-L-E!", "copyright  2005 Bible StorySongs, Inc. Used by permission.\nVisit BibleStorySongs.com to order CD's  Sheet Music."]

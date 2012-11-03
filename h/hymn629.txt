@@ -1,15 +1,1 @@
-{"1": "Hast thou no scar?
-No hidden scar on foot, or side, or hand?
-I hear thee sung throughout the land,
-I hear them hail thy shining star,
-Hast thou no scar? no scar?",
-"2": "Hast thou no wound?
-Yet I was wounded by the archers, spent,
-Leaned Me against a tree; and rent
-By ravening beasts 'round Me, I swooned:
-Hast thou no wound? no wound?",
-"3": "No wound? no scar?
-Yet, as the Master shall the servant be,
-And pierced the feet that follow Me;
-But whole? can he have followed far
-Who has no wound nor scar?"}
+["1 Hast thou no scar?\nNo hidden scar on foot, or side, or hand?\nI hear thee sung throughout the land,\nI hear them hail thy shining star,\nHast thou no scar? no scar?", "2 Hast thou no wound?\nYet I was wounded by the archers, spent,\nLeaned Me against a tree; and rent\nBy ravening beasts 'round Me, I swooned:\nHast thou no wound? no wound?", "3 No wound? no scar?\nYet, as the Master shall the servant be,\nAnd pierced the feet that follow Me;\nBut whole? can he have followed far\nWho has no wound nor scar?"]

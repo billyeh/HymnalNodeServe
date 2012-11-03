@@ -1,17 +1,1 @@
-{"1": "Lord, may Thy Wind of heaven blow,
-Upon us here today!
-With stirring and reviving might
-To us Thy pow'r display.",
-"chorus": "Oh, mighty Lord, on us descend.
-Oh, may Thy Spirit blow!
-With power cause us to transcend.
-Grant us the living flow!
-,",
-"2": "With Thy empow'ring Spirit blow,
-And all the barriers break;
-With Thy life-giving Spirit breathe
-That we of Thee partake.",
-"3": "Thy Spirit is of sevenfold wealth
-For us to share of Thee;
-Grant us the full experience of,
-The God in persons Three."}
+["1 Lord, may Thy Wind of heaven blow,\nUpon us here today!\nWith stirring and reviving might\nTo us Thy pow'r display.", "chorus Oh, mighty Lord, on us descend.\nOh, may Thy Spirit blow!\nWith power cause us to transcend.\nGrant us the living flow!\n,", "2 With Thy empow'ring Spirit blow,\nAnd all the barriers break;\nWith Thy life-giving Spirit breathe\nThat we of Thee partake.", "3 Thy Spirit is of sevenfold wealth\nFor us to share of Thee;\nGrant us the full experience of,\nThe God in persons Three."]

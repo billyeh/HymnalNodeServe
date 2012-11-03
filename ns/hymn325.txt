@@ -1,8 +1,1 @@
-{"nonum": "Rejoice in the Lord always;
-And again I say, rejoice.
-Rejoice in the Lord always;
-And again I say, rejoice.",
-"chorus": "Rejoice, rejoice,
-And again I say, rejoice.
-Rejoice, rejoice,
-And again I say, rejoice."}
+["nonum Rejoice in the Lord always;\nAnd again I say, rejoice.\nRejoice in the Lord always;\nAnd again I say, rejoice.", "chorus Rejoice, rejoice,\nAnd again I say, rejoice.\nRejoice, rejoice,\nAnd again I say, rejoice."]

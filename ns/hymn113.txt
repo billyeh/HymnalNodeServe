@@ -1,16 +1,1 @@
-{"1": "Bless me, Lord, with days and nights
-Of talks alone with Thee,
-With hours and minutes, moments too
-That I would thus know Thee.",
-"2": "Bless me with Thy presence sweet,
-For I have naught but Thee;
-Yea, nothing left but Thee Thyself,
-Lord, give Thyself to me.",
-"3": "Bless me with Thy shining light
-And deal with every part.
-That I would unreserved be
-A channel of Thine heart.",
-"4": "Bless Thee, Lord, forevermore;
-Come in these days between
-'Til I one day I am as Thou art
-And Morning Star be seen."}
+["1 Bless me, Lord, with days and nights\nOf talks alone with Thee,\nWith hours and minutes, moments too\nThat I would thus know Thee.", "2 Bless me with Thy presence sweet,\nFor I have naught but Thee;\nYea, nothing left but Thee Thyself,\nLord, give Thyself to me.", "3 Bless me with Thy shining light\nAnd deal with every part.\nThat I would unreserved be\nA channel of Thine heart.", "4 Bless Thee, Lord, forevermore;\nCome in these days between\n'Til I one day I am as Thou art\nAnd Morning Star be seen."]

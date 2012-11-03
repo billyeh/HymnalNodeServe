@@ -1,16 +1,1 @@
-{"1": "What a happy day
-When I no more could turn away,
-When Jesus took my heart from the black of night
-Into the kingdom of His light.",
-"2": "Now my life's begun,
-The "really life" that's in the Son.
-No more am I enthralled by earth's empty dreams;
-Deep in me flows a living stream.",
-"3": "As I turn to Him
-He fills me with His life within.
-His life becomes my life in reality;
-Oh, hallelujah, He's in me!",
-"4": "I just love You, Lord,
-With other loves, You break the cord.
-You'll be my life for all eternity;
-You are the only One for me."}
+["1 What a happy day\nWhen I no more could turn away,\nWhen Jesus took my heart from the black of night\nInto the kingdom of His light.", "2 Now my life's begun,\nThe \"really life\" that's in the Son.\nNo more am I enthralled by earth's empty dreams;\nDeep in me flows a living stream.", "3 As I turn to Him\nHe fills me with His life within.\nHis life becomes my life in reality;\nOh, hallelujah, He's in me!", "4 I just love You, Lord,\nWith other loves, You break the cord.\nYou'll be my life for all eternity;\nYou are the only One for me."]

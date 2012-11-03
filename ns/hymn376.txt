@@ -1,9 +1,1 @@
-{"nonum": "Lord, nothing but Thy smiling presence will satisfy me.
-I do not want anything but the smile of Thy glorious face.
-As long as I have this,
-I care not whether the heaven comes down
-or the earth falls apart.
-The whole world may rise up against me,
-but as long as I have Thy smile upon me,
-I can praise Thee, I can praise Thee,
-and everything is well."}
+["nonum Lord, nothing but Thy smiling presence will satisfy me.\nI do not want anything but the smile of Thy glorious face.\nAs long as I have this,\nI care not whether the heaven comes down\nor the earth falls apart.\nThe whole world may rise up against me,\nbut as long as I have Thy smile upon me,\nI can praise Thee, I can praise Thee,\nand everything is well."]

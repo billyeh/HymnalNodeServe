@@ -1,11 +1,1 @@
-{"chorus": "Lord, keep my heart open and soft toward You.
-Lord, draw my eyes to see nothing else but You.",
-"chorus": "Whatever may happen,
-I know You want to gain my heart.
-Though I may not understand,
-Just keep dispensing into my every part.",
-"chorus": "Make me a believer
-By looking at You.
-Standing on Your Word,
-Faithful and true.",
-"note": "(Parts 1 & 2 may be sung together, then join last verse in unison.)"}
+["chorus Lord, keep my heart open and soft toward You.\nLord, draw my eyes to see nothing else but You.", "chorus Whatever may happen,\nI know You want to gain my heart.\nThough I may not understand,\nJust keep dispensing into my every part.", "chorus Make me a believer\nBy looking at You.\nStanding on Your Word,\nFaithful and true.", "note (Parts 1 & 2 may be sung together, then join last verse in unison.)"]

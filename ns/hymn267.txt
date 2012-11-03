@@ -1,11 +1,1 @@
-{"1": "Now on the last day, (Now on the last day,)
-The great day, (The great day,)
-The day of the feast, (The day of the feast,)
-The day of the feast, (The day of the feast,)
-Jesus stood (Jesus stood)
-And cried out (And cried out)
-If anyone thirsts
-let him come to Me...
-If anyone thirsts, (If anyone thirsts,)
-Let him come to Me (Let him come to Me)
-And drink, and drink, and drink."}
+["1 Now on the last day, (Now on the last day,)\nThe great day, (The great day,)\nThe day of the feast, (The day of the feast,)\nThe day of the feast, (The day of the feast,)\nJesus stood (Jesus stood)\nAnd cried out (And cried out)\nIf anyone thirsts\nlet him come to Me...\nIf anyone thirsts, (If anyone thirsts,)\nLet him come to Me (Let him come to Me)\nAnd drink, and drink, and drink."]

@@ -1,4 +1,1 @@
-{"nonum": "Deep and wide, deep and wide,
-There's a fountain flowing deep and wide.
-Deep and wide, deep and wide,
-There's a fountain flowing deep and wide."}
+["nonum Deep and wide, deep and wide,\nThere's a fountain flowing deep and wide.\nDeep and wide, deep and wide,\nThere's a fountain flowing deep and wide."]

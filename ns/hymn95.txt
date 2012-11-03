@@ -1,10 +1,1 @@
-{"1": "May my day be full of Christ.
-May my words be spoken in Him.
-May my being find rest
-Lying on His sweet breast,
-May my day be full of Christ.",
-"2": "May my mind be filled with His light,
-May my spirit be shining so bright,
-May His life bear much fruit,
-May I be absolute,
-To partake of the living Christ."}
+["1 May my day be full of Christ.\nMay my words be spoken in Him.\nMay my being find rest\nLying on His sweet breast,\nMay my day be full of Christ.", "2 May my mind be filled with His light,\nMay my spirit be shining so bright,\nMay His life bear much fruit,\nMay I be absolute,\nTo partake of the living Christ."]

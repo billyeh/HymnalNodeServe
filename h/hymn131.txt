@@ -1,18 +1,1 @@
-{"1": "O, Jesus, Lord, 'tis joy to know
-Thy path is o'er of shame and woe,
-By Thee so meekly trod.
-All finished is Thy work of toil,
-Thou reapest now the fruit and spoil,
-Exalted by our God.",
-"2": "Thy holy head, once bound with thorns,
-The crown of glory now adorns;
-Thy seat, the Father's throne.
-O Lord, e'en now we sing Thy praise,
-Ours the eternal song to raise,
-Worthy the Lord alone!",
-"3": "We triumph in Thy triumphs, Lord,
-Thy joys our deepest joys afford,
-The fruit of love divine.
-While sorrowing, suff'ring, toiling here,
-How does the thought our spirits cheer,
-The throne of glory's Thine!"}
+["1 O, Jesus, Lord, 'tis joy to know\nThy path is o'er of shame and woe,\nBy Thee so meekly trod.\nAll finished is Thy work of toil,\nThou reapest now the fruit and spoil,\nExalted by our God.", "2 Thy holy head, once bound with thorns,\nThe crown of glory now adorns;\nThy seat, the Father's throne.\nO Lord, e'en now we sing Thy praise,\nOurs the eternal song to raise,\nWorthy the Lord alone!", "3 We triumph in Thy triumphs, Lord,\nThy joys our deepest joys afford,\nThe fruit of love divine.\nWhile sorrowing, suff'ring, toiling here,\nHow does the thought our spirits cheer,\nThe throne of glory's Thine!"]

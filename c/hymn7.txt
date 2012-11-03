@@ -1,12 +1,1 @@
-{"nonum": "Honor, honor, honor, honor,
-Honor, honor, honor!
-Honor, honor, honor, honor,
-Honor, honor, honor!",
-"nonum": "Honor God, honor God!
-Honor all men also.
-Honor God, honor God!
-Honor all men also.",
-"nonum": "Do unto others as you would have them do unto you.
-Do unto others as you would have them do unto you.",
-"copyright": " 2008 Bible StorySongs, Inc. Used by permission.
-Visit BibleStorySongs.com to order CD's  Sheet Music."}
+["nonum Honor, honor, honor, honor,\nHonor, honor, honor!\nHonor, honor, honor, honor,\nHonor, honor, honor!", "nonum Honor God, honor God!\nHonor all men also.\nHonor God, honor God!\nHonor all men also.", "nonum Do unto others as you would have them do unto you.\nDo unto others as you would have them do unto you.", "copyright  2008 Bible StorySongs, Inc. Used by permission.\nVisit BibleStorySongs.com to order CD's  Sheet Music."]

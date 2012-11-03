@@ -1,11 +1,1 @@
-{"1": "My inner parts have yearned for Him;
-To my Beloved I now open;
-My Beloved's gone, He has withdrawn,
-I open but He was gone.",
-"chorus": "I am sick with love, I am sick with love for Him.
-If you find Him, please tell Him that
-I am sick with love for Him.",
-"2": "I sought Him but I found Him not.
-I called Him yet He answered not.
-If you find my love please tell Him that
-I'm sick with love for Him."}
+["1 My inner parts have yearned for Him;\nTo my Beloved I now open;\nMy Beloved's gone, He has withdrawn,\nI open but He was gone.", "chorus I am sick with love, I am sick with love for Him.\nIf you find Him, please tell Him that\nI am sick with love for Him.", "2 I sought Him but I found Him not.\nI called Him yet He answered not.\nIf you find my love please tell Him that\nI'm sick with love for Him."]

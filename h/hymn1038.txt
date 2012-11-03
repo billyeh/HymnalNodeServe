@@ -1,16 +1,1 @@
-{"1": "If you are tired of the load of your sin,
-Let Jesus come into your heart;
-If you desire a new life to begin,
-Let Jesus come into your heart.",
-"chorus": "Just now, your doubtings give o'er;
-Just now, reject Him no more;
-Just now, throw open the door;
-Let Jesus come into your heart.",
-"2": "If 'tis for purity now that you sigh,
-Let Jesus come into your heart;
-Fountains for cleansing are flowing near by,
-Let Jesus come into your heart.",
-"3": "If there's a tempest your voice cannot still,
-Let Jesus come into your heart;
-If there's a void this world never can fill,
-Let Jesus come into your heart."}
+["1 If you are tired of the load of your sin,\nLet Jesus come into your heart;\nIf you desire a new life to begin,\nLet Jesus come into your heart.", "chorus Just now, your doubtings give o'er;\nJust now, reject Him no more;\nJust now, throw open the door;\nLet Jesus come into your heart.", "2 If 'tis for purity now that you sigh,\nLet Jesus come into your heart;\nFountains for cleansing are flowing near by,\nLet Jesus come into your heart.", "3 If there's a tempest your voice cannot still,\nLet Jesus come into your heart;\nIf there's a void this world never can fill,\nLet Jesus come into your heart."]

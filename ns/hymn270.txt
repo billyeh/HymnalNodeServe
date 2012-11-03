@@ -1,16 +1,1 @@
-{"1": "The Lord is the portion of my inheritance,
-And He is my cup.
-The Lord is the portion of my inheritance,
-And He is my cup.",
-"chorus": "Thou wilt show me the path of life;
-Thy presence is fullness of joy.
-At Thy right hand there are pleasures
-Forevermore.",
-"2": "For I have set Jesus forever before me:
-He's at my right hand.
-For I have set Jesus forever before me:
-He's at my right hand.",
-"3": "Therefore is my heart glad, My spirit rejoiceth,
-My flesh rests in hope.
-Therefore is my heart glad, My spirit rejoiceth,
-My flesh rests in hope."}
+["1 The Lord is the portion of my inheritance,\nAnd He is my cup.\nThe Lord is the portion of my inheritance,\nAnd He is my cup.", "chorus Thou wilt show me the path of life;\nThy presence is fullness of joy.\nAt Thy right hand there are pleasures\nForevermore.", "2 For I have set Jesus forever before me:\nHe's at my right hand.\nFor I have set Jesus forever before me:\nHe's at my right hand.", "3 Therefore is my heart glad, My spirit rejoiceth,\nMy flesh rests in hope.\nTherefore is my heart glad, My spirit rejoiceth,\nMy flesh rests in hope."]

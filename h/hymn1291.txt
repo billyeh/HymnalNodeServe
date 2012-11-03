@@ -1,16 +1,1 @@
-{"1": "At the end of Luke's gospel, chapter twenty and two,
-The Lord says to Peter, "Satan wants to sift you,
-But the Lord's interceding and His prayer is true,
-Hallelujah! He's prayed for us, we'll never sift through!",
-"chorus": "Though there's all kinds of battles in our living each day,
-And we always face trials, life is ordered that way,
-Still, in all situations, as He intercedes,
-He in all things supplies us and meets all of our needs.",
-"2": "Just a Christian alone, however strong he may be
-Cannot withstand the sifting of the Lord's enemy;
-Though he might sift one only, yet he'll ne'er sift two,
-Hallelujah! Together we're too big to sift through!",
-"3": "What a wonderful purpose God has purposed for us,
-To be transformed and reigning with His Son, glorious;
-So it just doesn't matter what the foe might do-
-Hallelujah! The church is much too big to sift through!"}
+["1 At the end of Luke's gospel, chapter twenty and two,\nThe Lord says to Peter, \"Satan wants to sift you,\nBut the Lord's interceding and His prayer is true,\nHallelujah! He's prayed for us, we'll never sift through!", "chorus Though there's all kinds of battles in our living each day,\nAnd we always face trials, life is ordered that way,\nStill, in all situations, as He intercedes,\nHe in all things supplies us and meets all of our needs.", "2 Just a Christian alone, however strong he may be\nCannot withstand the sifting of the Lord's enemy;\nThough he might sift one only, yet he'll ne'er sift two,\nHallelujah! Together we're too big to sift through!", "3 What a wonderful purpose God has purposed for us,\nTo be transformed and reigning with His Son, glorious;\nSo it just doesn't matter what the foe might do-\nHallelujah! The church is much too big to sift through!"]

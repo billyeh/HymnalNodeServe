@@ -1,12 +1,1 @@
-{"nonum": "Things which eye has not seen and ear has not heard
-and which have not come up in man's heart;
-things which God has prepared for those who love Him;
-things which God has prepared for those who love Him.",
-"nonum": "But to us God has revealed them through the Spirit,
-for the Spirit searches all things,
-even the depths of God.
-For who among men knows the things of man,
-except the spirit of man which is in him?",
-"nonum": "In the same way, the things of God also
-no one has known except the Spirit of God;
-no one has known except the Spirit of God."}
+["nonum Things which eye has not seen and ear has not heard\nand which have not come up in man's heart;\nthings which God has prepared for those who love Him;\nthings which God has prepared for those who love Him.", "nonum But to us God has revealed them through the Spirit,\nfor the Spirit searches all things,\neven the depths of God.\nFor who among men knows the things of man,\nexcept the spirit of man which is in him?", "nonum In the same way, the things of God also\nno one has known except the Spirit of God;\nno one has known except the Spirit of God."]

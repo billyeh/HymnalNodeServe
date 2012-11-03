@@ -1,16 +1,1 @@
-{"1": "What a fellowship, what a joy divine,
-Leaning on the Everlasting Arms!
-What a blessedness, what a peace is mine,
-Leaning on the Everlasting Arms!",
-"chorus": "Leaning, leaning,
-Safe and secure from all alarms;
-Leaning, leaning,
-Leaning on the Everlasting Arms.",
-"2": "O how sweet to walk in this pilgrim way,
-Leaning on the Everlasting Arms!
-O how bright the path grows from day to day,
-Leaning on the Everlasting Arms!",
-"3": "What have I to dread, what have I to fear,
-Leaning on the Everlasting Arms!
-I have peace complete with my Lord so near,
-Leaning on the Everlasting Arms!"}
+["1 What a fellowship, what a joy divine,\nLeaning on the Everlasting Arms!\nWhat a blessedness, what a peace is mine,\nLeaning on the Everlasting Arms!", "chorus Leaning, leaning,\nSafe and secure from all alarms;\nLeaning, leaning,\nLeaning on the Everlasting Arms.", "2 O how sweet to walk in this pilgrim way,\nLeaning on the Everlasting Arms!\nO how bright the path grows from day to day,\nLeaning on the Everlasting Arms!", "3 What have I to dread, what have I to fear,\nLeaning on the Everlasting Arms!\nI have peace complete with my Lord so near,\nLeaning on the Everlasting Arms!"]

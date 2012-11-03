@@ -1,15 +1,1 @@
-{"nonum": "Oh, the grass will wither and the flower fade,
-But the word will stand forever.
-Oh, the grass will wither and the flower fade,
-But the word will stand forever.
-In the beginning was the Word, the Word in the beginning.
-The Word was with God, and the Word was God,
-The Word in the beginning.
-NOT... A.... jot or a tittle,
-an iota or a serif will fail;
-it stands forever;
-Every jot, every tittle,
-every serif and iota is firm,
-it stands forever!",
-"copyright": " 2007 Bible StorySongs, Inc. Used by permission.
-Visit BibleStorySongs.com to order CD's  Sheet Music."}
+["nonum Oh, the grass will wither and the flower fade,\nBut the word will stand forever.\nOh, the grass will wither and the flower fade,\nBut the word will stand forever.\nIn the beginning was the Word, the Word in the beginning.\nThe Word was with God, and the Word was God,\nThe Word in the beginning.\nNOT... A.... jot or a tittle,\nan iota or a serif will fail;\nit stands forever;\nEvery jot, every tittle,\nevery serif and iota is firm,\nit stands forever!", "copyright  2007 Bible StorySongs, Inc. Used by permission.\nVisit BibleStorySongs.com to order CD's  Sheet Music."]

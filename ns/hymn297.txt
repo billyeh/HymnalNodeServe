@@ -1,16 +1,1 @@
-{"1": "Buried? Yes, but it is seed
-From which Continents may feed;
-Millions yet may bless the day
-When that seed was laid away.",
-"2": "Buried! hidden! out of sight!
-Dwelling in the deepest night;
-Losing, underneath the sod,
-Everything, except its God.",
-"3": "Buried, unremember'd, lost
-So thinks man: "but all the cost
-God has counted to display
-Life abundant one glad day.",
-"4": "Art thou buried? God's pure seed
-Doth thy heart in silence bleed?
-Change thy sighing into song,
-Thus alone can harvests come."}
+["1 Buried? Yes, but it is seed\nFrom which Continents may feed;\nMillions yet may bless the day\nWhen that seed was laid away.", "2 Buried! hidden! out of sight!\nDwelling in the deepest night;\nLosing, underneath the sod,\nEverything, except its God.", "3 Buried, unremember'd, lost\nSo thinks man: \"but all the cost\nGod has counted to display\nLife abundant one glad day.", "4 Art thou buried? God's pure seed\nDoth thy heart in silence bleed?\nChange thy sighing into song,\nThus alone can harvests come."]

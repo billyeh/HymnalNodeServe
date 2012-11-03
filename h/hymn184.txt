@@ -1,12 +1,1 @@
-{"1": "Come, let us sing the song of songs,
-The saints of old began the strain,
-The blessing which to Christ belongs:
-Worthy the Lamb, for He was slain!",
-"2": "Slain to redeem us by His blood,
-To cleanse from every sinful stain;
-And make us kings and priests to God;
-Worthy the Lamb, for He was slain!",
-"3": "Long as we live, and should we die,
-And while in light with Him we reign,
-This song our song of songs shall be:
-Worthy the Lamb, for He was slain!"}
+["1 Come, let us sing the song of songs,\nThe saints of old began the strain,\nThe blessing which to Christ belongs:\nWorthy the Lamb, for He was slain!", "2 Slain to redeem us by His blood,\nTo cleanse from every sinful stain;\nAnd make us kings and priests to God;\nWorthy the Lamb, for He was slain!", "3 Long as we live, and should we die,\nAnd while in light with Him we reign,\nThis song our song of songs shall be:\nWorthy the Lamb, for He was slain!"]

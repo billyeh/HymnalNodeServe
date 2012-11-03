@@ -1,17 +1,1 @@
-{"1": "Oh my Lord, I really love You
-Because You first loved us.
-You so loved us that You gave us,
-Your only begotten Son to save us all.
-Oh my Lord, Your love is divine.
-Oh with love, You sacrifice;
-Went through the pain, went to the cross,
-Shed Your blood that we may have Your salvation, Lord.
-Jesus Lord, the Name I love.
-With true love, I call Your Name.
-'Tis sweet to call, so dear to call.
-You are my Lord, my all in all.
-Jesus Lord, Hallelujah!
-With rejoicing, we praise and call.
-Just call Your Name, Amen! Oh Lord!
-Oh Jesus Lord, You will come,
-Come to us."}
+["1 Oh my Lord, I really love You\nBecause You first loved us.\nYou so loved us that You gave us,\nYour only begotten Son to save us all.\nOh my Lord, Your love is divine.\nOh with love, You sacrifice;\nWent through the pain, went to the cross,\nShed Your blood that we may have Your salvation, Lord.\nJesus Lord, the Name I love.\nWith true love, I call Your Name.\n'Tis sweet to call, so dear to call.\nYou are my Lord, my all in all.\nJesus Lord, Hallelujah!\nWith rejoicing, we praise and call.\nJust call Your Name, Amen! Oh Lord!\nOh Jesus Lord, You will come,\nCome to us."]

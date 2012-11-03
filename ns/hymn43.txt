@@ -1,4 +1,1 @@
-{"chorus": "Lord, I love You, I just want to love You.
-You are my dearest One, my only love.
-O Lord, I love You,
-O Lord, I love You with all my heart."}
+["chorus Lord, I love You, I just want to love You.\nYou are my dearest One, my only love.\nO Lord, I love You,\nO Lord, I love You with all my heart."]

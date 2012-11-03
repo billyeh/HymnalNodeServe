@@ -1,5 +1,1 @@
-{"1": "Pursue Christ,
-Gain Christ,
-Be found in Christ.
-Magnify Christ;
-This is the way to experience Christ."}
+["1 Pursue Christ,\nGain Christ,\nBe found in Christ.\nMagnify Christ;\nThis is the way to experience Christ."]

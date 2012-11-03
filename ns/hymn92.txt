@@ -1,16 +1,1 @@
-{"1": "We'd experience Christ daily,
-Him we would constantly pursue.
-Our pursuing has a purpose
-To build His Body is our view.",
-"chorus": "Occupy us for Your Body.
-Grace supplying, You afford.
-Always bearing, always caring,
-By Your grace we'd be outpoured.",
-"2": "Grant us, Lord, a willing spirit.
-To build Your Body we would strive.
-By our measure we would function,
-Until full grown we'd all arrive.",
-"3": "As the members of His Body,
-Each one is now a life supply.
-Serving Christ to one another,
-In love, His Body built thereby."}
+["1 We'd experience Christ daily,\nHim we would constantly pursue.\nOur pursuing has a purpose\nTo build His Body is our view.", "chorus Occupy us for Your Body.\nGrace supplying, You afford.\nAlways bearing, always caring,\nBy Your grace we'd be outpoured.", "2 Grant us, Lord, a willing spirit.\nTo build Your Body we would strive.\nBy our measure we would function,\nUntil full grown we'd all arrive.", "3 As the members of His Body,\nEach one is now a life supply.\nServing Christ to one another,\nIn love, His Body built thereby."]

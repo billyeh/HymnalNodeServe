@@ -1,8 +1,1 @@
-{"1": "It's no longer I that liveth,
-But Christ that liveth in me.
-It's no longer I that liveth,
-But Christ that liveth in me.
-He lives, He lives,
-Jesus is alive in me!
-It's no longer I that liveth,
-But Christ that liveth in me."}
+["1 It's no longer I that liveth,\nBut Christ that liveth in me.\nIt's no longer I that liveth,\nBut Christ that liveth in me.\nHe lives, He lives,\nJesus is alive in me!\nIt's no longer I that liveth,\nBut Christ that liveth in me."]

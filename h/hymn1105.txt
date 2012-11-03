@@ -1,16 +1,1 @@
-{"1": "Lo, the table spread before us
-With the bread and with the wine:
-Lo, the Savior waiting for us,
-Bidding us to come and dine.
-"Come and dine," the Lord is calling,
-"Sup with Me and I with thee"
-He's prepared for us this table-
-Let us feast abundantly.",
-"2": "We are feasting with our Savior,
-He with us and we with Him;
-Hallelujah, hallelujah!
-Feast of feasts that ne'er will end!
-Eating, drinking with Thyself, Lord,
-We are wholly satisfied.
-Taste we of that glorious banquet
-Thou wilt share with us, Thy Bride."}
+["1 Lo, the table spread before us\nWith the bread and with the wine:\nLo, the Savior waiting for us,\nBidding us to come and dine.\n\"Come and dine,\" the Lord is calling,\n\"Sup with Me and I with thee\"\nHe's prepared for us this table-\nLet us feast abundantly.", "2 We are feasting with our Savior,\nHe with us and we with Him;\nHallelujah, hallelujah!\nFeast of feasts that ne'er will end!\nEating, drinking with Thyself, Lord,\nWe are wholly satisfied.\nTaste we of that glorious banquet\nThou wilt share with us, Thy Bride."]

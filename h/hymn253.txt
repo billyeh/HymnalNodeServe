@@ -1,16 +1,1 @@
-{"1": "Breathe on us, Lord of life,
-Fill us with life anew,
-That we may love what Thou dost love,
-And do what Thou wouldst do.",
-"2": "Breathe on us, Lord of life.
-Until our hearts are pure,
-Until with Thee we will one will,
-To do or to endure.",
-"3": "Breathe on us, Lord of life,
-Till we are wholly Thine,
-Till all this earthly part of us
-Glows with Thy fire divine.",
-"4": "Breathe on us, Lord of life,
-So shall we never die,
-But live with Thee the perfect life
-Of Thine eternity."}
+["1 Breathe on us, Lord of life,\nFill us with life anew,\nThat we may love what Thou dost love,\nAnd do what Thou wouldst do.", "2 Breathe on us, Lord of life.\nUntil our hearts are pure,\nUntil with Thee we will one will,\nTo do or to endure.", "3 Breathe on us, Lord of life,\nTill we are wholly Thine,\nTill all this earthly part of us\nGlows with Thy fire divine.", "4 Breathe on us, Lord of life,\nSo shall we never die,\nBut live with Thee the perfect life\nOf Thine eternity."]

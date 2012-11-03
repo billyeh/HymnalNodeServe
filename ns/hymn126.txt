@@ -1,10 +1,1 @@
-{"1": "Therefore being justified by faith
-We have peace with God
-Through our Lord Jesus Christ",
-"chorus": "Because the love of God is shed abroad
-In our hearts, by the Holy Spirit
-Which is given, which is given
-Unto us, to us, to us.",
-"2": "God hath commended His love toward us
-In that while we were yet sinners
-Christ died for us."}
+["1 Therefore being justified by faith\nWe have peace with God\nThrough our Lord Jesus Christ", "chorus Because the love of God is shed abroad\nIn our hearts, by the Holy Spirit\nWhich is given, which is given\nUnto us, to us, to us.", "2 God hath commended His love toward us\nIn that while we were yet sinners\nChrist died for us."]

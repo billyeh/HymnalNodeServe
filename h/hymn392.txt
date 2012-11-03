@@ -1,18 +1,1 @@
-{"1": "Jesus, Savior, pilot me
-Over life's tempestuous sea;
-Unknown waves before me roll,
-Hiding rock and treach'rous shoal;
-Chart and compass come from Thee;
-Jesus, Savior, pilot me.",
-"2": "As a mother stills her child,
-Thou canst hush the ocean wild;
-Boist'rous waves obey Thy will
-When Thou say'st to them, "Be still."
-Wondrous Sov'reign of the sea,
-Jesus, Savior, pilot me.",
-"3": "Though death's valley I may pass,
-Still Thy grace will fear surpass;
-In Thy presence I will rest,
-And, while leaning on Thy breast,
-I will hear Thee say to me,
-"Fear not, I will pilot thee.""}
+["1 Jesus, Savior, pilot me\nOver life's tempestuous sea;\nUnknown waves before me roll,\nHiding rock and treach'rous shoal;\nChart and compass come from Thee;\nJesus, Savior, pilot me.", "2 As a mother stills her child,\nThou canst hush the ocean wild;\nBoist'rous waves obey Thy will\nWhen Thou say'st to them, \"Be still.\"\nWondrous Sov'reign of the sea,\nJesus, Savior, pilot me.", "3 Though death's valley I may pass,\nStill Thy grace will fear surpass;\nIn Thy presence I will rest,\nAnd, while leaning on Thy breast,\nI will hear Thee say to me,\n\"Fear not, I will pilot thee.\""]

@@ -1,16 +1,1 @@
-{"1": "O blessed, living Lord,
-Engage our hearts with Thee,
-And strike within some answ'ring chord
-To love so rich and free!",
-"2": "To know Thy loving heart!
-To cleave to Thy blest side!
-To gaze upon Thee where Thou art,
-And in Thy love abide!",
-"3": "To walk with Thee below!
-To learn Thy holy ways!
-And more to Thine own stature grow,
-To Thine eternal praise!",
-"4": "Thyself our one Desire!
-Thyself our Object here!
-The goal to which our hearts aspire-
-To meet Thee in the air!"}
+["1 O blessed, living Lord,\nEngage our hearts with Thee,\nAnd strike within some answ'ring chord\nTo love so rich and free!", "2 To know Thy loving heart!\nTo cleave to Thy blest side!\nTo gaze upon Thee where Thou art,\nAnd in Thy love abide!", "3 To walk with Thee below!\nTo learn Thy holy ways!\nAnd more to Thine own stature grow,\nTo Thine eternal praise!", "4 Thyself our one Desire!\nThyself our Object here!\nThe goal to which our hearts aspire-\nTo meet Thee in the air!"]

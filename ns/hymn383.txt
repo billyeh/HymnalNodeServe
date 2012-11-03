@@ -1,11 +1,1 @@
-{"nonum": "These things says the Holy One,
-The true One, the One who has the key of David,
-The One who opens, no one will shut,
-And shuts and no one opens:",
-"nonum": "I know your works;
-Behold, I have put before you an opened door
-Which no one can shut,
-Because you have
-A little power,
-Have kept My word,
-Have not denied My name."}
+["nonum These things says the Holy One,\nThe true One, the One who has the key of David,\nThe One who opens, no one will shut,\nAnd shuts and no one opens:", "nonum I know your works;\nBehold, I have put before you an opened door\nWhich no one can shut,\nBecause you have\nA little power,\nHave kept My word,\nHave not denied My name."]

@@ -1,12 +1,1 @@
-{"1": "No blood, no altar now,
-The sacrifice is o'er!
-No flame, no smoke ascends on high,
-The lamb is slain no more,
-But richer blood has flowed from nobler veins,
-To purge the soul from guilt, and cleanse the reddest stains.",
-"2": "We thank Thee for the blood,
-The blood of Christ, God's Son
-The blood by which our peace is made,
-Redemption great is won,
-Delivering us from hell, and sin, and woe;
-That His eternal life God may to us bestow."}
+["1 No blood, no altar now,\nThe sacrifice is o'er!\nNo flame, no smoke ascends on high,\nThe lamb is slain no more,\nBut richer blood has flowed from nobler veins,\nTo purge the soul from guilt, and cleanse the reddest stains.", "2 We thank Thee for the blood,\nThe blood of Christ, God's Son\nThe blood by which our peace is made,\nRedemption great is won,\nDelivering us from hell, and sin, and woe;\nThat His eternal life God may to us bestow."]

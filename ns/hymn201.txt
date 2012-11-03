@@ -1,16 +1,1 @@
-{"1": "I just keep calling, "O Lord!"
-As I walk along;
-I just keep calling, "O Lord"
-And He gives a song.
-Though the storm clouds darken the sky,
-O'er the upward trail;
-I just keep calling, "O Lord";
-He will never fail.
-He's a faithful friend,
-Such a faithful friend;
-I can count on Him
-To the very end.
-Though the storm clouds darken the sky,
-O'er the upward trail;
-I just keep calling, "O Lord"
-He will never fail."}
+["1 I just keep calling, \"O Lord!\"\nAs I walk along;\nI just keep calling, \"O Lord\"\nAnd He gives a song.\nThough the storm clouds darken the sky,\nO'er the upward trail;\nI just keep calling, \"O Lord\";\nHe will never fail.\nHe's a faithful friend,\nSuch a faithful friend;\nI can count on Him\nTo the very end.\nThough the storm clouds darken the sky,\nO'er the upward trail;\nI just keep calling, \"O Lord\"\nHe will never fail."]

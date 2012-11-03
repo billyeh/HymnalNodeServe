@@ -1,12 +1,1 @@
-{"1": "Ere we depart, we praise Thee, Lord, again,
-For Thy dear presence and Thy living word;
-We are attracted by Thy preciousness
-Our hearts incline to Thee through what we've heard.",
-"2": "Thy word is spirit and is life to us
-By it we're nourished, growing, Lord, in Thee;
-Thus to Thine image we may be transformed
-With Thy full measure to maturity.",
-"3": "Impart Thyself to us, Lord, more and more
-And make us in the spirit walk and move
-That we be kept in fellowship with Thee
-Until we meet again, Thy grace to prove."}
+["1 Ere we depart, we praise Thee, Lord, again,\nFor Thy dear presence and Thy living word;\nWe are attracted by Thy preciousness\nOur hearts incline to Thee through what we've heard.", "2 Thy word is spirit and is life to us\nBy it we're nourished, growing, Lord, in Thee;\nThus to Thine image we may be transformed\nWith Thy full measure to maturity.", "3 Impart Thyself to us, Lord, more and more\nAnd make us in the spirit walk and move\nThat we be kept in fellowship with Thee\nUntil we meet again, Thy grace to prove."]

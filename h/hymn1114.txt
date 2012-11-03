@@ -1,16 +1,1 @@
-{"1": "The Spirit today is the air that we breathe;
-Our spirits rejoice in this living inflow.
-For just as our body the breath does receive,
-So also in spirit to live it is so.",
-"2": "The Spirit today is the air that we breathe;
-What thing more important than breathing to do?
-For breathing each moment, new life we receive,
-And God's living freshness is constant and new.",
-"3": "For God has been processed, as air now, He's free;
-This life-giving pneuma is all that we need.
-He's rich and abundant, so plentiful, He,
-In spirit to walk is to breathe Him indeed.",
-"4": "O, say, aren't you glad that the Spirit's outpoured
-And God, fully processed, is flowing in us?
-So freely we're breathing this life-giving Lord,
-And breathing, receiving His life, glorious!"}
+["1 The Spirit today is the air that we breathe;\nOur spirits rejoice in this living inflow.\nFor just as our body the breath does receive,\nSo also in spirit to live it is so.", "2 The Spirit today is the air that we breathe;\nWhat thing more important than breathing to do?\nFor breathing each moment, new life we receive,\nAnd God's living freshness is constant and new.", "3 For God has been processed, as air now, He's free;\nThis life-giving pneuma is all that we need.\nHe's rich and abundant, so plentiful, He,\nIn spirit to walk is to breathe Him indeed.", "4 O, say, aren't you glad that the Spirit's outpoured\nAnd God, fully processed, is flowing in us?\nSo freely we're breathing this life-giving Lord,\nAnd breathing, receiving His life, glorious!"]

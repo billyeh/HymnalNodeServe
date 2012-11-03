@@ -1,18 +1,1 @@
-{"1": "Lie still, and let Him mould thee!
-Oh, Lord, I would obey;
-Be Thou the skillful Potter,
-And I the yielding clay.",
-"chorus": "Bend me, oh, bend me to Thy will,
-While in Thy hand I'm lying still.",
-"2": "In Thy dear hand I'm resting,
-Oh, hold me quiet there;
-Then soften me and mould me,
-And for Thy will prepare.",
-"3": "I need not fear to trust Thee,
-Thy love and skill are such,
-New lessons Thou wilt teach me,
-While yielding to Thy touch.",
-"4": "Impress Thine image on me,
-Fulfil Thy blest design,
-Till others see upon me
-That beauteous face of Thine."}
+["1 Lie still, and let Him mould thee!\nOh, Lord, I would obey;\nBe Thou the skillful Potter,\nAnd I the yielding clay.", "chorus Bend me, oh, bend me to Thy will,\nWhile in Thy hand I'm lying still.", "2 In Thy dear hand I'm resting,\nOh, hold me quiet there;\nThen soften me and mould me,\nAnd for Thy will prepare.", "3 I need not fear to trust Thee,\nThy love and skill are such,\nNew lessons Thou wilt teach me,\nWhile yielding to Thy touch.", "4 Impress Thine image on me,\nFulfil Thy blest design,\nTill others see upon me\nThat beauteous face of Thine."]

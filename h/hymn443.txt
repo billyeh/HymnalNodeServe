@@ -1,16 +1,1 @@
-{"1": "In full and glad surrender,
-I give myself to Thee,
-Thine utterly and only
-And evermore to be.",
-"2": "O Son of God, who lov'st me,
-I will be Thine alone;
-And all I have and am, Lord,
-Shall henceforth be Thine own!",
-"3": "Reign over me, Lord Jesus;
-Oh, make my heart Thy throne;
-It shall be Thine, dear Savior,
-It shall be Thine alone.",
-"4": "Oh, come and reign, Lord Jesus,
-Rule over everything!
-And keep me always loyal,
-And true to Thee, my King."}
+["1 In full and glad surrender,\nI give myself to Thee,\nThine utterly and only\nAnd evermore to be.", "2 O Son of God, who lov'st me,\nI will be Thine alone;\nAnd all I have and am, Lord,\nShall henceforth be Thine own!", "3 Reign over me, Lord Jesus;\nOh, make my heart Thy throne;\nIt shall be Thine, dear Savior,\nIt shall be Thine alone.", "4 Oh, come and reign, Lord Jesus,\nRule over everything!\nAnd keep me always loyal,\nAnd true to Thee, my King."]

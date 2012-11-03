@@ -1,11 +1,1 @@
-{"nonum": "But to Him who is able
-Able to do superabundantly
-Above all that we ask or think,
-According to the power
-Which operates in us,",
-"nonum": "To Him be the glory in the church
-And in Christ Jesus
-Unto all the generations.
-To Him be the glory,
-To Him be the glory
-Forever and ever. Amen."}
+["nonum But to Him who is able\nAble to do superabundantly\nAbove all that we ask or think,\nAccording to the power\nWhich operates in us,", "nonum To Him be the glory in the church\nAnd in Christ Jesus\nUnto all the generations.\nTo Him be the glory,\nTo Him be the glory\nForever and ever. Amen."]

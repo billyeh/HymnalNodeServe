@@ -1,16 +1,1 @@
-{"1": "God hath not promised skies always blue,
-Flower-strewn pathways all our lives through;
-God hath not promised sun without rain,
-Joy without sorrow, peace without pain.",
-"chorus": "But God hath promised strength for the day,
-Rest for the labor, light for the way,
-Grace for the trials, help from above,
-Unfailing sympathy, undying love.",
-"2": "God hath not promised we shall not know
-Toil and temptation, trouble and woe;
-He hath not told us we shall not bear
-Many a burden, many a care.",
-"3": "God hath not promised smooth roads and wide,
-Swift, easy travel, needing no guide;
-Never a mountain, rocky and steep,
-Never a river, turbid and deep."}
+["1 God hath not promised skies always blue,\nFlower-strewn pathways all our lives through;\nGod hath not promised sun without rain,\nJoy without sorrow, peace without pain.", "chorus But God hath promised strength for the day,\nRest for the labor, light for the way,\nGrace for the trials, help from above,\nUnfailing sympathy, undying love.", "2 God hath not promised we shall not know\nToil and temptation, trouble and woe;\nHe hath not told us we shall not bear\nMany a burden, many a care.", "3 God hath not promised smooth roads and wide,\nSwift, easy travel, needing no guide;\nNever a mountain, rocky and steep,\nNever a river, turbid and deep."]

@@ -1,12 +1,1 @@
-{"nonum": "For I'm persuaded to believe
-Nothing can separate us
-From the wonderful love of God;
-For the Lord who has called us
-According to His purpose
-Works all things together for good;
-Neither height, nor depth,
-Nor principalities,
-Things present, nor things to come,
-Though the devil hates us,
-He can never separate us
-From the wonderful love of God."}
+["nonum For I'm persuaded to believe\nNothing can separate us\nFrom the wonderful love of God;\nFor the Lord who has called us\nAccording to His purpose\nWorks all things together for good;\nNeither height, nor depth,\nNor principalities,\nThings present, nor things to come,\nThough the devil hates us,\nHe can never separate us\nFrom the wonderful love of God."]

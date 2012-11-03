@@ -1,12 +1,1 @@
-{"1": "Marching on, marching on, in the Spirit
-marching on;
-Hallelujah! the churches march on.
-Marching on, marching on, in the Spirit
-marching on;
-Hallelujah! the churches march on.
-In the church we see
-The Lord's recovery
-And for it the Spirit seven-strong.
-The world will know,
-Wherever we shall go,
-That in our age the Lord's marching on!"}
+["1 Marching on, marching on, in the Spirit\nmarching on;\nHallelujah! the churches march on.\nMarching on, marching on, in the Spirit\nmarching on;\nHallelujah! the churches march on.\nIn the church we see\nThe Lord's recovery\nAnd for it the Spirit seven-strong.\nThe world will know,\nWherever we shall go,\nThat in our age the Lord's marching on!"]

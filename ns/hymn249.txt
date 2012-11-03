@@ -1,16 +1,1 @@
-{"1": "God's intention is for Christ
-To be wrought into His chosen people
-That they may become the sons of God
-For His corporate expression.",
-"2": "We need to be rescued
-Out of the present evil age
-By the revelation of God's Son in us.",
-"3": "To live the Christian life
-Is to live the processed Triune God
-As the consummated Spirit.",
-"4": "God's goal is the divine sonship
-For His corporate expression
-As the household of the faith,
-The new creation, and the Israel of God;
-As the household of the faith,
-The new creation, and the Israel of God."}
+["1 God's intention is for Christ\nTo be wrought into His chosen people\nThat they may become the sons of God\nFor His corporate expression.", "2 We need to be rescued\nOut of the present evil age\nBy the revelation of God's Son in us.", "3 To live the Christian life\nIs to live the processed Triune God\nAs the consummated Spirit.", "4 God's goal is the divine sonship\nFor His corporate expression\nAs the household of the faith,\nThe new creation, and the Israel of God;\nAs the household of the faith,\nThe new creation, and the Israel of God."]

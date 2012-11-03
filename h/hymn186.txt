@@ -1,18 +1,1 @@
-{"1": "Glory be to Him who loved us,
-Washed us from each sinful stain;
-Glory be to Him who made us
-Priests and kings with Him to reign;
-Glory, worship, laud and blessing
-To the Lamb who once was slain.",
-"2": "Glory, worship, laud and blessing,
-Thus the choir triumphant sings;
-Honor, riches, power, dominion,
-Thus its praise creation brings;
-Thou art worthy, Thou art worthy,
-Lord of lords, and King of kings.",
-"3": "Glory to the King of angels,
-Glory to the Church's King,
-Glory to the King of nations,
-Heaven and earth His praises sing;
-Glory ever and forever
-To the King of Glory bring."}
+["1 Glory be to Him who loved us,\nWashed us from each sinful stain;\nGlory be to Him who made us\nPriests and kings with Him to reign;\nGlory, worship, laud and blessing\nTo the Lamb who once was slain.", "2 Glory, worship, laud and blessing,\nThus the choir triumphant sings;\nHonor, riches, power, dominion,\nThus its praise creation brings;\nThou art worthy, Thou art worthy,\nLord of lords, and King of kings.", "3 Glory to the King of angels,\nGlory to the Church's King,\nGlory to the King of nations,\nHeaven and earth His praises sing;\nGlory ever and forever\nTo the King of Glory bring."]

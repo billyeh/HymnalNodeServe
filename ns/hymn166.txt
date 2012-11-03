@@ -1,16 +1,1 @@
-{"1": "Fallen, in her condition
-Israel left her Love.
-She was stubborn in her position-
-To God she would not come.
-Under the Lord's chastising
-She was an unturned cake.
-But Jehovah, with love unchanging
-Makes Israel His own son-a change to make.",
-"2": "You became a man-
-Cord of love to me.
-I am drawn with loving bands
-And embraced by Thee.
-From the heavens came,
-You stepped out of eternity,
-Died and rose as a man
-That You could impart Your life to me."}
+["1 Fallen, in her condition\nIsrael left her Love.\nShe was stubborn in her position-\nTo God she would not come.\nUnder the Lord's chastising\nShe was an unturned cake.\nBut Jehovah, with love unchanging\nMakes Israel His own son-a change to make.", "2 You became a man-\nCord of love to me.\nI am drawn with loving bands\nAnd embraced by Thee.\nFrom the heavens came,\nYou stepped out of eternity,\nDied and rose as a man\nThat You could impart Your life to me."]

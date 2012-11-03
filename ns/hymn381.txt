@@ -1,10 +1,1 @@
-{"nonum": "I am the living bread, which came down out of heaven;
-If anyone, if anyone eats of this bread he shall live forever;",
-"nonum": "And the bread (and the bread)
-Which I will (which I)
-Will give is my flesh,
-given for (given for)
-for the life (for the)
-life of the world.",
-"nonum": "I am the living bread, which came down out of heaven;
-If anyone, if anyone eats of this bread he shall live forever."}
+["nonum I am the living bread, which came down out of heaven;\nIf anyone, if anyone eats of this bread he shall live forever;", "nonum And the bread (and the bread)\nWhich I will (which I)\nWill give is my flesh,\ngiven for (given for)\nfor the life (for the)\nlife of the world.", "nonum I am the living bread, which came down out of heaven;\nIf anyone, if anyone eats of this bread he shall live forever."]

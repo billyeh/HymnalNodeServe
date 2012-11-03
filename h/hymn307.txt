@@ -1,16 +1,1 @@
-{"1": "On Calvary's brow my Savior died
-'Twas there my Lord was crucified;
-'Twas on the cross He bled for me,
-And purchased there my pardon free.",
-"chorus": "O Calvary! dark Calvary!
-Where Jesus shed His blood for me;
-O Calvary! blest Calvary!
-'Twas there my Savior died for me.",
-"2": "'Mid rending rocks and darkening skies
-My Savior bows His head and dies;
-The opening veil reveals the way
-To life divine and endless day.",
-"3": "O Jesus, Lord, how can it be
-That Thou shouldst give Thy life for me,
-To bear the cross and agony
-In that dread hour on Calvary!"}
+["1 On Calvary's brow my Savior died\n'Twas there my Lord was crucified;\n'Twas on the cross He bled for me,\nAnd purchased there my pardon free.", "chorus O Calvary! dark Calvary!\nWhere Jesus shed His blood for me;\nO Calvary! blest Calvary!\n'Twas there my Savior died for me.", "2 'Mid rending rocks and darkening skies\nMy Savior bows His head and dies;\nThe opening veil reveals the way\nTo life divine and endless day.", "3 O Jesus, Lord, how can it be\nThat Thou shouldst give Thy life for me,\nTo bear the cross and agony\nIn that dread hour on Calvary!"]

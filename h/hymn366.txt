@@ -1,18 +1,1 @@
-{"1": "Christ, whose glory fills the skies
-Christ, the true, the only Light,
-Sun of Righteousness, arise,
-Triumph o'er the shades of night;
-Dayspring from on high, be near,
-Daystar, in my heart appear.",
-"2": "Dark and cheerless is the morn
-Unaccompanied by Thee;
-Joyless is the day's return,
-Till Thy mercy's beams I see,
-Till Thou inward light impart,
-Glad my eyes, and warm my heart.",
-"3": "Visit then this soul of mine,
-Pierce the gloom of sin and grief;
-Fill me, Radiancy divine,
-Scatter all my unbelief;
-More and more Thyself display,
-Shining to the perfect day."}
+["1 Christ, whose glory fills the skies\nChrist, the true, the only Light,\nSun of Righteousness, arise,\nTriumph o'er the shades of night;\nDayspring from on high, be near,\nDaystar, in my heart appear.", "2 Dark and cheerless is the morn\nUnaccompanied by Thee;\nJoyless is the day's return,\nTill Thy mercy's beams I see,\nTill Thou inward light impart,\nGlad my eyes, and warm my heart.", "3 Visit then this soul of mine,\nPierce the gloom of sin and grief;\nFill me, Radiancy divine,\nScatter all my unbelief;\nMore and more Thyself display,\nShining to the perfect day."]

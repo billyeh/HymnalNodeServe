@@ -1,9 +1,1 @@
-{"1": "Having been regenerated
-Not of corruptible seed but of incorruptible.
-Through the living and abiding word of God;
-Through the living and abiding word of God.",
-"2": "As newborn babes long for the
-Guileless milk of the word
-That by it you may grow unto
-Salvation...
-(Repeat stanza 1)"}
+["1 Having been regenerated\nNot of corruptible seed but of incorruptible.\nThrough the living and abiding word of God;\nThrough the living and abiding word of God.", "2 As newborn babes long for the\nGuileless milk of the word\nThat by it you may grow unto\nSalvation...\n(Repeat stanza 1)"]

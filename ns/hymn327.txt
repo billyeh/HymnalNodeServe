@@ -1,5 +1,1 @@
-{"nonum": "But you, O man of God, flee these things,
-And pursue righteousness, godliness, faith,
-Love, endurance, meekness.
-Fight the good fight of the faith;
-Lay hold on the eternal life, to which you were called."}
+["nonum But you, O man of God, flee these things,\nAnd pursue righteousness, godliness, faith,\nLove, endurance, meekness.\nFight the good fight of the faith;\nLay hold on the eternal life, to which you were called."]

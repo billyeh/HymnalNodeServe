@@ -1,13 +1,1 @@
-{"1": "Matthew, the gospel of Jesus, the Christ, who
-Came as the King to establish His kingdom.
-Recommended and anointed, tested,
-Tried, and still rejected,
-Jesus, kingly Savior!
-His ministry, parables,
-Healing, authority,
-Crucifixion, then rising in vict'ry:
-Sowed He forth the kingdom seed,
-He's coming back some day to reap it!
-Jesus, King of Kings!",
-"copyright": " 2006 Bible StorySongs, Inc. Used by permission.
-Visit BibleStorySongs.com to order CD's  Sheet Music."}
+["1 Matthew, the gospel of Jesus, the Christ, who\nCame as the King to establish His kingdom.\nRecommended and anointed, tested,\nTried, and still rejected,\nJesus, kingly Savior!\nHis ministry, parables,\nHealing, authority,\nCrucifixion, then rising in vict'ry:\nSowed He forth the kingdom seed,\nHe's coming back some day to reap it!\nJesus, King of Kings!", "copyright  2006 Bible StorySongs, Inc. Used by permission.\nVisit BibleStorySongs.com to order CD's  Sheet Music."]

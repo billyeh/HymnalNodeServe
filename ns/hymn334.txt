@@ -1,4 +1,1 @@
-{"nonum": "Emmanuel, Emmanuel,
-His name is called Emmanuel.
-God with us, revealed in us,
-His name is called Emmanuel."}
+["nonum Emmanuel, Emmanuel,\nHis name is called Emmanuel.\nGod with us, revealed in us,\nHis name is called Emmanuel."]

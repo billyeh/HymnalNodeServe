@@ -1,16 +1,1 @@
-{"chorus": "Lord, there's nothing in this world like You;
-You fill me up completely.
-And I would never give You up for anything
-Because nothing else could satisfy me so.",
-"1": "People think that they can find
-Satisfaction, peace of mind.
-Everything leads to another,
-But I've found the best.",
-"2": "No more trying something else,
-Or thinking that there's something more;
-No more hoping "someday,"
-'Cause today I have the best.",
-"3": "Looking not at failures past,
-Hoping not in future dreams;
-Not wishing I were different,
-Knowing everything's the best."}
+["chorus Lord, there's nothing in this world like You;\nYou fill me up completely.\nAnd I would never give You up for anything\nBecause nothing else could satisfy me so.", "1 People think that they can find\nSatisfaction, peace of mind.\nEverything leads to another,\nBut I've found the best.", "2 No more trying something else,\nOr thinking that there's something more;\nNo more hoping \"someday,\"\n'Cause today I have the best.", "3 Looking not at failures past,\nHoping not in future dreams;\nNot wishing I were different,\nKnowing everything's the best."]

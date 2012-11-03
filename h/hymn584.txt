@@ -1,14 +1,1 @@
-{"1": "Anywhere with Jesus I can safely go,
-Anywhere He leads me in this world below.
-Anywhere without Him, dearest joys would fade;
-Anywhere with Jesus I am not afraid.",
-"chorus": "Anywhere! anywhere! Fear I cannot know.
-Anywhere with Jesus I can safely go.",
-"2": "Anywhere with Jesus I am not alone,
-Other friends may fail me, He is still my own.
-Though His hand may lead me over dreary way,
-Anywhere with Jesus is a house of praise.",
-"3": "Anywhere with Jesus I can go to sleep,
-When the darkling shadows round about me creep
-Knowing I shall waken never more to roam,
-Anywhere with Jesus will be home, sweet home."}
+["1 Anywhere with Jesus I can safely go,\nAnywhere He leads me in this world below.\nAnywhere without Him, dearest joys would fade;\nAnywhere with Jesus I am not afraid.", "chorus Anywhere! anywhere! Fear I cannot know.\nAnywhere with Jesus I can safely go.", "2 Anywhere with Jesus I am not alone,\nOther friends may fail me, He is still my own.\nThough His hand may lead me over dreary way,\nAnywhere with Jesus is a house of praise.", "3 Anywhere with Jesus I can go to sleep,\nWhen the darkling shadows round about me creep\nKnowing I shall waken never more to roam,\nAnywhere with Jesus will be home, sweet home."]

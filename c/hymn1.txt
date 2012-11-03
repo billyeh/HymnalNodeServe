@@ -1,12 +1,1 @@
-{"1": "Praise Him, praise Him, all ye little children,
-God is love, God is love;
-Praise Him, praise Him, all ye little children,
-God is love, God is love.",
-"2": "Love Him, love Him, all ye little children,
-God is love, God is love;
-Love Him, love Him, all ye little children,
-God is love, God is love.",
-"3": "Thank Him, thank Him, all ye little children,
-God is love, God is love;
-Thank Him, thank Him, all ye little children,
-God is love, God is love."}
+["1 Praise Him, praise Him, all ye little children,\nGod is love, God is love;\nPraise Him, praise Him, all ye little children,\nGod is love, God is love.", "2 Love Him, love Him, all ye little children,\nGod is love, God is love;\nLove Him, love Him, all ye little children,\nGod is love, God is love.", "3 Thank Him, thank Him, all ye little children,\nGod is love, God is love;\nThank Him, thank Him, all ye little children,\nGod is love, God is love."]

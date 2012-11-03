@@ -1,12 +1,1 @@
-{"1": "Lord, I am continually with Thee:
-Thou hast holden me by my right hand,
-Thou shalt guide me-
-Thou shalt guide me with Thy counsel,
-And afterward receive me-
-Receive me to glory.",
-"2": "Whom have I in heaven but Thee?
-And there is none upon the earth
-That I desire beside Thee.
-My flesh and my heart faileth;
-But God is the strength of my heart,
-And my portion forever."}
+["1 Lord, I am continually with Thee:\nThou hast holden me by my right hand,\nThou shalt guide me-\nThou shalt guide me with Thy counsel,\nAnd afterward receive me-\nReceive me to glory.", "2 Whom have I in heaven but Thee?\nAnd there is none upon the earth\nThat I desire beside Thee.\nMy flesh and my heart faileth;\nBut God is the strength of my heart,\nAnd my portion forever."]

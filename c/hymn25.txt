@@ -1,10 +1,1 @@
-{"1": "He's the serving Savior, (Yes, He is!)
-Comes to all the people (Everywhere)
-Full of deep compassion
-And sympathy! (What a Savior)",
-"2": "Oh, what open love (to the needy ones)
-Lots of tender love (to the little ones)
-To the leprous one said,
-I am willing, be clean! (and He touched Him!)",
-"copyright": " 2012 Bible StorySongs, Inc. Used by permission.
-Visit BibleStorySongs.com to order CD's  Sheet Music."}
+["1 He's the serving Savior, (Yes, He is!)\nComes to all the people (Everywhere)\nFull of deep compassion\nAnd sympathy! (What a Savior)", "2 Oh, what open love (to the needy ones)\nLots of tender love (to the little ones)\nTo the leprous one said,\nI am willing, be clean! (and He touched Him!)", "copyright  2012 Bible StorySongs, Inc. Used by permission.\nVisit BibleStorySongs.com to order CD's  Sheet Music."]

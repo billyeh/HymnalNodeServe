@@ -1,17 +1,1 @@
-{"1": "I want to be filled
-with the Triune God.
-He makes me happy;
-I want to be filled with Him.
-(Repeat)",
-"chorus": "So I will drink, drink, drink, drink, drink
-that living water,
-And I will eat, eat, eat, eat, eat
-the tree of life,
-And I will call upon His name,
-O Lord Jesus!
-'cause I want to be filled
-up, up, up
-Oh, I want to be filled
-up, up, up
-Yes, I want to be filled
-up, up, up with Him."}
+["1 I want to be filled\nwith the Triune God.\nHe makes me happy;\nI want to be filled with Him.\n(Repeat)", "chorus So I will drink, drink, drink, drink, drink\nthat living water,\nAnd I will eat, eat, eat, eat, eat\nthe tree of life,\nAnd I will call upon His name,\nO Lord Jesus!\n'cause I want to be filled\nup, up, up\nOh, I want to be filled\nup, up, up\nYes, I want to be filled\nup, up, up with Him."]

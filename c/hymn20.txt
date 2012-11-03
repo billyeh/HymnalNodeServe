@@ -1,10 +1,1 @@
-{"nonum": "I wanna be good ground!
-I wanna be good ground!
-I wanna be good ground,
-So God's Word can grow in me!",
-"nonum": "I'm gonna break up that hard ground,
-I'm gonna dig up those rocks,
-Lord, I'm gonna pull out those thorns
-So God's Word can grow in me!",
-"copyright": " 2006 Bible StorySongs, Inc. Used by permission.
-Visit BibleStorySongs.com to order CD's  Sheet Music."}
+["nonum I wanna be good ground!\nI wanna be good ground!\nI wanna be good ground,\nSo God's Word can grow in me!", "nonum I'm gonna break up that hard ground,\nI'm gonna dig up those rocks,\nLord, I'm gonna pull out those thorns\nSo God's Word can grow in me!", "copyright  2006 Bible StorySongs, Inc. Used by permission.\nVisit BibleStorySongs.com to order CD's  Sheet Music."]

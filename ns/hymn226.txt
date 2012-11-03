@@ -1,7 +1,1 @@
-{"1": "I love You, Lord Jesus!
-I love, You, Lord, Precious One!
-No other one compares to You!
-(Repeat)",
-"chorus": "Jesus, Lord Jesus,
-Dear Lord, most lovely One,
-No one compares to You!"}
+["1 I love You, Lord Jesus!\nI love, You, Lord, Precious One!\nNo other one compares to You!\n(Repeat)", "chorus Jesus, Lord Jesus,\nDear Lord, most lovely One,\nNo one compares to You!"]

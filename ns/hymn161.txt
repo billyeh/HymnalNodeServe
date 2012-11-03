@@ -1,16 +1,1 @@
-{"1": "I've found the One who's all to me;
-He's become reality.
-Now He's in my life to stay;
-He is the truth, the life, the way.",
-"chorus": "And Jesus is the One who came
-Down to earth to bear our shame,
-But that's not all, He lives in me.
-Once I was blind, but now I see.",
-"2": "Now through His life we have the flow,
-Showing us the way to go;
-Keeping us in unity,
-And this is His recovery.",
-"3": "Now Jesus is the Lord of all;
-On His name we all must call.
-Then our spirits find release,
-And thus our hearts have found real peace."}
+["1 I've found the One who's all to me;\nHe's become reality.\nNow He's in my life to stay;\nHe is the truth, the life, the way.", "chorus And Jesus is the One who came\nDown to earth to bear our shame,\nBut that's not all, He lives in me.\nOnce I was blind, but now I see.", "2 Now through His life we have the flow,\nShowing us the way to go;\nKeeping us in unity,\nAnd this is His recovery.", "3 Now Jesus is the Lord of all;\nOn His name we all must call.\nThen our spirits find release,\nAnd thus our hearts have found real peace."]

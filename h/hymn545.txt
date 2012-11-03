@@ -1,18 +1,1 @@
-{"1": "When this passing world is done,
-When has sunk yon glaring sun,
-When we stand with Christ on high,
-Looking o'er life's history;
-Then, Lord, shall I fully know,
-Not till then, how much I owe.",
-"2": "When I stand before the throne
-Dressed in beauty not my own,
-When I see Thee as Thou art,
-Love Thee with unsinning heart;
-Then, Lord, shall I fully know,
-Not till then, how much I owe.",
-"3": "E'en on earth, as through a glass
-Darkly, let Thy glory pass;
-Make forgiveness feel so sweet;
-Make Thy Spirit's help so meet:
-E'en on earth, Lord, make me know
-Something of how much I owe."}
+["1 When this passing world is done,\nWhen has sunk yon glaring sun,\nWhen we stand with Christ on high,\nLooking o'er life's history;\nThen, Lord, shall I fully know,\nNot till then, how much I owe.", "2 When I stand before the throne\nDressed in beauty not my own,\nWhen I see Thee as Thou art,\nLove Thee with unsinning heart;\nThen, Lord, shall I fully know,\nNot till then, how much I owe.", "3 E'en on earth, as through a glass\nDarkly, let Thy glory pass;\nMake forgiveness feel so sweet;\nMake Thy Spirit's help so meet:\nE'en on earth, Lord, make me know\nSomething of how much I owe."]

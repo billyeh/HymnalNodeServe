@@ -1,8 +1,1 @@
-{"nonum": "What, know ye not that your body
-Is a vessel for the Lord?
-What, know ye not that your body
-Is a vessel for the Lord?
-And we are not our own,
-We have been formed for our Maker.
-We are not our own,
-We belong to God."}
+["nonum What, know ye not that your body\nIs a vessel for the Lord?\nWhat, know ye not that your body\nIs a vessel for the Lord?\nAnd we are not our own,\nWe have been formed for our Maker.\nWe are not our own,\nWe belong to God."]

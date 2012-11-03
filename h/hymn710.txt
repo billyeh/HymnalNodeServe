@@ -1,16 +1,1 @@
-{"1": "The days may yet grow darker,
-The nights more weary grow,
-And Jesus may still tarry,
-But this one thing I know:
-The Lord will still grow dearer,
-And fellowship will be
-The closer and the sweeter
-Between my Lord and me.",
-"2": "'Tis our dear Lord we wait for,
-Our Hope! our Joy! our Friend!
-Himself we long to welcome,
-And just beyond the bend
-Hidden, perchance to meet us
-Before the day is done,
-The waiting will be over
-And rest will have begun."}
+["1 The days may yet grow darker,\nThe nights more weary grow,\nAnd Jesus may still tarry,\nBut this one thing I know:\nThe Lord will still grow dearer,\nAnd fellowship will be\nThe closer and the sweeter\nBetween my Lord and me.", "2 'Tis our dear Lord we wait for,\nOur Hope! our Joy! our Friend!\nHimself we long to welcome,\nAnd just beyond the bend\nHidden, perchance to meet us\nBefore the day is done,\nThe waiting will be over\nAnd rest will have begun."]

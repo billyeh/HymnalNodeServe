@@ -1,16 +1,1 @@
-{"1": "Today the Savior calls;
-Ye wand'rers come:
-O ye benighted souls!
-Why longer roam?",
-"2": "Today the Savior calls;
-O hear Him now!
-Before your day is gone,
-To Jesus bow.",
-"3": "Today the Savior calls;
-For refuge fly;
-The storm of vengeance falls,
-And death is nigh.",
-"4": "The Spirit calls today;
-Yield to His pow'r;
-O grieve Him not away,
-'Tis mercy's hour!"}
+["1 Today the Savior calls;\nYe wand'rers come:\nO ye benighted souls!\nWhy longer roam?", "2 Today the Savior calls;\nO hear Him now!\nBefore your day is gone,\nTo Jesus bow.", "3 Today the Savior calls;\nFor refuge fly;\nThe storm of vengeance falls,\nAnd death is nigh.", "4 The Spirit calls today;\nYield to His pow'r;\nO grieve Him not away,\n'Tis mercy's hour!"]

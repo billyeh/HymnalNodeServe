@@ -1,18 +1,1 @@
-{"1": "In Matthew's house and at his table,
-Jesus was there to eat with all the sinners.
-Strong ones don't need a physician,
-He came for those who are ill.",
-"chorus": "Then Jesus went to visit,
-To teach and preach and heal.
-To shepherd all the lost ones,
-Compassion He did feel.",
-"2": "In Matthew's house and at his table,
-Jesus was there to eat with all the sinners.
-Strong ones don't need a physician,
-He came for those who are ill.",
-"3": "Jesus said to His disciples:
-The harvest is great but the workers are so few!
-Pray to the Lord of the harvest
-To send out workers, yes, do!",
-"copyright": " 2006 Bible StorySongs, Inc. Used by permission.
-Visit BibleStorySongs.com to order CD's  Sheet Music."}
+["1 In Matthew's house and at his table,\nJesus was there to eat with all the sinners.\nStrong ones don't need a physician,\nHe came for those who are ill.", "chorus Then Jesus went to visit,\nTo teach and preach and heal.\nTo shepherd all the lost ones,\nCompassion He did feel.", "2 In Matthew's house and at his table,\nJesus was there to eat with all the sinners.\nStrong ones don't need a physician,\nHe came for those who are ill.", "3 Jesus said to His disciples:\nThe harvest is great but the workers are so few!\nPray to the Lord of the harvest\nTo send out workers, yes, do!", "copyright  2006 Bible StorySongs, Inc. Used by permission.\nVisit BibleStorySongs.com to order CD's  Sheet Music."]

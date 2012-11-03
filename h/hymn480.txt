@@ -1,16 +1,1 @@
-{"1": "Joined unto Christ the Conqueror,
-His Calv'ry triumph, too,
-Assures me in the darkest hour
-That He will take me through.",
-"2": "Joined unto Christ the risen Lord,
-Triumphant now above;
-The glory of His cross reveals
-Magnificence of love.",
-"3": "Joined unto Christ's full victory,
-Magnificently free;
-Declare it in the conquering name,
-And powers of darkness flee.",
-"4": "Joined unto Christ! Magnificent!
-His wondrous Calvary plan,
-Draws us through ages to adore;
-For "Worthy is the Lamb.""}
+["1 Joined unto Christ the Conqueror,\nHis Calv'ry triumph, too,\nAssures me in the darkest hour\nThat He will take me through.", "2 Joined unto Christ the risen Lord,\nTriumphant now above;\nThe glory of His cross reveals\nMagnificence of love.", "3 Joined unto Christ's full victory,\nMagnificently free;\nDeclare it in the conquering name,\nAnd powers of darkness flee.", "4 Joined unto Christ! Magnificent!\nHis wondrous Calvary plan,\nDraws us through ages to adore;\nFor \"Worthy is the Lamb.\""]

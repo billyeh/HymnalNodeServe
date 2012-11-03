@@ -1,11 +1,1 @@
-{"1": "Jesus won't You come, won't You come, won't You come,
-We say to our Bridegroom come.
-Jesus won't You come, won't You come, won't You come,
-We say to our Bridegroom come.",
-"2": "Blend us all us one, all as one
-That we will be a Bride that matches You perfectly.
-Make us all to be, all to be, all to be
-The expression of Your glory.",
-"chorus": "Oh, our love!
-We know You are longing for Your Bride!
-Lord, we long that Your heart's desire would be satisfied."}
+["1 Jesus won't You come, won't You come, won't You come,\nWe say to our Bridegroom come.\nJesus won't You come, won't You come, won't You come,\nWe say to our Bridegroom come.", "2 Blend us all us one, all as one\nThat we will be a Bride that matches You perfectly.\nMake us all to be, all to be, all to be\nThe expression of Your glory.", "chorus Oh, our love!\nWe know You are longing for Your Bride!\nLord, we long that Your heart's desire would be satisfied."]

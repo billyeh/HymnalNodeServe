@@ -1,16 +1,1 @@
-{"1": "When all around my sky is falling
-And fear and doubt run deep in my heart,
-It's in these times I'm on You calling,
-Opening to You, Lord, my deepest part.",
-"chorus": "Oh, Lord Jesus!
-How I love You!
-And I need You
-All the time.
-Ahh, to touch You
-In my weakness,
-And to hold You,
-Savior mine.",
-"2": "Lord, by Your mercy You consume me.
-It's all according to God's plan.
-By resurrection life renew me,
-Day by day, my inner man."}
+["1 When all around my sky is falling\nAnd fear and doubt run deep in my heart,\nIt's in these times I'm on You calling,\nOpening to You, Lord, my deepest part.", "chorus Oh, Lord Jesus!\nHow I love You!\nAnd I need You\nAll the time.\nAhh, to touch You\nIn my weakness,\nAnd to hold You,\nSavior mine.", "2 Lord, by Your mercy You consume me.\nIt's all according to God's plan.\nBy resurrection life renew me,\nDay by day, my inner man."]

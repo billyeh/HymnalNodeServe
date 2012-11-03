@@ -1,17 +1,1 @@
-{"1": "Keep up the song of faith,
-However dark the night;
-And as you praise, the Lord will work
-To change your faith to sight.",
-"2": "Keep up the song of faith,
-And let your heart be strong,
-For God delights when faith can praise
-Though dark the night and long.",
-"3": "Keep up the song of faith,
-The foe will hear and flee;
-Oh, let not Satan hush your song,
-For praise is victory.",
-"4": "Keep up the song of faith,
-The dawn will break ere long,
-And we shall go to meet the Lord,
-And join the endless song.
-note: "(Repeat the last line of each stanza)"}
+["1 Keep up the song of faith,\nHowever dark the night;\nAnd as you praise, the Lord will work\nTo change your faith to sight.", "2 Keep up the song of faith,\nAnd let your heart be strong,\nFor God delights when faith can praise\nThough dark the night and long.", "3 Keep up the song of faith,\nThe foe will hear and flee;\nOh, let not Satan hush your song,\nFor praise is victory.", "4 Keep up the song of faith,\nThe dawn will break ere long,\nAnd we shall go to meet the Lord,\nAnd join the endless song.\nnote: \"(Repeat the last line of each stanza)"]

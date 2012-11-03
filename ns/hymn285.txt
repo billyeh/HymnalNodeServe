@@ -1,15 +1,1 @@
-{"1": "As we become the same as Christ
-In life, nature, expression, and function,
-We are qualified to work with Him
-For His Body.",
-"2": "As we trust in the Lord helplessly,
-Depend on Him as our love and strength,
-And listen to His speaking,
-Our hope is to be raptured
-Through the redemption of our body.",
-"chorus": "And our prayer is-",
-"Come, Lord Jesus!"
-And our prayer is-",
-"Come, Lord Jesus!"",
-"Come, Lord Jesus!
-Lord Jesus, come!""}
+["1 As we become the same as Christ\nIn life, nature, expression, and function,\nWe are qualified to work with Him\nFor His Body.", "2 As we trust in the Lord helplessly,\nDepend on Him as our love and strength,\nAnd listen to His speaking,\nOur hope is to be raptured\nThrough the redemption of our body.", "chorus And our prayer is-", \"Come, Lord Jesus!\"\nAnd our prayer is-", \"Come, Lord Jesus!\"", \"Come, Lord Jesus!\nLord Jesus, come!\""]

@@ -1,12 +1,1 @@
-{"nonum": "O Lord, I love You,
-I really love You,
-Without You life's really nothing.
-You are so attracting,
-And You are so charming;
-Your riches are unsearchable.
-Your name's so dear and sweet,
-Calling makes one satisfied,
-Now You are mine and I am Thine, Lord;
-Joined and mingled with You,
-God-man incorporation,
-Foretaste of the New Jerusalem."}
+["nonum O Lord, I love You,\nI really love You,\nWithout You life's really nothing.\nYou are so attracting,\nAnd You are so charming;\nYour riches are unsearchable.\nYour name's so dear and sweet,\nCalling makes one satisfied,\nNow You are mine and I am Thine, Lord;\nJoined and mingled with You,\nGod-man incorporation,\nForetaste of the New Jerusalem."]

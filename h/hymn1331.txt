@@ -1,16 +1,1 @@
-{"1": "Just taste and see that the Lord is good;
-Just taste and see that the Lord is good.
-He's good for You, as He is for me;
-So whatever you do, just taste and see.",
-"2": "Just call O Lord-He'll change your life;
-Just call O Lord He'll change your life.
-Amazing grace He will afford;
-If in every place You call O Lord.",
-"3": "You'll feel real love coming into your heart;
-You'll feel real love coming into your heart.
-You'll sense a flow from God above;
-And You will know you've found real love.",
-"4": "So praise the Lord for His life in you;
-Yes, praise the Lord for His life in you.
-Something of Christ He has outpoured
-Into your life; so praise the Lord!"}
+["1 Just taste and see that the Lord is good;\nJust taste and see that the Lord is good.\nHe's good for You, as He is for me;\nSo whatever you do, just taste and see.", "2 Just call O Lord-He'll change your life;\nJust call O Lord He'll change your life.\nAmazing grace He will afford;\nIf in every place You call O Lord.", "3 You'll feel real love coming into your heart;\nYou'll feel real love coming into your heart.\nYou'll sense a flow from God above;\nAnd You will know you've found real love.", "4 So praise the Lord for His life in you;\nYes, praise the Lord for His life in you.\nSomething of Christ He has outpoured\nInto your life; so praise the Lord!"]

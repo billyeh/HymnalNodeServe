@@ -1,17 +1,1 @@
-{"chorus": "Thou art my Beloved,
-The most lovely Beloved,
-My heart and my soul are
-Seeking after Thee;
-Thou art my Beloved,
-The most lovely Beloved,
-My heart I open wide to Thee.",
-"chorus": "Come now! Fill me! With Thy Spirit!
-Fill up this vessel! I belong to Thee!
-Come now! Fill me! With Thy Spirit!
-That I Your expression may be!",
-"chorus": "Come and fill me, Lord, to the brim!
-Yes, Lord, even me!
-Capture me, never let me win!
-Come and fill me, Lord, to the brim!
-Overflow in me!
-Overcome in me!"}
+["chorus Thou art my Beloved,\nThe most lovely Beloved,\nMy heart and my soul are\nSeeking after Thee;\nThou art my Beloved,\nThe most lovely Beloved,\nMy heart I open wide to Thee.", "chorus Come now! Fill me! With Thy Spirit!\nFill up this vessel! I belong to Thee!\nCome now! Fill me! With Thy Spirit!\nThat I Your expression may be!", "chorus Come and fill me, Lord, to the brim!\nYes, Lord, even me!\nCapture me, never let me win!\nCome and fill me, Lord, to the brim!\nOverflow in me!\nOvercome in me!"]

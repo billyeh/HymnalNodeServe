@@ -1,8 +1,1 @@
-{"1": "The spirit of the prophet
-Is subject to the prophet;
-The word declares it so.
-I don't have to wait for an inspiration,
-My spirit is ready to go.
-I don't have to live according to my feelings,
-Or wait for a better day.
-I can turn, I can call, "Lord Jesus!""}
+["1 The spirit of the prophet\nIs subject to the prophet;\nThe word declares it so.\nI don't have to wait for an inspiration,\nMy spirit is ready to go.\nI don't have to live according to my feelings,\nOr wait for a better day.\nI can turn, I can call, \"Lord Jesus!\""]

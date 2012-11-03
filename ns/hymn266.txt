@@ -1,13 +1,1 @@
-{"1": "I will sing of the mercies of the Lord forever,
-I will sing, I will sing;
-What a mercy that I am in the church forever;
-I will sing of the mercies of the Lord.",
-"chorus": "With my mouth will I make known
-Thy faithfulness, Thy faithfulness,
-With my mouth will I make known
-Thy faithfulness to all generations.",
-"2": "I will sing of the mercies of the Lord forever,
-I will sing, I will sing;
-What a mercy that I am in the church forever;
-I will sing of the mercies of the Lord.
-(Do not repeat chorus)"}
+["1 I will sing of the mercies of the Lord forever,\nI will sing, I will sing;\nWhat a mercy that I am in the church forever;\nI will sing of the mercies of the Lord.", "chorus With my mouth will I make known\nThy faithfulness, Thy faithfulness,\nWith my mouth will I make known\nThy faithfulness to all generations.", "2 I will sing of the mercies of the Lord forever,\nI will sing, I will sing;\nWhat a mercy that I am in the church forever;\nI will sing of the mercies of the Lord.\n(Do not repeat chorus)"]

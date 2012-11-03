@@ -1,15 +1,1 @@
-{"nonum: "Blessing and honor and glory be Thine,
-And glory be Thine,
-And glory be Thine.
-Blessing and honor and glory be Thine,
-Both now and evermore.
-Praise Him! Praise Him!
-All ye saints adore Him.
-Praise Him! Praise Him!
-Both now and evermore.
-Hallelujah!
-Blessing and honor and glory be Thine,
-And glory be Thine,
-And glory be Thine,
-Blessing and honor and glory be Thine,
-Both now and evermore."}
+["nonum: \"Blessing and honor and glory be Thine,\nAnd glory be Thine,\nAnd glory be Thine.\nBlessing and honor and glory be Thine,\nBoth now and evermore.\nPraise Him! Praise Him!\nAll ye saints adore Him.\nPraise Him! Praise Him!\nBoth now and evermore.\nHallelujah!\nBlessing and honor and glory be Thine,\nAnd glory be Thine,\nAnd glory be Thine,\nBlessing and honor and glory be Thine,\nBoth now and evermore."]

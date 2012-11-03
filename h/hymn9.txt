@@ -1,6 +1,1 @@
-{"1": "Glory be to God the Father,
-Glory be to God the Son,
-Glory be to God the Spirit,
-Great Jehovah, Three in One!
-As it was, is now, and shall be
-While the endless ages run."}
+["1 Glory be to God the Father,\nGlory be to God the Son,\nGlory be to God the Spirit,\nGreat Jehovah, Three in One!\nAs it was, is now, and shall be\nWhile the endless ages run."]

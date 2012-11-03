@@ -1,12 +1,1 @@
-{"1": "Jesus, Thou alone art worthy
-Ceaseless praises to receive;
-For Thy love and grace and goodness
-Rise o'er all our thoughts conceive.",
-"2": "With adoring heart, we render
-Honor to Thy precious name,
-Overflowing with Thy mercies,
-Far and wide Thy worth proclaim.",
-"3": "Praise Him! praise Him! praise the Savior!
-Saints, aloud your voices raise,
-Praise Him! praise Him! till in glory
-Perfected we'll sing His praise."}
+["1 Jesus, Thou alone art worthy\nCeaseless praises to receive;\nFor Thy love and grace and goodness\nRise o'er all our thoughts conceive.", "2 With adoring heart, we render\nHonor to Thy precious name,\nOverflowing with Thy mercies,\nFar and wide Thy worth proclaim.", "3 Praise Him! praise Him! praise the Savior!\nSaints, aloud your voices raise,\nPraise Him! praise Him! till in glory\nPerfected we'll sing His praise."]

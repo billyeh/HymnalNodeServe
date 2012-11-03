@@ -1,18 +1,1 @@
-{"1": "From pray'r that asks that I may be
-Sheltered from winds that beat on Thee,
-From fearing when I should aspire,
-From falt'ring when I should climb high'r,
-From silken self, O Captain, free
-Thy soldier who would follow Thee.",
-"2": "From subtle love of softening things,
-From easy choices, weakenings,
-(Not thus are spirits fortified,
-Not this way went the Crucified),
-From all that dims Thy Calvary,
-O Lamb of God, deliver me.",
-"3": "Give me the love that leads the way,
-The faith that nothing can dismay,
-The hope no disappointments tire,
-The passion that will burn like fire,
-Let me not sink to be a clod:
-Make me Thy fuel, O flame of God."}
+["1 From pray'r that asks that I may be\nSheltered from winds that beat on Thee,\nFrom fearing when I should aspire,\nFrom falt'ring when I should climb high'r,\nFrom silken self, O Captain, free\nThy soldier who would follow Thee.", "2 From subtle love of softening things,\nFrom easy choices, weakenings,\n(Not thus are spirits fortified,\nNot this way went the Crucified),\nFrom all that dims Thy Calvary,\nO Lamb of God, deliver me.", "3 Give me the love that leads the way,\nThe faith that nothing can dismay,\nThe hope no disappointments tire,\nThe passion that will burn like fire,\nLet me not sink to be a clod:\nMake me Thy fuel, O flame of God."]

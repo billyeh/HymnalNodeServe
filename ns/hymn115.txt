@@ -1,7 +1,1 @@
-{"1": "Good morning, Lord Jesus,
-Thank You for today.
-Thank You for my spirit,
-Thank You I can pray.
-Good morning, Lord Jesus,
-To You I love to sing.
-Thank You, Lord, for everything."}
+["1 Good morning, Lord Jesus,\nThank You for today.\nThank You for my spirit,\nThank You I can pray.\nGood morning, Lord Jesus,\nTo You I love to sing.\nThank You, Lord, for everything."]

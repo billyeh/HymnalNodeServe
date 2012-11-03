@@ -1,14 +1,1 @@
-{"1": "The Christian life is a life,
-A life of living Christ
-For the constitution and building up
-Of the Body of Christ;
-The Christian life is a life of living Christ.",
-"2": "We need to work out our own salvation
-By obeying the inner operating God.
-We need to be conformed to the mold of Christ's death
-By the power of His resurrection that we may attain
-To the out resurrection from the dead.",
-"3": "The Christian life is a life,
-A life full of Christ
-As forbearance but without anxiety;
-The Christian life is a life full of Christ."}
+["1 The Christian life is a life,\nA life of living Christ\nFor the constitution and building up\nOf the Body of Christ;\nThe Christian life is a life of living Christ.", "2 We need to work out our own salvation\nBy obeying the inner operating God.\nWe need to be conformed to the mold of Christ's death\nBy the power of His resurrection that we may attain\nTo the out resurrection from the dead.", "3 The Christian life is a life,\nA life full of Christ\nAs forbearance but without anxiety;\nThe Christian life is a life full of Christ."]

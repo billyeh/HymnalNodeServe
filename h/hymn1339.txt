@@ -1,18 +1,1 @@
-{"1": "Behold how good and how pleasant it is,
-For brethren to dwell together in unity!
-Behold how good and how pleasant it is,
-For brethren to dwell together in unity!",
-"chorus": "It is like the precious ointment upon the head,
-That ran down upon the beard,
-Even Aaron's beard:
-That went down to the skirts of his garments.",
-"2": "Behold how good and how pleasant it is,
-For brethren to dwell together in unity!",
-"chorus": "It is like the precious ointment upon the head,
-That ran down upon the beard,
-Even Aaron's beard:
-That went down to the skirts of his garments.",
-"3": "As the dew of Hermon, And as the dew that descended
-Upon the mountains of Zion:
-For there the Lord commanded the blessing,
-Even life forevermore."}
+["1 Behold how good and how pleasant it is,\nFor brethren to dwell together in unity!\nBehold how good and how pleasant it is,\nFor brethren to dwell together in unity!", "chorus It is like the precious ointment upon the head,\nThat ran down upon the beard,\nEven Aaron's beard:\nThat went down to the skirts of his garments.", "2 Behold how good and how pleasant it is,\nFor brethren to dwell together in unity!", "chorus It is like the precious ointment upon the head,\nThat ran down upon the beard,\nEven Aaron's beard:\nThat went down to the skirts of his garments.", "3 As the dew of Hermon, And as the dew that descended\nUpon the mountains of Zion:\nFor there the Lord commanded the blessing,\nEven life forevermore."]

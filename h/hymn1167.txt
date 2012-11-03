@@ -1,16 +1,1 @@
-{"1": "Laboring on the good land, laboring in the morning,
-Laboring through the noontime to the early eve,
-Laboring for a harvest, reaping all the produce,
-Coming to the meeting, bringing in the sheaves.",
-"chorus": "Bringing in the sheaves, bringing in the sheaves,
-Here we are rejoicing, bringing in the sheaves!
-Bringing in the sheaves, bringing in the sheaves,
-Here we are rejoicing, bringing in the sheaves!",
-"2": "Reaping wheat and barley, death and resurrection,
-Though the loss sustained our old man often grieves;
-But in life abundant, life in resurrection,
-Coming to the meeting, bringing in the sheaves.",
-"3": "Grain and wine and oil-bringing in the surplus
-Of the wheat and barley, vine and olive trees:
-Wine to cause rejoicing, oil to give anointing,
-Bringing in the top tenth, bringing in the sheaves."}
+["1 Laboring on the good land, laboring in the morning,\nLaboring through the noontime to the early eve,\nLaboring for a harvest, reaping all the produce,\nComing to the meeting, bringing in the sheaves.", "chorus Bringing in the sheaves, bringing in the sheaves,\nHere we are rejoicing, bringing in the sheaves!\nBringing in the sheaves, bringing in the sheaves,\nHere we are rejoicing, bringing in the sheaves!", "2 Reaping wheat and barley, death and resurrection,\nThough the loss sustained our old man often grieves;\nBut in life abundant, life in resurrection,\nComing to the meeting, bringing in the sheaves.", "3 Grain and wine and oil-bringing in the surplus\nOf the wheat and barley, vine and olive trees:\nWine to cause rejoicing, oil to give anointing,\nBringing in the top tenth, bringing in the sheaves."]

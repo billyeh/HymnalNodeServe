@@ -1,5 +1,1 @@
-{"1": "Always rejoice;
-Unceasingly pray;
-In everything give thanks;
-For this is the will of God
-In Christ Jesus for you."}
+["1 Always rejoice;\nUnceasingly pray;\nIn everything give thanks;\nFor this is the will of God\nIn Christ Jesus for you."]

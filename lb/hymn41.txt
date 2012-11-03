@@ -1,16 +1,1 @@
-{"1": "Pursue Him and know Him; be found in Him.
-Count all things loss for Him.
-Just gain Him, obtain Him; lay hold of Him.
-It's Christ the central vision.",
-"chorus": "Forgetting the things which are behind,
-Press on, pursue with this mind.
-By any means each hour now redeem;
-Stretch forth, lay hold of Him.",
-"2": "Pursue Him and seize Him, Christ the supreme.
-Just love this precious Person.
-Forgetting and leaving all other things,
-Love Him with your whole being.",
-"3": "Christ now is my center and reality,
-My life for eternity.
-All things are just dung compared to Him,
-So love and just gain Him!"}
+["1 Pursue Him and know Him; be found in Him.\nCount all things loss for Him.\nJust gain Him, obtain Him; lay hold of Him.\nIt's Christ the central vision.", "chorus Forgetting the things which are behind,\nPress on, pursue with this mind.\nBy any means each hour now redeem;\nStretch forth, lay hold of Him.", "2 Pursue Him and seize Him, Christ the supreme.\nJust love this precious Person.\nForgetting and leaving all other things,\nLove Him with your whole being.", "3 Christ now is my center and reality,\nMy life for eternity.\nAll things are just dung compared to Him,\nSo love and just gain Him!"]

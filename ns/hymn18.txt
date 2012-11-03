@@ -1,14 +1,1 @@
-{"1": "Jehovah is my Shepherd; I will lack nothing.
-He makes me lie down in green pastures;
-He leads me beside waters of rest.
-He restores my soul; He guides me on the paths
-Of righteousness for His name's sake.
-Your rod and staff comfort me.
-Though I walk through death's valley
-I fear no evil, for You are with me.
-You spread a feast before me,
-You anoint my head with oil; My cup runs over.
-Goodness and lovingkindness
-Will follow me always,
-I will dwell in the house of Jehovah
-For the length of my days."}
+["1 Jehovah is my Shepherd; I will lack nothing.\nHe makes me lie down in green pastures;\nHe leads me beside waters of rest.\nHe restores my soul; He guides me on the paths\nOf righteousness for His name's sake.\nYour rod and staff comfort me.\nThough I walk through death's valley\nI fear no evil, for You are with me.\nYou spread a feast before me,\nYou anoint my head with oil; My cup runs over.\nGoodness and lovingkindness\nWill follow me always,\nI will dwell in the house of Jehovah\nFor the length of my days."]

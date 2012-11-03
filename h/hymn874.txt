@@ -1,16 +1,1 @@
-{"1": "Standing in the evil day,
-Heeding not what men may say,
-Fearing not the face of clay,
-Christian soldier, stand.",
-"2": "Standing for the Word of God,
-Standing for the precious blood,
-Following where the saints have trod,
-Christian soldier, stand.",
-"3": "Stand 'mid Satan's every wile,
-Stand 'mid pleasure's wanton smile,
-Stand when error would beguile;
-Christian soldier, stand.",
-"4": "Stand till ends life's little day,
-Stand for Jesus, come what may,
-Stand and fight and watch and pray;
-Christian soldier, stand."}
+["1 Standing in the evil day,\nHeeding not what men may say,\nFearing not the face of clay,\nChristian soldier, stand.", "2 Standing for the Word of God,\nStanding for the precious blood,\nFollowing where the saints have trod,\nChristian soldier, stand.", "3 Stand 'mid Satan's every wile,\nStand 'mid pleasure's wanton smile,\nStand when error would beguile;\nChristian soldier, stand.", "4 Stand till ends life's little day,\nStand for Jesus, come what may,\nStand and fight and watch and pray;\nChristian soldier, stand."]

@@ -1,16 +1,1 @@
-{"1": "Thy mighty love, O God, constraineth me,
-As some strong tide it presseth on its way,
-Seeking a channel in my self-bound soul,
-Yearning to sweep all barriers away.",
-"2": "Shall I not yield to that constraining power?
-Shall I not say, O tide of love, flow in?
-My God, Thy gentleness hath conquered me,
-Life cannot be as it hath hither been.",
-"3": "Break through my nature, mighty, heavenly love,
-Clear every avenue of thought and brain,
-Flood my affections, purify my will,
-Let nothing but Thine own pure life remain.",
-"4": "Thus wholly mastered and possessed by God,
-Forth from my life, spontaneous and free,
-Shall flow a stream of tenderness and grace,
-Loving, because God loved, eternally."}
+["1 Thy mighty love, O God, constraineth me,\nAs some strong tide it presseth on its way,\nSeeking a channel in my self-bound soul,\nYearning to sweep all barriers away.", "2 Shall I not yield to that constraining power?\nShall I not say, O tide of love, flow in?\nMy God, Thy gentleness hath conquered me,\nLife cannot be as it hath hither been.", "3 Break through my nature, mighty, heavenly love,\nClear every avenue of thought and brain,\nFlood my affections, purify my will,\nLet nothing but Thine own pure life remain.", "4 Thus wholly mastered and possessed by God,\nForth from my life, spontaneous and free,\nShall flow a stream of tenderness and grace,\nLoving, because God loved, eternally."]

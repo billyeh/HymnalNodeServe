@@ -1,12 +1,1 @@
-{"1": "What mercy that my eyes have seen the true God,
-Happily transferred from darkness into light!
-What grace that I can freely have salvation,
-No need to work, endeavor with my might!",
-"2": "Now that I'm saved, remember, Lord, my family,
-Their sins You've borne, the way has thus been paved;
-This day fulfill the promise You have given:
-"Believe in Christ; your whole house shall be saved."",
-"3": "Lord, hear my prayer and gain all in my family!
-My heart is burning with this vow to You:
-"I and my house will serve the Lord forever!"
-We'll worship God for He alone is true!"}
+["1 What mercy that my eyes have seen the true God,\nHappily transferred from darkness into light!\nWhat grace that I can freely have salvation,\nNo need to work, endeavor with my might!", "2 Now that I'm saved, remember, Lord, my family,\nTheir sins You've borne, the way has thus been paved;\nThis day fulfill the promise You have given:\n\"Believe in Christ; your whole house shall be saved.\"", "3 Lord, hear my prayer and gain all in my family!\nMy heart is burning with this vow to You:\n\"I and my house will serve the Lord forever!\"\nWe'll worship God for He alone is true!"]

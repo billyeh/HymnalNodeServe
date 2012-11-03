@@ -1,16 +1,1 @@
-{"1": "A ruler once came to Jesus by night,
-To ask Him the way of salvation and light;
-The Master made answer in words true and plain,
-"Ye must be born again!"",
-"chorus": ""Ye must be born again!"
-"Ye must be born again!"
-"I verily, verily say unto thee,
-Ye must be born again!"",
-"2": "Ye children of men, attend to the word
-So solemnly uttered by Jesus, the Lord,
-And let not this message to you be in vain,
-"Ye must be born again."",
-"3": "Oh, ye who would enter that glorious rest,
-And sing with the ransomed the song of the blest;
-The life everlasting if ye would obtain,
-"Ye must be born again.""}
+["1 A ruler once came to Jesus by night,\nTo ask Him the way of salvation and light;\nThe Master made answer in words true and plain,\n\"Ye must be born again!\"", "chorus \"Ye must be born again!\"\n\"Ye must be born again!\"\n\"I verily, verily say unto thee,\nYe must be born again!\"", "2 Ye children of men, attend to the word\nSo solemnly uttered by Jesus, the Lord,\nAnd let not this message to you be in vain,\n\"Ye must be born again.\"", "3 Oh, ye who would enter that glorious rest,\nAnd sing with the ransomed the song of the blest;\nThe life everlasting if ye would obtain,\n\"Ye must be born again.\""]

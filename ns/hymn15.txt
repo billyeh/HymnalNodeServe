@@ -1,9 +1,1 @@
-{"1": "I am crucified with Christ, with Christ;
-And it is no longer I who live, I who live,
-But it is Christ who lives in me, it is Christ who lives in me;
-And the life which I now live in the flesh
-I live in faith, the faith in the Son of God,
-Who loved me and gave Himself,
-Gave Himself up for me, gave Himself up for me.
-Who loved me and gave Himself,
-Gave Himself up for me, gave Himself up for me."}
+["1 I am crucified with Christ, with Christ;\nAnd it is no longer I who live, I who live,\nBut it is Christ who lives in me, it is Christ who lives in me;\nAnd the life which I now live in the flesh\nI live in faith, the faith in the Son of God,\nWho loved me and gave Himself,\nGave Himself up for me, gave Himself up for me.\nWho loved me and gave Himself,\nGave Himself up for me, gave Himself up for me."]

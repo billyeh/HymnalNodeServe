@@ -1,12 +1,1 @@
-{"1": ""All in His hands"-what confidence it brings
-To tested hearts, to know that all the things
-That make up life and circumstance, He holds
-In His strong hands, and patiently unfolds
-Th' eternal purpose of His sovereign Will-
-That all things shall His grace and glory fill.",
-"2": ""All in His hands"? Then life with purpose moves
-Within the circle of His will, and proves
-It good, acceptable. The hands of man
-Or Satan cannot mar or foil the plan
-Which God ordained-to manifest His Son
-In earthen vessels, to a world undone."}
+["1 \"All in His hands\"-what confidence it brings\nTo tested hearts, to know that all the things\nThat make up life and circumstance, He holds\nIn His strong hands, and patiently unfolds\nTh' eternal purpose of His sovereign Will-\nThat all things shall His grace and glory fill.", "2 \"All in His hands\"? Then life with purpose moves\nWithin the circle of His will, and proves\nIt good, acceptable. The hands of man\nOr Satan cannot mar or foil the plan\nWhich God ordained-to manifest His Son\nIn earthen vessels, to a world undone."]

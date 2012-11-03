@@ -1,4 +1,1 @@
-{"1": "But verily God hath heard me;
-He hath attended to the voice of my prayer.
-Blessed be God, Who hath not turned away
-My prayer, nor His mercy from me."}
+["1 But verily God hath heard me;\nHe hath attended to the voice of my prayer.\nBlessed be God, Who hath not turned away\nMy prayer, nor His mercy from me."]

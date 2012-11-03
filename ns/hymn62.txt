@@ -1,16 +1,1 @@
-{"1": "Oh, there's a place for you, my friend
-Where the earthly sorrows end,
-And the joy is flowing like a river, free;
-Where everyone is satisfied,
-As we mutually abide
-In the One who gave His life for you and me.",
-"chorus": "Oh, Jesus is blending us together;
-He is the reason why we're here.
-We will be one in Him forever,
-And we will build according to this vision clear.",
-"2": "If you would like to know this place
-Where you'll find abundant grace,
-All that I can say is that you'll have to "see."
-'Cause words come short of the appeal-
-I just know that it is real-
-Once you've seen it too, I think that you'll agree!"}
+["1 Oh, there's a place for you, my friend\nWhere the earthly sorrows end,\nAnd the joy is flowing like a river, free;\nWhere everyone is satisfied,\nAs we mutually abide\nIn the One who gave His life for you and me.", "chorus Oh, Jesus is blending us together;\nHe is the reason why we're here.\nWe will be one in Him forever,\nAnd we will build according to this vision clear.", "2 If you would like to know this place\nWhere you'll find abundant grace,\nAll that I can say is that you'll have to \"see.\"\n'Cause words come short of the appeal-\nI just know that it is real-\nOnce you've seen it too, I think that you'll agree!"]

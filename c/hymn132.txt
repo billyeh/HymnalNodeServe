@@ -1,8 +1,1 @@
-{"1": "God made me a three-part man-
-Body, spirit, soul I am.
-With my spirit is the way
-To let God come in to stay.",
-"chorus": "I have a spirit,
-My human spirit.
-I have a spirit-
-Thank God, I'm made this way!"}
+["1 God made me a three-part man-\nBody, spirit, soul I am.\nWith my spirit is the way\nTo let God come in to stay.", "chorus I have a spirit,\nMy human spirit.\nI have a spirit-\nThank God, I'm made this way!"]

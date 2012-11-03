@@ -1,4 +1,1 @@
-{"nonum": "When we're kind to others,
-When we're kind to others,
-When we're kind to others,
-God is glad."}
+["nonum When we're kind to others,\nWhen we're kind to others,\nWhen we're kind to others,\nGod is glad."]

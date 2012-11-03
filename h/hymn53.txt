@@ -1,16 +1,1 @@
-{"1": "Our God and Father, we respond anew
-To love in Christ revealed, and praise Thy Name.
-He did Thy will; and for the joy in view,
-Endured the cross, despising all the shame.",
-"2": "He, midst His brethren, strikes the note of praise;
-We hear His song, our hearts responsive swell;
-And on this day when He His voice doth raise,
-In spirit we do join and praise Thee well.",
-"3": "Chosen in Him Thy well-beloved Son,
-We have our part in joy before Thy face;
-Predestined, ere this world had yet begun,
-For that blest world, where all bespeaks Thy grace.",
-"4": "Sons loved and loving, whom Thy Spirit fills,
-Our endless portion Christ in us to be;
-Each with some trait of Him whose love us thrills,
-For Thy delight and joy eternally."}
+["1 Our God and Father, we respond anew\nTo love in Christ revealed, and praise Thy Name.\nHe did Thy will; and for the joy in view,\nEndured the cross, despising all the shame.", "2 He, midst His brethren, strikes the note of praise;\nWe hear His song, our hearts responsive swell;\nAnd on this day when He His voice doth raise,\nIn spirit we do join and praise Thee well.", "3 Chosen in Him Thy well-beloved Son,\nWe have our part in joy before Thy face;\nPredestined, ere this world had yet begun,\nFor that blest world, where all bespeaks Thy grace.", "4 Sons loved and loving, whom Thy Spirit fills,\nOur endless portion Christ in us to be;\nEach with some trait of Him whose love us thrills,\nFor Thy delight and joy eternally."]

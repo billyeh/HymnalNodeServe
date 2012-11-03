@@ -1,7 +1,1 @@
-{"1": "Thou hast turned my mourning into dancing for me;
-Thou hast put off my sackcloth;
-Thou hast turned my mourning into dancing for me,
-And girded me with gladness;
-To the end my glory may sing praise unto Thee,
-And not be silent.
-O Lord my God, I will give thanks unto Thee forever."}
+["1 Thou hast turned my mourning into dancing for me;\nThou hast put off my sackcloth;\nThou hast turned my mourning into dancing for me,\nAnd girded me with gladness;\nTo the end my glory may sing praise unto Thee,\nAnd not be silent.\nO Lord my God, I will give thanks unto Thee forever."]

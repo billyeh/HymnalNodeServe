@@ -1,16 +1,1 @@
-{"1": "To the work! to the work! we are servants of God,
-Let us follow the path that our Master has trod;
-With the might of His power our strength to renew,
-Let us do by His grace what He calls us to do.",
-"chorus": "Work for Him by His grace;
-Work thru Him for His praise;
-Work with Him all the days;
-And work in Him in many ways.",
-"2": "To the work! to the work! let the hungry be fed;
-To the fountain of life let the thirsty be led;
-In the cross and its vict'ry our glory shall be,
-While we herald the tidings, "Salvation is free!"",
-"3": "To the work! to the work! in the strength of the Lord,
-By the pow'r of His Name, with the light of His Word,
-All the slaves of the darkness of Satan set free
-And His riches of grace in His glory we'll see."}
+["1 To the work! to the work! we are servants of God,\nLet us follow the path that our Master has trod;\nWith the might of His power our strength to renew,\nLet us do by His grace what He calls us to do.", "chorus Work for Him by His grace;\nWork thru Him for His praise;\nWork with Him all the days;\nAnd work in Him in many ways.", "2 To the work! to the work! let the hungry be fed;\nTo the fountain of life let the thirsty be led;\nIn the cross and its vict'ry our glory shall be,\nWhile we herald the tidings, \"Salvation is free!\"", "3 To the work! to the work! in the strength of the Lord,\nBy the pow'r of His Name, with the light of His Word,\nAll the slaves of the darkness of Satan set free\nAnd His riches of grace in His glory we'll see."]

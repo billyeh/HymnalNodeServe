@@ -1,6 +1,1 @@
-{"1": "Are you ready God to meet?
-Are you ready God to meet?
-Are you ready God to meet
-Ready God to meet?
-Are you ready, are you ready
-Ready God to meet?"}
+["1 Are you ready God to meet?\nAre you ready God to meet?\nAre you ready God to meet\nReady God to meet?\nAre you ready, are you ready\nReady God to meet?"]

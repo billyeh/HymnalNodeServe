@@ -1,16 +1,1 @@
-{"1": "Come into my heart, O Lord Jesus,
-Come into my heart, I pray;
-My soul is so troubled and weary,
-Come into my heart, today.",
-"chorus": "Into my heart, into my heart,
-Come into my heart, Lord Jesus;
-Come in today, come in to stay,
-Come into my heart, Lord Jesus.",
-"2": "Come into my heart, O Lord Jesus,
-I need Thee through life's dreary way;
-The burden of sin is so heavy,
-Come into my heart to stay.",
-"3": "Come into my heart, O Lord Jesus,
-Now cleanse and illumine my soul;
-Fill me with Thy wonderful Spirit,
-Come in and take full control."}
+["1 Come into my heart, O Lord Jesus,\nCome into my heart, I pray;\nMy soul is so troubled and weary,\nCome into my heart, today.", "chorus Into my heart, into my heart,\nCome into my heart, Lord Jesus;\nCome in today, come in to stay,\nCome into my heart, Lord Jesus.", "2 Come into my heart, O Lord Jesus,\nI need Thee through life's dreary way;\nThe burden of sin is so heavy,\nCome into my heart to stay.", "3 Come into my heart, O Lord Jesus,\nNow cleanse and illumine my soul;\nFill me with Thy wonderful Spirit,\nCome in and take full control."]

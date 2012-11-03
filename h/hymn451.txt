@@ -1,16 +1,1 @@
-{"1": "Not by wrestling, but by clinging
-Shall we be most blest;
-Wrestling only brings us sorrow;
-Clinging brings us rest.",
-"2": "When we stay our feeble efforts,
-And from struggling cease,
-Unconditional surrender
-Brings us God's own peace.",
-"3": "Lean we all our weight on Jesus,
-Who alone can save;
-He by might of love hath triumphed
-O'er His willing slave.",
-"4": "Yielding, we shall know true conquest;
-Dying, we shall live;
-"Not my will, but Thine" prevaileth,
-Victory to give."}
+["1 Not by wrestling, but by clinging\nShall we be most blest;\nWrestling only brings us sorrow;\nClinging brings us rest.", "2 When we stay our feeble efforts,\nAnd from struggling cease,\nUnconditional surrender\nBrings us God's own peace.", "3 Lean we all our weight on Jesus,\nWho alone can save;\nHe by might of love hath triumphed\nO'er His willing slave.", "4 Yielding, we shall know true conquest;\nDying, we shall live;\n\"Not my will, but Thine\" prevaileth,\nVictory to give."]

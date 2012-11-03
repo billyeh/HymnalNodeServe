@@ -1,4 +1,1 @@
-{"1": "The church is the house of the living God;
-The church is the pillar and base of the truth.
-And great is the myst'ry of godliness;
-That God was manifested in the flesh."}
+["1 The church is the house of the living God;\nThe church is the pillar and base of the truth.\nAnd great is the myst'ry of godliness;\nThat God was manifested in the flesh."]

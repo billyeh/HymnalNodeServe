@@ -1,8 +1,1 @@
-{"1": "We are so happy we're here today.
-This time is special in many ways;
-So as we gather we gladly say:
-Now it's children's time.",
-"chorus": "Now it's children's time,
-Now it's children's time,
-This time is special in many ways,
-Now it's children's time."}
+["1 We are so happy we're here today.\nThis time is special in many ways;\nSo as we gather we gladly say:\nNow it's children's time.", "chorus Now it's children's time,\nNow it's children's time,\nThis time is special in many ways,\nNow it's children's time."]

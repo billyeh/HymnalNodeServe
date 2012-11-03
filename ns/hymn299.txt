@@ -1,18 +1,1 @@
-{"1": "I'm so attracted by Your love,
-And I'm drawn by You
-In Your sweetness, to pursue, after You
-For my full satisfaction.",
-"chorus": "I'm in love, I'm in love, I'm in love
-With the most beautiful One.",
-"2": "I'm captivated by Your name
-And I'm charmed by You;
-With Your fragrance covering me I was gained
-As You kissed me with Your kisses.",
-"chorus": "I'm in love, I'm in love, I'm in love
-With the most affectionate One.",
-"3": "I'm fellowshipping in Your love
-And rejoicing in You.
-In Your chambers I enjoy our sweet love
-For the church, Your satisfaction.",
-"chorus": "I'm in love, I'm in love, I'm in love
-With the most intimate One."}
+["1 I'm so attracted by Your love,\nAnd I'm drawn by You\nIn Your sweetness, to pursue, after You\nFor my full satisfaction.", "chorus I'm in love, I'm in love, I'm in love\nWith the most beautiful One.", "2 I'm captivated by Your name\nAnd I'm charmed by You;\nWith Your fragrance covering me I was gained\nAs You kissed me with Your kisses.", "chorus I'm in love, I'm in love, I'm in love\nWith the most affectionate One.", "3 I'm fellowshipping in Your love\nAnd rejoicing in You.\nIn Your chambers I enjoy our sweet love\nFor the church, Your satisfaction.", "chorus I'm in love, I'm in love, I'm in love\nWith the most intimate One."]

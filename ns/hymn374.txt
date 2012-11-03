@@ -1,10 +1,1 @@
-{"nonum": "What then, brothers? What then, sisters?
-What then, shall we do?
-When you come together as the church?
-What then, brothers? What then, sisters?
-What then, shall we do?
-When you come together as the church?",
-"nonum": "Each one has a psalm to sing with the saints,
-Each one has a teaching to share with the saints,
-Each one has a revelation, tongue, and interpretation.
-Let all things be done for building up."}
+["nonum What then, brothers? What then, sisters?\nWhat then, shall we do?\nWhen you come together as the church?\nWhat then, brothers? What then, sisters?\nWhat then, shall we do?\nWhen you come together as the church?", "nonum Each one has a psalm to sing with the saints,\nEach one has a teaching to share with the saints,\nEach one has a revelation, tongue, and interpretation.\nLet all things be done for building up."]

@@ -1,16 +1,1 @@
-{"1": "Fear not, little flock, from the cross to the throne,
-From death into life He went for His own;
-All power in earth, all power above,
-Is given to Him for the flock of His love.",
-"chorus": "Only believe, only believe;
-All things are possible, only believe;
-Only believe, only believe;
-All things are possible, only believe.",
-"2": "Fear not, little flock, He goeth ahead,
-Your Shepherd selecteth the path you must tread;
-The waters of Marah He'll sweeten for thee,
-He drank all the bitter in Gethsemane.",
-"3": "Fear not, little flock, whatever your lot,
-He enters all rooms, "the doors being shut"
-He never forsakes, He never is gone,
-So count on His presence in darkness and dawn."}
+["1 Fear not, little flock, from the cross to the throne,\nFrom death into life He went for His own;\nAll power in earth, all power above,\nIs given to Him for the flock of His love.", "chorus Only believe, only believe;\nAll things are possible, only believe;\nOnly believe, only believe;\nAll things are possible, only believe.", "2 Fear not, little flock, He goeth ahead,\nYour Shepherd selecteth the path you must tread;\nThe waters of Marah He'll sweeten for thee,\nHe drank all the bitter in Gethsemane.", "3 Fear not, little flock, whatever your lot,\nHe enters all rooms, \"the doors being shut\"\nHe never forsakes, He never is gone,\nSo count on His presence in darkness and dawn."]

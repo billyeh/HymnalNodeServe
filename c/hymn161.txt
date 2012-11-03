@@ -1,4 +1,1 @@
-{"1": "My treasure is my God.
-My treasure is His Word.
-My treasure is the Lord's people.
-These three have worth to me."}
+["1 My treasure is my God.\nMy treasure is His Word.\nMy treasure is the Lord's people.\nThese three have worth to me."]

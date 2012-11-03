@@ -1,5 +1,1 @@
-{"1": "Lord, I just love You.
-And there's no one like You.
-In the whole universe
-I have no other one like You.
-Lord Jesus, I love You."}
+["1 Lord, I just love You.\nAnd there's no one like You.\nIn the whole universe\nI have no other one like You.\nLord Jesus, I love You."]

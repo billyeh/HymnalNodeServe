@@ -1,16 +1,1 @@
-{"1": "My glorious Victor, Prince Divine,
-Clasp these surrendered hands in Thine;
-At length my will is all Thine own,
-Glad vassal of a Savior's throne.",
-"2": "My Master, lead me to Thy door;
-Pierce this now willing ear once more;
-Thy bonds are freedom; let me stay
-With Thee, to toil, endure, obey.",
-"3": "Yes, ear and hand, and thought and will,
-Use all in Thy dear slav'ry still!
-Self's weary liberties I cast
-Beneath Thy feet; there keep them fast.",
-"4": "Tread them still down; and then I know,
-These hands shall with Thy gifts o'erflow;
-And pierced ears shall hear the tone
-Which tells me Thou and I are one."}
+["1 My glorious Victor, Prince Divine,\nClasp these surrendered hands in Thine;\nAt length my will is all Thine own,\nGlad vassal of a Savior's throne.", "2 My Master, lead me to Thy door;\nPierce this now willing ear once more;\nThy bonds are freedom; let me stay\nWith Thee, to toil, endure, obey.", "3 Yes, ear and hand, and thought and will,\nUse all in Thy dear slav'ry still!\nSelf's weary liberties I cast\nBeneath Thy feet; there keep them fast.", "4 Tread them still down; and then I know,\nThese hands shall with Thy gifts o'erflow;\nAnd pierced ears shall hear the tone\nWhich tells me Thou and I are one."]

@@ -1,16 +1,1 @@
-{"1": "If I'd know Christ's risen power.
-I must ever love the Cross;
-Life from death alone arises;
-There's no gain except by loss.",
-"chorus": "If no death, no life
-If no death, no life;
-Life from death alone arises;
-If no death, no life.",
-"2": "If I'd have Christ formed within me
-I must breathe my final breath
-Live within the Cross's shadow
-Put my soul-life e'er to death.",
-"3": "If God thru th' Eternal Spirit,
-Nail me ever with the Lord;
-Only then as death is working,
-Will His life thru me be poured."}
+["1 If I'd know Christ's risen power.\nI must ever love the Cross;\nLife from death alone arises;\nThere's no gain except by loss.", "chorus If no death, no life\nIf no death, no life;\nLife from death alone arises;\nIf no death, no life.", "2 If I'd have Christ formed within me\nI must breathe my final breath\nLive within the Cross's shadow\nPut my soul-life e'er to death.", "3 If God thru th' Eternal Spirit,\nNail me ever with the Lord;\nOnly then as death is working,\nWill His life thru me be poured."]

@@ -1,5 +1,1 @@
-{"1": "Glory, honor, praise and power,
-Be unto the Lamb forever!
-Jesus Christ is our Redeemer,
-Hallelujah! Hallelujah!
-Hallelujah! Praise ye the Lord!"}
+["1 Glory, honor, praise and power,\nBe unto the Lamb forever!\nJesus Christ is our Redeemer,\nHallelujah! Hallelujah!\nHallelujah! Praise ye the Lord!"]

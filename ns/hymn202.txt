@@ -1,14 +1,1 @@
-{"1": "Lord, I love You, Lord, I need You,
-You're the One, the One I need,
-To live this life, Lord, I need You always;
-By Your presence, Lord, take lead.
-Lord, look into me,
-And infuse me
-To walk by the strength of Your eyes.
-Lord embrace me,
-Bear me in You,
-Deep in Your love I hide.
-And when I'm weak, Lord, and can't go on more,
-Lift my eyes to gaze on You;
-Speak softly to me, Come in, subdue me;
-In Your strength, Lord, take me through."}
+["1 Lord, I love You, Lord, I need You,\nYou're the One, the One I need,\nTo live this life, Lord, I need You always;\nBy Your presence, Lord, take lead.\nLord, look into me,\nAnd infuse me\nTo walk by the strength of Your eyes.\nLord embrace me,\nBear me in You,\nDeep in Your love I hide.\nAnd when I'm weak, Lord, and can't go on more,\nLift my eyes to gaze on You;\nSpeak softly to me, Come in, subdue me;\nIn Your strength, Lord, take me through."]

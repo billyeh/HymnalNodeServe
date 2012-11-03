@@ -1,17 +1,1 @@
-{"1": "The new covenant ministry-a ministry of God-
-is the ministry of the Spirit who gives life (who gives life)
-and of righteousness as the expression of God.",
-"2": "The new covenant ministers are persons
-Whose hearts have turned to the Lord,
-Who are enjoying the Lord as the Spirit,
-And who are being transformed
-into the image of the Lord
-by beholding and reflecting Him.",
-"3": "The new covenant ministers are ambassadors of Christ
-Carrying out the ministry of reconciliation
-To bring us into God and to make us one with God.",
-"4": "The new covenant ministers' living
-Is a living of grace,
-The experience of grace,
-Which is the Divine Trinity
-Transmitted into us for our enjoyment."}
+["1 The new covenant ministry-a ministry of God-\nis the ministry of the Spirit who gives life (who gives life)\nand of righteousness as the expression of God.", "2 The new covenant ministers are persons\nWhose hearts have turned to the Lord,\nWho are enjoying the Lord as the Spirit,\nAnd who are being transformed\ninto the image of the Lord\nby beholding and reflecting Him.", "3 The new covenant ministers are ambassadors of Christ\nCarrying out the ministry of reconciliation\nTo bring us into God and to make us one with God.", "4 The new covenant ministers' living\nIs a living of grace,\nThe experience of grace,\nWhich is the Divine Trinity\nTransmitted into us for our enjoyment."]

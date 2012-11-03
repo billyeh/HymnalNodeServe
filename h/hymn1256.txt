@@ -1,8 +1,1 @@
-{"1": "Praise the Lord, we're in the Lord's recovery-
-Home at last, here in the church.
-Praise the Lord, we're in the new creation-
-One new man, the end of our search.
-With the saints, builded, coordinated;
-No more I, forever "we."
-We are one in the Son, standing here till He comes;
-Yes, nothing can stop our God till He's done!"}
+["1 Praise the Lord, we're in the Lord's recovery-\nHome at last, here in the church.\nPraise the Lord, we're in the new creation-\nOne new man, the end of our search.\nWith the saints, builded, coordinated;\nNo more I, forever \"we.\"\nWe are one in the Son, standing here till He comes;\nYes, nothing can stop our God till He's done!"]

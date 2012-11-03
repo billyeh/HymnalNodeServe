@@ -1,18 +1,1 @@
-{"1": "Here we are gathered, one family in the Lord;
-His life is the bond that we share.
-Although we are many, we are in one accord,
-And as the members, know the family care.",
-"chorus": "And blending with the saints we know,
-Our joy has just begun;
-We blend together and we blend as one.
-And blending with the saints we know,
-The building has begun;
-We build together and we build as one.",
-"2": "When we're together our joy is made so full;
-The love of the Lord fills our hearts,
-And we all partake of the Spirit bountiful.
-We've found, here in the family life, a part.",
-"3": "Here we will stay, Lord, according to Your plan,
-For here in the church life we're one;
-And we will be built up to be the corp'rate man
-To consummate the New Jerusalem."}
+["1 Here we are gathered, one family in the Lord;\nHis life is the bond that we share.\nAlthough we are many, we are in one accord,\nAnd as the members, know the family care.", "chorus And blending with the saints we know,\nOur joy has just begun;\nWe blend together and we blend as one.\nAnd blending with the saints we know,\nThe building has begun;\nWe build together and we build as one.", "2 When we're together our joy is made so full;\nThe love of the Lord fills our hearts,\nAnd we all partake of the Spirit bountiful.\nWe've found, here in the family life, a part.", "3 Here we will stay, Lord, according to Your plan,\nFor here in the church life we're one;\nAnd we will be built up to be the corp'rate man\nTo consummate the New Jerusalem."]

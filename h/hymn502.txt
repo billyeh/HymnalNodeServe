@@ -1,14 +1,1 @@
-{"1": "Once I was dead in sin,
-And hope within me died;
-But now I'm dead to sin,
-With Christ I'm crucified.",
-"chorus": "And can it be that "He loved me,
-And gave Himself for me"?",
-"2": "O height I cannot reach!
-O depth I cannot sound!
-O love, O boundless love,
-In my Redeemer found!",
-"3": "I live-and yet not I,
-But Christ that lives in me,
-Who from the law of sin
-And death has made me free."}
+["1 Once I was dead in sin,\nAnd hope within me died;\nBut now I'm dead to sin,\nWith Christ I'm crucified.", "chorus And can it be that \"He loved me,\nAnd gave Himself for me\"?", "2 O height I cannot reach!\nO depth I cannot sound!\nO love, O boundless love,\nIn my Redeemer found!", "3 I live-and yet not I,\nBut Christ that lives in me,\nWho from the law of sin\nAnd death has made me free."]

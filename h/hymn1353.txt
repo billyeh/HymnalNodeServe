@@ -1,7 +1,1 @@
-{"1": "Live in the light of life, 
-Sweet fellowship maintain;
-Behold His gracious face,
-Each day more glory gain,
-The Spirit's move obey,
-Rejoice and praise and pray;
-Live in the light of life."}
+["1 Live in the light of life, \nSweet fellowship maintain;\nBehold His gracious face,\nEach day more glory gain,\nThe Spirit's move obey,\nRejoice and praise and pray;\nLive in the light of life."]

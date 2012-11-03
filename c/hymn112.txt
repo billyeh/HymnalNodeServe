@@ -1,8 +1,1 @@
-{"nonum": "God made the mountains.
-God made the rolling hills.
-God made the flowers.
-God made the daffodils.
-God made every tree.
-God made you and me.
-Hallelujah, Hallelujah,
-Hallelujah, Hallelujah!"}
+["nonum God made the mountains.\nGod made the rolling hills.\nGod made the flowers.\nGod made the daffodils.\nGod made every tree.\nGod made you and me.\nHallelujah, Hallelujah,\nHallelujah, Hallelujah!"]

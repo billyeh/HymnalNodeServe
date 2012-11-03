@@ -1,1 +1,1 @@
-{"The lyrics are not displayed for this song."}
+["The lyrics are not displayed for this song."]

@@ -1,14 +1,1 @@
-{"1": "Wherever you go, I will go,
-Wherever you dwell, I will dwell;
-Your people will be my people,
-And your God will be my God.
-Wherever you go, I will go,
-Wherever you dwell, I will dwell;
-Your people will be my people,
-And your God will be my God.
-Wherever you die, I will die;
-And there will I be buried.
-Jehovah do to me, and more as well,
-If anything but death parts me from you.
-Jehovah do to me, and more as well,
-If anything but death parts me from you."}
+["1 Wherever you go, I will go,\nWherever you dwell, I will dwell;\nYour people will be my people,\nAnd your God will be my God.\nWherever you go, I will go,\nWherever you dwell, I will dwell;\nYour people will be my people,\nAnd your God will be my God.\nWherever you die, I will die;\nAnd there will I be buried.\nJehovah do to me, and more as well,\nIf anything but death parts me from you.\nJehovah do to me, and more as well,\nIf anything but death parts me from you."]

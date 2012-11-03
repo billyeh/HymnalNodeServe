@@ -1,16 +1,1 @@
-{"1": "Lord, teach us to use
-The intercessor's rod,
-As Moses did of old
-Upon the hill of God.",
-"2": "Before the upstayed arm
-The ranks of darkness quailed!
-In great Jehovah's Name
-The hosts of light prevailed!",
-"3": "Teach us to bind the foe
-With iron chains of prayer,
-That all Thy Church may move
-To victory everywhere.",
-"4": "Give us the steady arm,
-Until the sun go down,
-That we in Christ may win
-The overcomer's crown."}
+["1 Lord, teach us to use\nThe intercessor's rod,\nAs Moses did of old\nUpon the hill of God.", "2 Before the upstayed arm\nThe ranks of darkness quailed!\nIn great Jehovah's Name\nThe hosts of light prevailed!", "3 Teach us to bind the foe\nWith iron chains of prayer,\nThat all Thy Church may move\nTo victory everywhere.", "4 Give us the steady arm,\nUntil the sun go down,\nThat we in Christ may win\nThe overcomer's crown."]

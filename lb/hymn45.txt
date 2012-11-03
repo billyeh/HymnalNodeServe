@@ -1,14 +1,1 @@
-{"1": "Abba, Father, hear our cry,
-Mingled spirit deep within.",
-"chorus": "Abba, Father,
-Abba, Father.",
-"2": "Thank You, Father, for sending Him;
-The Spirit of Your Son Who cries within.",
-"3": "Oh! How sweet is Abba's Name
-From our spirit through our heart.",
-"4": "Every moment this mingled cry;
-To Your Beloved we're joined thereby.",
-"5": "Day by day, this cry so new;
-In Your Son we come back to You.",
-"6": "In Your bosom here we'll stay,
-In Your Son and never stray."}
+["1 Abba, Father, hear our cry,\nMingled spirit deep within.", "chorus Abba, Father,\nAbba, Father.", "2 Thank You, Father, for sending Him;\nThe Spirit of Your Son Who cries within.", "3 Oh! How sweet is Abba's Name\nFrom our spirit through our heart.", "4 Every moment this mingled cry;\nTo Your Beloved we're joined thereby.", "5 Day by day, this cry so new;\nIn Your Son we come back to You.", "6 In Your bosom here we'll stay,\nIn Your Son and never stray."]

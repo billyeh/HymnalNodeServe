@@ -1,16 +1,1 @@
-{"1": "Make me a hungry seeker,
-Your filling to receive.
-Make mine a longing soul, Lord,
-Your goodness satisfy me.
-If I'm not hungry empty within,
-Your blessing will pass me by.
-Make me a hungry seeker, Lord,
-I want Your rich supply.",
-"2": "My eyes be set on You, Lord;
-Each pleasure and each pain
-Would make me look at You, Lord,
-God's riches and grace to gain.
-If I am full and think I'm rich,
-Empty, You'll send me away;
-Continually I'm hungry, Lord.
-My heart on You will stay."}
+["1 Make me a hungry seeker,\nYour filling to receive.\nMake mine a longing soul, Lord,\nYour goodness satisfy me.\nIf I'm not hungry empty within,\nYour blessing will pass me by.\nMake me a hungry seeker, Lord,\nI want Your rich supply.", "2 My eyes be set on You, Lord;\nEach pleasure and each pain\nWould make me look at You, Lord,\nGod's riches and grace to gain.\nIf I am full and think I'm rich,\nEmpty, You'll send me away;\nContinually I'm hungry, Lord.\nMy heart on You will stay."]

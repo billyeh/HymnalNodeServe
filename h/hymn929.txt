@@ -1,16 +1,1 @@
-{"1": "Out in the highways and byways of life,
-Many are weary and sad;
-Carry the sunshine where darkness is rife,
-Making the sorrowing glad.",
-"chorus": "Make me a blessing, make me a blessing,
-Out of my life may Jesus shine;
-Make me a blessing, O Savior, I pray,
-Make me a blessing to someone today.",
-"2": "Tell the sweet story of Christ and His love,
-Tell of His pow'r to forgive;
-Others will trust Him if only you prove
-True, every moment you live.",
-"3": "Give as 'twas given to you in your need,
-Love as the Master loved you;
-Be to the helpless a helper indeed,
-Unto your mission be true."}
+["1 Out in the highways and byways of life,\nMany are weary and sad;\nCarry the sunshine where darkness is rife,\nMaking the sorrowing glad.", "chorus Make me a blessing, make me a blessing,\nOut of my life may Jesus shine;\nMake me a blessing, O Savior, I pray,\nMake me a blessing to someone today.", "2 Tell the sweet story of Christ and His love,\nTell of His pow'r to forgive;\nOthers will trust Him if only you prove\nTrue, every moment you live.", "3 Give as 'twas given to you in your need,\nLove as the Master loved you;\nBe to the helpless a helper indeed,\nUnto your mission be true."]

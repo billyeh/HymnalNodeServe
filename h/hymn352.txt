@@ -1,16 +1,1 @@
-{"1": "In the wilderness for God!
-Just a common bush aflame!
-Thus may I be, blessed Lord,
-For the glory of Thy Name.",
-"2": "Just a common bush to be,
-Something in which God can dwell,
-Something thru which God can speak,
-Something thru which God can tell.",
-"3": "All His yearning over men,
-All His purposes of love,
-Flaming with no light of earth,
-But with glory from above:",
-"4": "God Himself within the bush,
-Nothing seen but just the flame;
-Make me that, just that, O God,
-For the glory of Thy Name."}
+["1 In the wilderness for God!\nJust a common bush aflame!\nThus may I be, blessed Lord,\nFor the glory of Thy Name.", "2 Just a common bush to be,\nSomething in which God can dwell,\nSomething thru which God can speak,\nSomething thru which God can tell.", "3 All His yearning over men,\nAll His purposes of love,\nFlaming with no light of earth,\nBut with glory from above:", "4 God Himself within the bush,\nNothing seen but just the flame;\nMake me that, just that, O God,\nFor the glory of Thy Name."]

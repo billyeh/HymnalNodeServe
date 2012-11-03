@@ -1,18 +1,1 @@
-{"1": "Hallelujah, "He is risen!"
-Jesus is gone up on high!
-Burst the bars of death asunder;
-Angels shout, and men reply:
-He is risen, He is risen,
-Living now, no more to die.",
-"2": "Hallelujah He is risen!
-Our exalted Head to be;
-Sends the witness of the Spirit
-That our Advocate is He:
-He is risen, He is risen,
-Justified in Him are we.",
-"3": "Hallelujah, He is risen!
-Death for aye has lost his sting;
-Christ, Himself the Resurrection,
-From the grave "His own" will bring:
-He is risen, He is risen,
-Living Lord and coming King."}
+["1 Hallelujah, \"He is risen!\"\nJesus is gone up on high!\nBurst the bars of death asunder;\nAngels shout, and men reply:\nHe is risen, He is risen,\nLiving now, no more to die.", "2 Hallelujah He is risen!\nOur exalted Head to be;\nSends the witness of the Spirit\nThat our Advocate is He:\nHe is risen, He is risen,\nJustified in Him are we.", "3 Hallelujah, He is risen!\nDeath for aye has lost his sting;\nChrist, Himself the Resurrection,\nFrom the grave \"His own\" will bring:\nHe is risen, He is risen,\nLiving Lord and coming King."]

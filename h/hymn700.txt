@@ -1,12 +1,1 @@
-{"1": ""Be not anxious for the morrow,
-Jesus said;
-Why should we its trials borrow?
-Trust instead!
-For each hour of need or sorrow,
-Grace He gives, and daily bread.",
-"2": "Thus our treasures safe investing
-In His care,
-Kept in His pavilion resting,
-May we dare
-Still to trust, thru faith's deep testing,
-Sure, God will His ways declare."}
+["1 \"Be not anxious for the morrow,\nJesus said;\nWhy should we its trials borrow?\nTrust instead!\nFor each hour of need or sorrow,\nGrace He gives, and daily bread.", "2 Thus our treasures safe investing\nIn His care,\nKept in His pavilion resting,\nMay we dare\nStill to trust, thru faith's deep testing,\nSure, God will His ways declare."]

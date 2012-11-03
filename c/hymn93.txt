@@ -1,6 +1,1 @@
-{"nonum": "All Scripture is God-breathed
-And profitable for teaching,
-For reproof, for correction,
-For instruction in righteousness,
-That the man of God may be complete,
-Fully equipped for every good work."}
+["nonum All Scripture is God-breathed\nAnd profitable for teaching,\nFor reproof, for correction,\nFor instruction in righteousness,\nThat the man of God may be complete,\nFully equipped for every good work."]

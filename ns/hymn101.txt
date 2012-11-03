@@ -1,7 +1,1 @@
-{"nonum": "And we know that all things work together for good
-To those who love God,
-Those called according to His purpose.
-For who shall separate us from the love of Christ?
-In all things we more than conquer through Him who loved us.
-Nothing shall separate us from the love of God,
-which is in Christ Jesus our Lord."}
+["nonum And we know that all things work together for good\nTo those who love God,\nThose called according to His purpose.\nFor who shall separate us from the love of Christ?\nIn all things we more than conquer through Him who loved us.\nNothing shall separate us from the love of God,\nwhich is in Christ Jesus our Lord."]

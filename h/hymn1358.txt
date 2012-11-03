@@ -1,10 +1,1 @@
-{"1": "Rise! Preach the gospel now!
-Rescue the fallen!
-Lo, millions perishing daily in pain!
-Quench not your heart of love,
-Count not possessions:
-Rise! Preach the gospel while moments remain.",
-"chorus": "Rise! Preach the gospel now!
-Rescue the fallen!
-Your heart of love for them,
-Can you restrain?"}
+["1 Rise! Preach the gospel now!\nRescue the fallen!\nLo, millions perishing daily in pain!\nQuench not your heart of love,\nCount not possessions:\nRise! Preach the gospel while moments remain.", "chorus Rise! Preach the gospel now!\nRescue the fallen!\nYour heart of love for them,\nCan you restrain?"]

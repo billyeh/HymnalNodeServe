@@ -1,16 +1,1 @@
-{"1": ""With one accord" within an upper room
-The faithful followers of Jesus met:
-One was the hope of every waiting soul,
-And on one object great each heart was set.",
-"2": ""With one accord," until the mighty gift
-Of pentecostal power was outpoured;
-Then forth as witnesses possessed of God,
-To preach the resurrection of the Lord!",
-"3": ""With one accord" within the house of God
-A hallelujah song is daily raised,
-As with the voice of one, from vocal hearts
-Christ Jesus' name is glorified and praised.",
-"4": "Pour down Thy Spirit once again, dear Lord;
-Our cry goes up to Thee for "latter rain";
-Unite Thy people as the "heart of one,"
-And pentecostal days shall come again!"}
+["1 \"With one accord\" within an upper room\nThe faithful followers of Jesus met:\nOne was the hope of every waiting soul,\nAnd on one object great each heart was set.", "2 \"With one accord,\" until the mighty gift\nOf pentecostal power was outpoured;\nThen forth as witnesses possessed of God,\nTo preach the resurrection of the Lord!", "3 \"With one accord\" within the house of God\nA hallelujah song is daily raised,\nAs with the voice of one, from vocal hearts\nChrist Jesus' name is glorified and praised.", "4 Pour down Thy Spirit once again, dear Lord;\nOur cry goes up to Thee for \"latter rain\";\nUnite Thy people as the \"heart of one,\"\nAnd pentecostal days shall come again!"]
