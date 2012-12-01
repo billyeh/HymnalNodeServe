@@ -21,8 +21,27 @@ function start(response, query) {
 	
 }
 
+function backgroundImg(response, query) {
+	fs.readFile("nav.png", function(error, content) {
+		if (error) {
+			response.writeHead(500);
+			response.end();
+			
+			console.log("Error reading file");
+			console.log("Query for " + query + " received");
+		}
+		else {
+			response.writeHead(200, {"Content-Type": "image/png"});
+			response.end(content, 'utf-8');
+			
+			console.log("Serving file");
+			console.log("Query for " + query + " received");
+		}
+	});
+}
+
 function serveFile(response, query) {
-	fs.readFile("./" + querystring.parse(query).type + "/hymn"+ 
+	fs.readFile("./" + querystring.parse(query).type + "/hymn" + 
 			querystring.parse(query).hymn + ".txt", function(error, content) {
 		if (error) {
 			response.writeHead(500);
@@ -83,3 +102,4 @@ exports.start = start;
 exports.serveFile = serveFile;
 exports.favicon = favicon;
 exports.docmainCSS = docmainCSS;
+exports.background = backgroundImg;

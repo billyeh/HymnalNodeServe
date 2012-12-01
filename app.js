@@ -8,5 +8,6 @@ handle["/start"] = requestHandlers.start;
 handle["/hymn"] = requestHandlers.serveFile;
 handle["/favicon.ico"] = requestHandlers.favicon;
 handle["/docmain.css"] = requestHandlers.docmainCSS;
+handle["/nav.png"] = requestHandlers.background;
 
 server.start(router.route, handle);
