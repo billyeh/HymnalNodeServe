@@ -1,0 +1,87 @@
+#menuitem {
+	font-size: 11pt;
+	font-family: "Arial";
+	color: #545454;
+}
+h1, h2, p, .code {
+	position: relative;
+	top: 100px;
+	z-index: 60;
+}
+#logo, h1, h2, p, .code {
+	margin-left: 20px;
+	color: #545454;
+}
+h1, h2, p, .code, a {
+	line-height: 140%;
+	max-width: 800px;
+	width: 90%;
+}
+#logo, h1, h2, p, a {
+	font-family: "Arial";
+}
+#logo, h1, h2 {
+	color: #545454;
+}
+#logo {
+	font-size: 20pt;
+}
+h2 {
+	font-size: 15pt;
+	font-variant: small-caps;
+}
+a {
+	font-size: 11pt;
+	color: #000080;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #C0C0C0;
+	background-color: #000080;
+	border-radius: 15px;
+}
+p {
+	font-size: 11pt;
+}
+pre {
+	width: 700px;                          /* specify width  */
+	white-space: pre-wrap;                 /* CSS3 browsers  */
+	white-space: -moz-pre-wrap !important; /* 1999+ Mozilla  */
+	white-space: -pre-wrap;                /* Opera 4 thru 6 */
+	white-space: -o-pre-wrap;              /* Opera 7 and up */
+	word-wrap: break-word;                 /* IE 5.5+ and up */
+	/* overflow-x: auto; */                /* Firefox 2 only */
+	/* width: 99%; */		       /* only if needed */
+	}
+.code, code {
+	background-color: #EEEEEE;
+	width: 700px;
+	font-family: "Courier New";
+	font-size: 11pt;
+	border-radius: 15px;
+}
+.code {
+	padding-left: 10px;
+	border: 1px solid;
+	border-color: #E7E7E7;
+	box-shadow: 1px 1px 1px #888888;
+}
+.source {
+	color: #000080;
+}
+nav, #logo, .menu {
+	position: fixed;
+	top: 20px;
+	z-index: 100;
+}
+nav {
+	right: 15px;
+	padding-top: 10px;
+}
+#logo {
+	left: 20px;
+}
+#navbar {
+	background-color: black;
+}

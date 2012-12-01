@@ -6,6 +6,7 @@ var handle = {};
 handle["/"] = requestHandlers.start;
 handle["/start"] = requestHandlers.start;
 handle["/hymn"] = requestHandlers.serveFile;
-handle["/favicon"] = requestHandlers.favicon;
+handle["/favicon.ico"] = requestHandlers.favicon;
+handle["/docmain.css"] = requestHandlers.docmainCSS;
 
 server.start(router.route, handle);
