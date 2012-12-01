@@ -4,7 +4,7 @@ h1, h2, p, .code {
 	z-index: 60;
 }
 h1, h2, p, .code {
-	margin-left: 20px;
+	margin-left: 40px;
 	color: #545454;
 }
 h1, h2, p, .code, a {
@@ -57,7 +57,7 @@ pre {
 	padding-left: 10px;
 	border: 1px solid;
 	border-color: #E7E7E7;
-	box-shadow: 1px 1px 1px #888888;
+	box-shadow: 1px 1px 1px #E7E7E7;
 }
 .source {
 	color: #000080;
@@ -65,20 +65,21 @@ pre {
 nav {
 background: url("../nav.png") repeat-x;
 opacity: .8;
-height: 80px;
-width: 88%;
-right: 68px;
 position: fixed;
+width: 100%;
+border-bottom: 1px solid;
+border-bottom-color: #E7E7E7;
 z-index: 100;
 font-family: "Arial";
 top: 0px;
 }
-
 nav ul {
 list-style: none;
 }
-
 nav ul li {
 float: left;
 margin: 0 14px;
+}
+#logo {
+font-size: 20pt;
 }
