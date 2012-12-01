@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01CDCE34.6787D9B0"
+Content-Type: multipart/related; boundary="----=_NextPart_01CDCFB2.362F72E0"
 
 This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="us-ascii"
@@ -35,16 +35,16 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Bill Yeh</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Bill Yeh</o:LastAuthor>
-  <o:Revision>40</o:Revision>
-  <o:TotalTime>1513</o:TotalTime>
+  <o:Revision>43</o:Revision>
+  <o:TotalTime>3630</o:TotalTime>
   <o:Created>2012-11-28T18:47:00Z</o:Created>
-  <o:LastSaved>2012-11-29T21:21:00Z</o:LastSaved>
-  <o:Pages>6</o:Pages>
-  <o:Words>1764</o:Words>
-  <o:Characters>10056</o:Characters>
-  <o:Lines>83</o:Lines>
+  <o:LastSaved>2012-12-01T18:54:00Z</o:LastSaved>
+  <o:Pages>7</o:Pages>
+  <o:Words>1773</o:Words>
+  <o:Characters>10107</o:Characters>
+  <o:Lines>84</o:Lines>
   <o:Paragraphs>23</o:Paragraphs>
-  <o:CharactersWithSpaces>11797</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>11857</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -55,6 +55,8 @@ target=3D"HymnalDocumentation_files/props018.xml">
 href=3D"HymnalDocumentation_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -365,10 +367,11 @@ n"/>
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
+	mso-font-charset:1;
 	mso-generic-font-family:roman;
+	mso-font-format:other;
 	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+	mso-font-signature:0 0 0 0 0 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -384,19 +387,19 @@ n"/>
 	mso-font-pitch:variable;
 	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
 @font-face
-	{font-family:Georgia;
-	panose-1:2 4 5 2 5 4 5 2 3 3;
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:647 0 0 0 159 0;}
-@font-face
 	{font-family:Consolas;
 	panose-1:2 11 6 9 2 2 4 3 2 4;
 	mso-font-charset:0;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
 	mso-font-signature:-520092929 1073806591 9 0 415 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -896,6 +899,12 @@ p.documentationlink, li.documentationlink, div.documentationlink
 	mso-style-textfill-fill-themecolor:text2;
 	mso-style-textfill-fill-alpha:100.0%;
 	mso-style-textfill-fill-colortransforms:"lumm=3D60000 lumo=3D40000";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -996,7 +1005,9 @@ p></p>
 <p class=3DMsoNormal style=3D'line-height:125%'>Originally, the files from
 http://hymnal.net consisted of simple web pages containing the desired cont=
 ent,
-the lyrics, in &lt;ol&gt; and &lt;li&gt; tags.<span
+the lyrics, in &amp;<span class=3DSpellE>lt<span class=3DGramE>;ol</span>&a=
+mp;gt</span>;
+and &amp;<span class=3DSpellE>lt;li&amp;gt</span>; tags.<span
 class=3DdocumentationlinkChar><span style=3D'color:windowtext'><a href=3D"#=
 asterisk1"><span
 style=3D'color:#558ED5;mso-themecolor:text2;mso-themetint:153;mso-style-tex=
@@ -1046,16 +1057,26 @@ y:"Courier New";
   mso-fareast-font-family:"Courier New"'>...</span></p>
   <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-famil=
 y:"Courier New";
-  mso-fareast-font-family:"Courier New"'>&lt;div id=3D&quot;lyrics&quot;&gt=
-;</span></p>
+  mso-fareast-font-family:"Courier New"'>&amp;<span class=3DSpellE>lt;div</=
+span>
+  id=3D&quot;lyrics&quot;&amp;<span class=3DSpellE>gt</span>;</span></p>
   <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-famil=
 y:"Courier New";
-  mso-fareast-font-family:"Courier New"'>&lt;ol&gt;&lt;li
-  value=3D&quot;1&quot;&gt;The Maker of the universe&lt;br/&gt;As Man, for =
-man
-  was made a curse.&lt;br/&gt;The claims of law which He had
-  made,&lt;br/&gt;Unto the uttermost He paid.&lt;/li&gt;&lt;li
-  value=3D&quot;2&quot;&gt;His holy fingers made the bough</span></p>
+  mso-fareast-font-family:"Courier New"'>&amp;<span class=3DSpellE>lt;ol&am=
+p;gt</span>;&amp;<span
+  class=3DSpellE>lt;li</span> value=3D&quot;1&quot;&amp;gt;The Maker of the=
+ <span
+  class=3DSpellE>universe&amp;lt;br</span>/&amp;<span class=3DSpellE>gt;As<=
+/span>
+  Man, for man was made a curse.&amp;<span class=3DSpellE>lt;br</span>/&amp=
+;<span
+  class=3DSpellE>gt;The</span> claims of law which He had made,&amp;<span
+  class=3DSpellE>lt;br</span>/&amp;<span class=3DSpellE>gt;Unto</span> the
+  uttermost He paid.&amp;<span class=3DSpellE>lt</span>;/<span class=3DSpel=
+lE>li&amp;gt</span>;&amp;<span
+  class=3DSpellE>lt;li</span> value=3D&quot;2&quot;&amp;gt;His holy fingers=
+ made
+  the bough</span></p>
   <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-famil=
 y:"Courier New";
   mso-fareast-font-family:"Courier New"'>...</span></p>
@@ -1140,17 +1161,26 @@ ily:"Courier New";
 ily:"Courier New";
     mso-fareast-font-family:"Courier New";color:windowtext'>...</span><span
     style=3D'color:windowtext'><o:p></o:p></span></p>
-    <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
-ily:"Courier New";
-    mso-fareast-font-family:"Courier New";color:windowtext'>from urllib.req=
-uest
-    import urlopen</span><span style=3D'color:windowtext'><o:p></o:p></span=
-></p>
-    <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
-ily:"Courier New";
-    mso-fareast-font-family:"Courier New";color:windowtext'>web_page =3D
-    urlopen(url)</span><span style=3D'color:windowtext'><o:p></o:p></span><=
-/p>
+    <p class=3DMsoNormal style=3D'line-height:125%'><span class=3DGramE><sp=
+an
+    style=3D'font-family:"Courier New";mso-fareast-font-family:"Courier New=
+";
+    color:windowtext'>from</span></span><span style=3D'font-family:"Courier=
+ New";
+    mso-fareast-font-family:"Courier New";color:windowtext'> <span
+    class=3DSpellE>urllib.request</span> import <span class=3DSpellE>urlope=
+n</span></span><span
+    style=3D'color:windowtext'><o:p></o:p></span></p>
+    <p class=3DMsoNormal style=3D'line-height:125%'><span class=3DSpellE><s=
+pan
+    style=3D'font-family:"Courier New";mso-fareast-font-family:"Courier New=
+";
+    color:windowtext'>web_page</span></span><span style=3D'font-family:"Cou=
+rier New";
+    mso-fareast-font-family:"Courier New";color:windowtext'> =3D <span
+    class=3DSpellE>urlopen</span>(<span class=3DSpellE>url</span>)</span><s=
+pan
+    style=3D'color:windowtext'><o:p></o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New";color:windowtext'><span
@@ -1160,8 +1190,9 @@ name,
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New";color:windowtext'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
-    </span>parser.feed(web_page.read().decode('utf-8'))</span><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>parser.feed</span>(<span
+    class=3DSpellE>web_page.read</span>().decode('utf-8'))</span><span
     style=3D'color:windowtext'><o:p></o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
@@ -1216,8 +1247,8 @@ classes that did much of the downloading work. The point was that I
 didn&#8217;t want all of the extra stuff in the HTML page, only the lyrics,=
  as
 shown above. I began with the default package with which Python 3 ships,
-importing the HTMLParser class from html.parser and overriding most of its
-functions.</p>
+importing the <span class=3DSpellE>HTMLParser</span> class from <span
+class=3DSpellE>html.parser</span> and overriding most of its functions.</p>
 
 <p class=3DMsoNormal style=3D'line-height:125%'><o:p>&nbsp;</o:p></p>
 
@@ -1280,39 +1311,52 @@ ily:"Courier New";
     style=3D'color:#002060'><o:p></o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
-    mso-fareast-font-family:"Courier New"'>from html.parser import HTMLPars=
-er</span></p>
+    mso-fareast-font-family:"Courier New"'>from <span class=3DSpellE>html.p=
+arser</span>
+    import <span class=3DSpellE>HTMLParser</span></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><o:p>&nbsp;</o:p></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
-    mso-fareast-font-family:"Courier New"'>class HymnHTMLParser(HTMLParser)=
-:</span></p>
+    mso-fareast-font-family:"Courier New"'>class <span class=3DSpellE>HymnH=
+TMLParser</span>(<span
+    class=3DSpellE>HTMLParser</span>):</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>def __init__(self,
-    tagging, want_tag, start_on=3DNone):</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>def</span>
+    __<span class=3DSpellE>init</span>__(self, tagging, <span class=3DSpell=
+E>want_tag</span>,
+    <span class=3DSpellE>start_on</span>=3DNone):</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>HTMLParser.__init__(self)</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>HTMLParser</span>.__<span class=3DSpellE>init</span>__(s=
+elf)</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>self.recording =3D 0</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>self.recording</span> =3D 0</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>self.data =3D []</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>self.data</span> =3D []</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>self.want_tag, self.tagging, self.start_on =3D want_tag, tagging,
-    start_on</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>self.want_tag</span>, <span class=3DSpellE>self.tagging<=
+/span>, <span
+    class=3DSpellE>self.start_on</span> =3D <span class=3DSpellE>want_tag</=
+span>,
+    tagging, <span class=3DSpellE>start_on</span></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
@@ -1321,20 +1365,22 @@ ily:"Courier New";
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>def
-    handle_starttag(self, tag, attribute):</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>def</span>
+    <span class=3DSpellE>handle_starttag</span>(self, tag, attribute):</spa=
+n></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if self.start_on:</span></p>
+    </span>if <span class=3DSpellE>self.start_on</span>:</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</=
 span>if
-    tag =3D=3D self.start_on[0]:</span></p>
+    tag =3D=3D <span class=3DSpellE>self.start_on</span>[0]:</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
@@ -1346,26 +1392,27 @@ ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if name =3D=3D self.start_on[1] and value =3D=3D self.start_on[2=
-]:</span></p>
+    </span>if name =3D=3D <span class=3DSpellE>self.start_on</span>[1] and =
+value =3D=3D <span
+    class=3DSpellE>self.start_on</span>[2]:</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
 ;&nbsp;&nbsp;&nbsp;
-    </span>self.tagging =3D True</span></p>
+    </span><span class=3DSpellE>self.tagging</span> =3D True</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if self.tagging:</span></p>
+    </span>if <span class=3DSpellE>self.tagging</span>:</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>if tag in self.want_tag:</span></p>
+    </span>if tag in <span class=3DSpellE>self.want_tag</span>:</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
@@ -1377,13 +1424,15 @@ ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>self.data.append(str(value) + ': ')</span></p>
+    </span><span class=3DSpellE>self.data.append</span>(<span class=3DSpell=
+E>str</span>(value)
+    + ': ')</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>self.recording +=3D 1</span></p>
+    </span><span class=3DSpellE>self.recording</span> +=3D 1</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><o:p>&nbsp;</o:p></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
@@ -1397,31 +1446,34 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>def
-    handle_entityref(self, name):</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>def</span>
+    <span class=3DSpellE>handle_entityref</span>(self, name):</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if self.tagging:</span></p>
+    </span>if <span class=3DSpellE>self.tagging</span>:</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>if name =3D=3D 'mdash':</span></p>
+    </span>if name =3D=3D '<span class=3DSpellE>mdash</span>':</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>self.data.append(str('-'))</span></p>
+    </span><span class=3DSpellE>self.data.append</span>(<span class=3DSpell=
+E>str</span>('-'))</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>elif name !=3D 'nbsp':</span></p>
+    </span><span class=3DSpellE>elif</span> name !=3D '<span class=3DSpellE=
+>nbsp</span>':</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
@@ -1436,20 +1488,20 @@ ily:"Courier New";
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>def handle_data(se=
-lf,
-    data):</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>def</span>
+    <span class=3DSpellE>handle_data</span>(self, data):</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if self.recording:</span></p>
+    </span>if <span class=3DSpellE>self.recording</span>:</span></p>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
     mso-fareast-font-family:"Courier New"'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>self.data.append(data)</span></p>
+    </span><span class=3DSpellE>self.data.append</span>(data)</span></p>
     </div>
     <![if !mso]></td>
    </tr>
@@ -1496,22 +1548,25 @@ including errant HTML characters, entities, and the dreaded conversion from
 bytes to strings, with all of the problems with encoding. I thought my needs
 were basic enough that I could handle this project with this simple class, =
 but
-when I ran into errors with broken HTML, I finally made the switch to
-BeautifulSoup. This switch simplified a lot of things, including handling of
-the entities and malformed HTML, <span class=3DdocumentationparaChar>so I c=
-ould
-focus on grabbing the</span> structure and content of the document.</p>
+when I ran into errors with broken HTML, I finally made the switch to <span
+class=3DSpellE>BeautifulSoup</span>. This switch simplified a lot of things,
+including handling of the entities and malformed HTML, <span
+class=3DdocumentationparaChar>so I could focus on grabbing the</span> struc=
+ture
+and content of the document.</p>
 
 <p class=3DMsoNormal style=3D'line-height:125%'><o:p>&nbsp;</o:p></p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'>An aside: why did I=
  need
-the second site parser? Well, obviously I hadn&#8217;t made my HymnHTMLPars=
-er
-very extensible, and though I made some misguided attempts to do so (see the
-want_tag and start_on variables I introduced in an effort to make my code
-reusable), they were not going to cut it for any other web pages, as I soon
-realized. </p>
+the second site parser? Well, obviously I hadn&#8217;t made my <span
+class=3DSpellE>HymnHTMLParser</span> very extensible, and though I made some
+misguided attempts to do so (see the <span class=3DSpellE>want_tag</span> a=
+nd <span
+class=3DSpellE>start_on</span> variables I introduced in an effort to make =
+my
+code reusable), they were not going to cut it for any other web pages, as I
+soon realized. </p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -1520,17 +1575,19 @@ p>
 y of the
 hymns on http://hymnal.net did not actually contain the lyrics, but instead
 placeholder text and a link to an external site, I realized I&#8217;d need
-another parser for these other sites. I made simple, hacky check for these
-links by checking <span class=3DcodeformattingChar>if line[:4] =3D=3D 'http=
-': </span>each
-time I got a line from the song. Then, I switched control of parsing to the
-function in the other class, by calling <span class=3DcodeformattingChar>si=
-te2.parse_html(line,
-file)</span> and changing a flag, <span class=3DcodeformattingChar>parsed</=
-span>,
-that let the original parser know that the other function had taken care of=
- all
-the parsing. </p>
+another parser for these other sites. I made simple, hacky check for these =
+links
+by checking <span class=3DcodeformattingChar>if <span class=3DGramE>line[</=
+span>:4]
+=3D=3D 'http': </span>each time I got a line from the song. Then, I switched
+control of parsing to the function in the other class, by calling <span
+class=3DcodeformattingChar>site2.parse_<span class=3DGramE>html(</span>line=
+, file)</span>
+and changing a flag, <span class=3DcodeformattingChar>parsed</span>, that l=
+et the
+original parser know that the other function had taken care of all the pars=
+ing.
+</p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -1598,14 +1655,16 @@ ne;
 st-font-family:
     "Times New Roman";mso-fareast-theme-font:minor-fareast;color:windowtext=
 '>from
-    bs4 import BeautifulSoup<o:p></o:p></span></p>
+    bs4 import <span class=3DSpellE>BeautifulSoup</span><o:p></o:p></span><=
+/p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
 ne;
     text-autospace:none'><span style=3D'font-family:"Courier New";mso-farea=
 st-font-family:
     "Times New Roman";mso-fareast-theme-font:minor-fareast;color:windowtext=
 '>from
-    urllib.request import urlopen<o:p></o:p></span></p>
+    <span class=3DSpellE>urllib.request</span> import <span class=3DSpellE>=
+urlopen</span><o:p></o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
 ne;
     text-autospace:none'><span style=3D'font-family:"Courier New";mso-farea=
@@ -1619,7 +1678,7 @@ ne;
 st-font-family:
     "Times New Roman";mso-fareast-theme-font:minor-fareast;color:windowtext=
 '>import
-    util<o:p></o:p></span></p>
+    <span class=3DSpellE>util</span><o:p></o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
 ne;
     text-autospace:none'><span style=3D'font-family:"Courier New";mso-farea=
@@ -1628,20 +1687,28 @@ st-font-family:
 '><o:p>&nbsp;</o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
 ne;
-    text-autospace:none'><span style=3D'font-family:"Courier New";mso-farea=
-st-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;color:windowtext=
-'>def
-    <span style=3D'mso-bidi-font-weight:bold'>parse_url</span>(url):<o:p></=
-o:p></span></p>
+    text-autospace:none'><span class=3DSpellE><span style=3D'font-family:"C=
+ourier New";
+    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-=
+fareast;
+    color:windowtext'>def</span></span><span style=3D'font-family:"Courier =
+New";
+    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-=
+fareast;
+    color:windowtext'> <span class=3DSpellE><span style=3D'mso-bidi-font-we=
+ight:
+    bold'>parse_url</span></span>(<span class=3DSpellE>url</span>):<o:p></o=
+:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
 ne;
     text-autospace:none'><span style=3D'font-family:"Courier New";mso-farea=
 st-font-family:
     "Times New Roman";mso-fareast-theme-font:minor-fareast;color:windowtext=
 '><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>soup =3D
-    BeautifulSoup(urlopen(url).read().decode(<span style=3D'mso-bidi-font-s=
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>soup =3D <span
+    class=3DSpellE>BeautifulSoup</span>(<span class=3DSpellE>urlopen</span>=
+(<span
+    class=3DSpellE>url</span>).read().decode(<span style=3D'mso-bidi-font-s=
 tyle:
     italic'>'utf-8'</span>))<o:p></o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
@@ -1650,23 +1717,24 @@ ne;
 st-font-family:
     "Times New Roman";mso-fareast-theme-font:minor-fareast;color:windowtext=
 '><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>def <span
-    style=3D'mso-bidi-font-weight:bold'>filt</span>(tag):<o:p></o:p></span>=
-</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>def</span>
+    <span class=3DSpellE><span style=3D'mso-bidi-font-weight:bold'>filt</sp=
+an></span>(tag):<o:p></o:p></span></p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
 ne;
     text-autospace:none'><span style=3D'font-family:"Courier New";mso-farea=
 st-font-family:
     "Times New Roman";mso-fareast-theme-font:minor-fareast;color:windowtext=
 '><span
-    style=3D'mso-spacerun:yes'>&nbsp;</span><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>=
-return
-    (tag.name =3D=3D &#8216;font&#8217; and<o:p></o:p></span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>return (tag.name =3D=3D &#8216;font&#8217; and<o:p></o:p></span>=
+</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>tag.has_key(&#8216;class&#8217;) and</p>
+    </span><span class=3DSpellE>tag.has_key</span>(&#8216;class&#8217;) and=
+</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1674,28 +1742,35 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>tag.parent.parent.parent.has_key(&#8216;width&#8217;) and</p>
+    </span><span class=3DSpellE>tag.parent.parent.parent.has_key</span>(&#8=
+216;width&#8217;)
+    and</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>(tag.parent.parent.parent[&#8216;width&#8217;] in [&#8216;400&#8=
-217;,
-    &#8216;500&#8217;] or</p>
+    </span>(<span class=3DSpellE>tag.parent.parent.parent</span>[&#8216;wid=
+th&#8217;]
+    in [&#8216;400&#8217;, &#8216;500&#8217;] or</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>tag.parent.parent.parent[&#8216;width&#8217;] =3D=3D &#8216;760&=
-#8217;
-    and tag[&#8216;class&#8217;] =3D=3D [&#8216;text2&#8217;]))</p>
+    </span><span class=3DSpellE>tag.parent.parent.parent</span>[&#8216;widt=
+h&#8217;]
+    =3D=3D &#8216;760&#8217; and tag[&#8216;class&#8217;] =3D=3D
+    [&#8216;text2&#8217;]))</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
 /span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>soup =3D
-    BeautifulSoup(str(soup.find_all(filt)))</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>soup =3D <span
+    class=3DSpellE>BeautifulSoup</span>(<span class=3DSpellE>str</span>(<sp=
+an
+    class=3DSpellE>soup.find_all</span>(<span class=3DSpellE>filt</span>)))=
+</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>return
-    util.replace_unicode(soup.text)</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>return <span
+    class=3DSpellE>util.replace_unicode</span>(<span class=3DSpellE>soup.te=
+xt</span>)</p>
     <p class=3DMsoNormal style=3D'line-height:125%;mso-layout-grid-align:no=
 ne;
     text-autospace:none'><span style=3D'font-family:"Courier New";mso-farea=
@@ -1814,14 +1889,14 @@ ily:"Courier New";
     mso-fareast-font-family:"Courier New";color:#002060'>[Source: util.py]<=
 /span><span
     style=3D'color:#002060'><o:p></o:p></span></p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>def replace_unicod=
-e(s):</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span class=3DSpel=
+lE>def</span>
+    <span class=3DSpellE>replace_unicode</span>(s):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>unicode_chars =3D =
-{<span
-    style=3D'mso-bidi-font-style:italic'>'\xa0'</span>: <span style=3D'mso-=
-bidi-font-style:
-    italic'>&quot; &quot;</span>, </p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>unicode_chars</span>
+    =3D {<span style=3D'mso-bidi-font-style:italic'>'\xa0'</span>: <span
+    style=3D'mso-bidi-font-style:italic'>&quot; &quot;</span>, </p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
@@ -1830,16 +1905,19 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
     style=3D'mso-bidi-font-style:italic'>&quot;'&quot;</span>, </p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;
+    </span><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;</span><span
+    style=3D'mso-bidi-font-style:italic'>'\x92'</span>: <span style=3D'mso-=
+bidi-font-style:
+    italic'>&quot;'&quot;</span>, </p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
 ;&nbsp;
-    </span><span style=3D'mso-bidi-font-style:italic'>'\x92'</span>: <span
-    style=3D'mso-bidi-font-style:italic'>&quot;'&quot;</span>, </p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</spa=
-n><span
-    style=3D'mso-bidi-font-style:italic'>'\x20\x20'</span>: <span
+    </span><span style=3D'mso-bidi-font-style:italic'>'\x20\x20'</span>: <s=
+pan
     style=3D'mso-bidi-font-style:italic'>&quot;\\n&quot;</span>, </p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
@@ -1873,18 +1951,19 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
     </span><span style=3D'mso-bidi-font-style:italic'>'\n, '</span>: <span
     style=3D'mso-bidi-font-style:italic'>'\\n'</span>, </p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
-;&nbsp;
-    </span><span style=3D'mso-bidi-font-style:italic'>' Chorus\n,\n,'</span=
->: <span
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+    style=3D'mso-bidi-font-style:italic'>' Chorus\n,\n,'</span>: <span
     style=3D'mso-bidi-font-style:italic'>'chorus:'</span>}</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>for char in
-    unicode_chars:</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>for char in <span
+    class=3DSpellE>unicode_chars</span>:</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>s =3D s.replace(char, unicode_chars[char])</p>
+    </span>s =3D <span class=3DSpellE>s.replace</span>(char, <span class=3D=
+SpellE>unicode_chars</span>[char])</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>return s</p>
     </div>
@@ -1918,7 +1997,7 @@ hapes & supportFields]><v:shape
 
 <p class=3Ddocumentationheading2 style=3D'line-height:125%'>STEP 2: turning=
  the
-content into application-consumable json</p>
+content into application-consumable <span class=3DSpellE>json</span></p>
 
 <p class=3Ddocumentationheading2 style=3D'line-height:125%'><o:p>&nbsp;</o:=
 p></p>
@@ -1942,13 +2021,15 @@ p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'>By the way, JSON to=
 ok me a
-little while to learn, since I wasn&#8217;t familiar with Javascript before
-this project. I wasn&#8217;t clear that there are two different types: 1) J=
-SON
-objects, and 2) JSON arrays. There are good libraries for dealing with both,
-and they&#8217;re both highly compatible with other languages, including Ja=
-va,
-as I found out later. </p>
+little while to learn, since I wasn&#8217;t familiar with <span class=3DSpe=
+llE>Javascript</span>
+before this project. I wasn&#8217;t clear that there are two different type=
+s:
+1) JSON objects, and 2) JSON arrays. There are good libraries for dealing w=
+ith
+both, and they&#8217;re both highly compatible with other languages, includ=
+ing
+Java, as I found out later. </p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -2139,9 +2220,9 @@ about which components will be retrieved first.</p>
 e I/O
 works in Python, and luckily, this was just as easy. Python will assume you=
  are
-starting from the directory where your file is if you don&#8217;t have an a=
-bsolute
-path, so I created a <span class=3DcodeformattingChar>hymns </span><span
+starting from the directory where your file is if you don&#8217;t have an
+absolute path, so I created a <span class=3DcodeformattingChar>hymns </span=
+><span
 class=3DdocumentationparaChar>folder that would hold the hymns I was curren=
 tly
 downloading. Then, when I was writing my files, I just had to use some simp=
@@ -2205,8 +2286,9 @@ AI0EAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAAlgUAAAAA
     <div>
     <p class=3Dcodeformatting style=3D'line-height:125%'>file =3D open(file=
 name, 'w')</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>file.write(song_te=
-xt)</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span class=3DSpel=
+lE>file.write</span>(<span
+    class=3DSpellE>song_text</span>)</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><o:p>&nbsp;</o:p><=
 /p>
     <p class=3Dcodeformatting style=3D'line-height:125%'># alternatively, y=
@@ -2214,8 +2296,9 @@ ou can
     open a file just for reading.</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'>file =3D open(file=
 name, 'r')</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>song_text =3D file=
-.read()</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span class=3DSpel=
+lE>song_text</span>
+    =3D <span class=3DSpellE>file.read</span>()</p>
     </div>
     <![if !mso]></td>
    </tr>
@@ -2307,26 +2390,32 @@ AI0EAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAAlgUAAAAA
 ily:"Courier New";
     mso-fareast-font-family:"Courier New";color:#002060'>[Source: util.py]<=
 o:p></o:p></span></p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>def
-    get_files_in_directory(directory):</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span class=3DSpel=
+lE>def</span>
+    <span class=3DSpellE>get_files_in_directory</span>(directory):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>import os</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>import <span
+    class=3DSpellE>os</span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>dirList =3D
-    os.listdir(directory)</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>dirList</span>
+    =3D <span class=3DSpellE>os.listdir</span>(directory)</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>files =3D []</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>for d in dirList:<=
-/p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>for d</span>
+    in <span class=3DSpellE>dirList</span>:</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if d[len(d) - 3: len(d)] =3D=3D <span style=3D'mso-bidi-font-sty=
-le:italic'>'txt'</span>:</p>
+    </span>if d[<span class=3DSpellE>len</span>(d) - 3: <span class=3DSpell=
+E>len</span>(d)]
+    =3D=3D <span style=3D'mso-bidi-font-style:italic'>'txt'</span>:</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;</span>files.append(d)</p>
+bsp;</span><span
+    class=3DSpellE>files.append</span>(d)</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>return files</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><o:p>&nbsp;</o:p><=
@@ -2335,13 +2424,16 @@ bsp;</span>files.append(d)</p>
 -fareast-font-family:
     "Courier New"'>[<span style=3D'color:#666666'>Source: run.py</span>]<o:=
 p></o:p></span></p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>filenames =3D
-    util.get_files_in_directory('./hymns') </p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'>filenames =3D <span
+    class=3DSpellE>util.get_files_in_directory</span>('./hymns') </p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><o:p>&nbsp;</o:p><=
 /p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>def <span
-    style=3D'mso-bidi-font-weight:bold'>run</span>(song_type, start_song,
-    end_song):</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span class=3DSpel=
+lE>def</span>
+    <span style=3D'mso-bidi-font-weight:bold'>run</span>(<span class=3DSpel=
+lE>song_type</span>,
+    <span class=3DSpellE>start_song</span>, <span class=3DSpellE>end_song</=
+span>):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><o:p>&nbsp;</o:p><=
 /p>
     <p class=3Dcodeformatting style=3D'line-height:125%'>...</p>
@@ -2356,9 +2448,10 @@ p></o:p></span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>parse.parse(url, filename, parser)<span style=3D'mso-fareast-fon=
-t-family:
-    "Courier New"'><o:p></o:p></span></p>
+    </span><span class=3DSpellE>parse.parse</span>(<span class=3DSpellE>url=
+</span>,
+    filename, parser)<span style=3D'mso-fareast-font-family:"Courier New"'>=
+<o:p></o:p></span></p>
     </div>
     <![if !mso]></td>
    </tr>
@@ -2390,9 +2483,9 @@ p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'>In the end, with two
 different sites that I had to turn into a uniform JSON format, I resorted t=
-o a pretty
-reliable, but low-level method. I looped through every letter in all 1,885
-songs, adding formatting where I needed it. </p>
+o a
+pretty reliable, but low-level method. I looped through every letter in all
+1,885 songs, adding formatting where I needed it. </p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -2410,8 +2503,8 @@ preserving all of its content.</p>
 p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'>I began my attempt =
-by outputting
-some JSON-object formatted songs. </p>
+by
+outputting some JSON-object formatted songs. </p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -2472,8 +2565,10 @@ AACOBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAJcFAAAAAA=3D=3D
 ily:"Courier New";
     mso-fareast-font-family:"Courier New";color:#002060'>[Source: util.py]<=
 o:p></o:p></span></p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>def <span
-    style=3D'mso-bidi-font-weight:bold'>jsonify</span>(s):</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span class=3DSpel=
+lE>def</span>
+    <span class=3DSpellE><span style=3D'mso-bidi-font-weight:bold'>jsonify<=
+/span></span>(s):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&quot;&quot;&quot;=
  Takes
@@ -2499,9 +2594,9 @@ o:p></o:p></span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>and turns it into =
-a JSON
-    object of the format</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DGram=
+E>and</span>
+    turns it into a JSON object of the format</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>{&quot;[TAG]&quot;:
     &quot;Song words</p>
@@ -2531,89 +2626,119 @@ a JSON
  =3D </span>[<span
     style=3D'mso-bidi-font-style:italic'>'chorus'</span>, <span style=3D'ms=
 o-bidi-font-style:
-    italic'>'nonum'</span>, <span style=3D'mso-bidi-font-style:italic'>'not=
-e'</span>,
-    <span style=3D'mso-bidi-font-style:italic'>'copyright'</span>]</p>
+    italic'>'<span class=3DSpellE>nonum</span>'</span>, <span style=3D'mso-=
+bidi-font-style:
+    italic'>'note'</span>, <span style=3D'mso-bidi-font-style:italic'>'copy=
+right'</span>]</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><o:p>&nbsp;</o:p><=
 /p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>song_s =3D <span
-    style=3D'mso-bidi-font-style:italic'>'{&quot;'</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DSpel=
+lE>song_s</span>
+    =3D <span style=3D'mso-bidi-font-style:italic'>'{&quot;'</span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>for i in range(len=
-(s)):</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DGram=
+E>for</span>
+    <span class=3DSpellE>i</span> in range(<span class=3DSpellE>len</span>(=
+s)):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>for word in TAGS:</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DGramE>for</span> word in TAGS:</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>if (s[i - 1] =3D=3D <span style=3D'mso-bidi-font-style:italic'>'=
-\n'</span>
-    and s[i: i + len(word) + 1] =3D=3D word + <span style=3D'mso-bidi-font-=
-style:
-    italic'>':'</span> or</p>
+    </span><span class=3DGramE>if</span> (s[<span class=3DSpellE>i</span> -=
+ 1] =3D=3D <span
+    style=3D'mso-bidi-font-style:italic'>'\n'</span> and s[<span class=3DSp=
+ellE>i</span>:
+    <span class=3DSpellE>i</span> + <span class=3DSpellE>len</span>(word) +=
+ 1] =3D=3D
+    word + <span style=3D'mso-bidi-font-style:italic'>':'</span> or</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>s[i] =3D=3D <span style=3D'mso-bidi-font-style:italic'>':'</span=
-> and s[i
-    - len(word): i] =3D=3D word):</p>
+    </span><span class=3DGramE>s[</span><span class=3DSpellE>i</span>] =3D=
+=3D <span
+    style=3D'mso-bidi-font-style:italic'>':'</span> and s[<span class=3DSpe=
+llE>i</span>
+    - <span class=3DSpellE>len</span>(word): <span class=3DSpellE>i</span>]=
+ =3D=3D
+    word):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>song_s +=3D <span style=3D'mso-bidi-font-style:italic'>'&quot;'<=
-/span></p>
+    </span><span class=3DSpellE>song_s</span> +=3D <span style=3D'mso-bidi-=
+font-style:
+    italic'>'&quot;'</span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if (s[i - 1] =3D=3D <span style=3D'mso-bidi-font-style:italic'>'=
-\n'</span>
-    and is_numeric(s[i]) or</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;
-    </span>s[i] =3D=3D <span style=3D'mso-bidi-font-style:italic'>':'</span=
-> and
-    is_numeric(s[i - 1]) or </p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DGramE>if</span> (s[<span class=3DSpellE>i</span> - 1] =3D=3D <s=
+pan
+    style=3D'mso-bidi-font-style:italic'>'\n'</span> and <span class=3DSpel=
+lE>is_numeric</span>(s[<span
+    class=3DSpellE>i</span>]) or</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>s[i - 1] =3D=3D <span style=3D'mso-bidi-font-style:italic'>' '</=
-span> and
-    s[i - 2] =3D=3D <span style=3D'mso-bidi-font-style:italic'>':'</span>):=
-</p>
+    </span><span class=3DGramE>s[</span><span class=3DSpellE>i</span>] =3D=
+=3D <span
+    style=3D'mso-bidi-font-style:italic'>':'</span> and <span class=3DSpell=
+E>is_numeric</span>(s[<span
+    class=3DSpellE>i</span> - 1]) or </p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>song_s +=3D <span style=3D'mso-bidi-font-style:italic'>'&quot;'<=
-/span></p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>elif<span style=3D'mso-spacerun:yes'>&nbsp; </span>s[i] =3D=3D <=
-span
-    style=3D'mso-bidi-font-style:italic'>'\n'</span> and (is_numeric(s[i + =
-1]) or
-    s[i + 1] =3D=3D <span style=3D'mso-bidi-font-style:italic'>'c'</span> o=
-r s[i + 1]
-    =3D=3D <span style=3D'mso-bidi-font-style:italic'>'n'</span>):</p>
+    </span><span class=3DGramE>s[</span><span class=3DSpellE>i</span> - 1] =
+=3D=3D <span
+    style=3D'mso-bidi-font-style:italic'>' '</span> and s[<span class=3DSpe=
+llE>i</span>
+    - 2] =3D=3D <span style=3D'mso-bidi-font-style:italic'>':'</span>):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>song_s +=3D <span style=3D'mso-bidi-font-style:italic'>'&quot;,'=
-</span></p>
+    </span><span class=3DSpellE>song_s</span> +=3D <span style=3D'mso-bidi-=
+font-style:
+    italic'>'&quot;'</span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>if not (i =3D=3D len(s) - 2 and s[i] =3D=3D <span style=3D'mso-b=
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>elif</span><span style=3D'mso-spacerun:yes'>&nbsp; </spa=
+n>s[<span
+    class=3DSpellE>i</span>] =3D=3D <span style=3D'mso-bidi-font-style:ital=
+ic'>'\n'</span>
+    and (<span class=3DSpellE>is_numeric</span>(s[<span class=3DSpellE>i</s=
+pan> +
+    1]) or s[<span class=3DSpellE>i</span> + 1] =3D=3D <span style=3D'mso-b=
 idi-font-style:
+    italic'>'c'</span> or s[<span class=3DSpellE>i</span> + 1] =3D=3D <span
+    style=3D'mso-bidi-font-style:italic'>'n'</span>):</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;
+    </span><span class=3DSpellE>song_s</span> +=3D <span style=3D'mso-bidi-=
+font-style:
+    italic'>'&quot;,'</span></p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;</span><span class=3DGramE=
+>if</span>
+    not (<span class=3DSpellE>i</span> =3D=3D <span class=3DSpellE>len</spa=
+n>(s) - 2
+    and s[<span class=3DSpellE>i</span>] =3D=3D <span style=3D'mso-bidi-fon=
+t-style:
     italic'>'\n'</span>):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>song_s +=3D s[i]</p>
+    </span><span class=3DSpellE>song_s</span> +=3D s[<span class=3DSpellE>i=
+</span>]</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>return song_s + <s=
-pan
-    style=3D'mso-bidi-font-style:italic'>'&quot;}'</span></p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DGram=
+E>return</span>
+    <span class=3DSpellE>song_s</span> + <span style=3D'mso-bidi-font-style=
+:italic'>'&quot;}'</span></p>
     </div>
     <![if !mso]></td>
    </tr>
@@ -2657,15 +2782,17 @@ p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'>It&#8217;s not pret=
 ty, but
-it worked. Comparing the structure of the strings that I began with (see the
-docstring in the beginning of the above function) to the format I needed fo=
-r a
-JSON object (see the code above for that), I was basically adding some <span
-class=3DcodeformattingChar>&#8220;</span>,<span class=3DcodeformattingChar>=
- {}</span>,
-and the occasional <span class=3DcodeformattingChar>, </span>to the strings=
- where
-they were needed.</p>
+it worked. Comparing the structure of the strings that I began with (see th=
+e <span
+class=3DSpellE>docstring</span> in the beginning of the above function) to =
+the
+format I needed for a JSON object (see the code above for that), I was
+basically adding some <span class=3DcodeformattingChar>&#8220;</span>,<span
+class=3DcodeformattingChar> {}</span>, and the <span class=3DGramE>occasion=
+al <span
+class=3DcodeformattingChar>,</span></span><span class=3DcodeformattingChar>=
+ </span>to
+the strings where they were needed.</p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -2676,17 +2803,18 @@ once I started downloading them from the Android application, I was horrifi=
 ed
 to find that they had no apparent order. Plus, I realized that those pesky =
 line
-breaks had unescaped themselves when I put them on the website and sent them
-through the Internet, resulting in <span class=3DdocumentationlinkChar><span
-style=3D'color:windowtext'><a href=3D"http://jsonlint.com/"><span style=3D'=
-color:
-#558ED5;mso-themecolor:text2;mso-themetint:153;mso-style-textfill-fill-colo=
-r:
-#558ED5;mso-style-textfill-fill-themecolor:text2;mso-style-textfill-fill-al=
-pha:
-100.0%;mso-style-textfill-fill-colortransforms:"lumm=3D60000 lumo=3D40000";
-text-decoration:none;text-underline:none'>invalid JSON</span></a>.</span></=
-span>
+breaks had <span class=3DSpellE>unescaped</span> themselves when I put them=
+ on
+the website and sent them through the Internet, resulting in <span
+class=3DdocumentationlinkChar><span style=3D'color:windowtext'><a
+href=3D"http://jsonlint.com/"><span style=3D'color:#558ED5;mso-themecolor:t=
+ext2;
+mso-themetint:153;mso-style-textfill-fill-color:#558ED5;mso-style-textfill-=
+fill-themecolor:
+text2;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortra=
+nsforms:
+"lumm=3D60000 lumo=3D40000";text-decoration:none;text-underline:none'>inval=
+id JSON</span></a>.</span></span>
 (It&#8217;s not supposed to be broken by line breaks.) It was time to conve=
 rt
 them into valid JSON arrays.</p>
@@ -2748,10 +2876,11 @@ AACOBAAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAAEAAQA8wAAAJcFAAAAAA=3D=3D
     <div>
     <p class=3DMsoNormal style=3D'line-height:125%'><span style=3D'font-fam=
 ily:"Courier New";
-    mso-fareast-font-family:"Courier New";color:#002060'>[Source:
-    jobjToArray.py]<o:p></o:p></span></p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'>def run(directory)=
-:</p>
+    mso-fareast-font-family:"Courier New";color:#002060'>[Source: jobjToArr=
+ay.py]<o:p></o:p></span></p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span class=3DSpel=
+lE><span
+    class=3DGramE>def</span></span> run(directory):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>&quot;&quot;&quot;=
  Takes
@@ -2781,9 +2910,9 @@ ily:"Courier New";
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>and turns it into =
-a JSON
-    array of the format</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DGram=
+E>and</span>
+    turns it into a JSON array of the format</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
@@ -2811,96 +2940,130 @@ words</p>
 </p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>TAGS =3D ['non', '=
-cho',
-    'not', 'cop', ', &quot;']</p>
+<span
+    class=3DSpellE>cho</span>', 'not', 'cop', ', &quot;']</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>import util</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DGram=
+E>import</span>
+    <span class=3DSpellE>util</span></p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>files =3D
-    util.get_files_in_directory(directory)</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DGram=
+E>files</span>
+    =3D <span class=3DSpellE>util.get_files_in_directory</span>(directory)<=
+/p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>for f in files:</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span class=3DGram=
+E>for</span>
+    f in files:</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>song_text =3D open(directory + f, 'r').read()</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>song_text</span> =3D <span class=3DGramE>open(</span>dir=
+ectory +
+    f, 'r').read()</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><o:p>&nbsp;</o:p><=
 /p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span># The following line escapes the line breaks</p>
+    </span># <span class=3DGramE>The</span> following line escapes the line
+    breaks</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>song_text =3D (song_text.replace('&quot;: &quot;', ' ')</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
-;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>.replace('{', '[')</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>.replace('}',
-    ']')</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>song_text</span> =3D (<span class=3DSpellE>song_<span cl=
+ass=3DGramE>text.replace</span></span><span
+    class=3DGramE>(</span>'&quot;: &quot;', ' ')</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
 ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>.replace('\n', '\\n')</p>
+    </span>.<span class=3DGramE>replace(</span>'{', '[')</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;</span>.<span
+    class=3DGramE>replace(</span>'}', ']')</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
 ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>.replace('&quot;,\\n&quot;', '&quot;, &quot;'))</p>
+    </span>.<span class=3DGramE>replace(</span>'\n', '\\n')</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>new_file =3D open(directory + f, 'w')</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>.<span class=3DGramE>replace(</span>'&quot;,\\n&quot;', '&quot;,
+    &quot;'))</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>for i in range(len(song_text)):</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DSpellE>new_file</span> =3D <span class=3DGramE>open(</span>dire=
+ctory + f,
+    'w')</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span><span
+    class=3DGramE>for</span> <span class=3DSpellE>i</span> in range(<span
+    class=3DSpellE>len</span>(<span class=3DSpellE>song_text</span>)):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>if (song_text[i] =3D=3D '&quot;' </p>
+    </span><span class=3DGramE>if</span> (<span class=3DSpellE>song_text</s=
+pan>[<span
+    class=3DSpellE>i</span>] =3D=3D '&quot;' </p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+    class=3DGramE>and</span> <span class=3DSpellE>song_text</span>[<span
+    class=3DSpellE>i</span> + 1: <span class=3DSpellE>i</span> + 4] not in =
+TAGS and</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>and song_text[i + 1: i + 4] not in TAGS and</p>
+    </span><span class=3DGramE>not</span> <span class=3DSpellE>util.is_nume=
+ric</span>(<span
+    class=3DSpellE>song_text</span>[<span class=3DSpellE>i</span> + 1]) and=
+</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>not util.is_numeric(song_text[i + 1]) and</p>
+    </span><span class=3DSpellE>song_<span class=3DGramE>text</span></span>=
+<span
+    class=3DGramE>[</span><span class=3DSpellE>i</span> + 1] !=3D ']'):</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>song_text[i + 1] !=3D ']'):</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>new_file.write('\\&quot;')</p>
+    </span><span class=3DSpellE>new_<span class=3DGramE>file.write</span></=
+span><span
+    class=3DGramE>(</span>'\\&quot;')</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;
-    </span>else:</p>
+    </span><span class=3DGramE>else</span>:</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>try:</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</=
-span>new_file.write(song_text[i])</p>
-    <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
-bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>except: #index of out bounds due to song_text[i + 1]</p>
+    </span><span class=3DGramE>try</span>:</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
 bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>pass # done with file, nothing to do</p>
+    </span><span class=3DSpellE>new_<span class=3DGramE>file.write</span></=
+span><span
+    class=3DGramE>(</span><span class=3DSpellE>song_text</span>[<span class=
+=3DSpellE>i</span>])</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span><span class=3DGramE>except</span>: #index of out bounds due to <=
+span
+    class=3DSpellE>song_text</span>[<span class=3DSpellE>i</span> + 1]</p>
+    <p class=3Dcodeformatting style=3D'line-height:125%'><span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span><span class=3DGramE>pass</span> # done with file, nothing to do<=
+/p>
     </div>
     <![if !mso]></td>
    </tr>
@@ -2949,16 +3112,16 @@ pportFields]><v:shape
 p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'>Finally, all I had =
-to do was
-add the line <span class=3DcodeformattingChar>jobjToArray.run('./hymns/')</=
-span><span
-style=3D'font-size:10.0pt;line-height:125%;font-family:Consolas;mso-fareast=
--font-family:
-"Times New Roman";mso-fareast-theme-font:minor-fareast'> </span>to the end =
-of
-my <span class=3DcodeformattingChar>run.py </span>file to ensure that from =
-now
-on, I&#8217;d be downloading JSON arrays.</p>
+to do
+was add the line <span class=3DSpellE><span class=3DcodeformattingChar>jobj=
+ToArray.run</span></span><span
+class=3DcodeformattingChar>('./hymns/')</span><span style=3D'font-size:10.0=
+pt;
+line-height:125%;font-family:Consolas;mso-fareast-font-family:"Times New Ro=
+man";
+mso-fareast-theme-font:minor-fareast'> </span>to the end of my <span
+class=3DcodeformattingChar>run.py </span>file to ensure that from now on,
+I&#8217;d be downloading JSON arrays.</p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -3057,8 +3220,10 @@ ily:"Courier New";
     style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>ECHO %%x&gt;&gt;js=
 on.log</p>
     <p class=3Dcodeformatting style=3D'line-height:125%'><span
-    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>CAT %%x | python -m
-    json.tool 1&gt;nul 2&gt;&gt;json.log)</p>
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>CAT %%x | python -=
+m <span
+    class=3DSpellE>json.tool</span> 1&gt;<span class=3DSpellE>nul</span>
+    2&gt;&gt;json.log)</p>
     </div>
     <![if !mso]></td>
    </tr>
@@ -3085,17 +3250,16 @@ p>
 d, this
 batch script loops through each file, <span class=3DcodeformattingChar>%%x<=
 /span>,
-in the current directory, feeding its contents to the Python json.tool modu=
-le,
-which checks for valid JSON. It <span class=3DcodeformattingChar>echo</span=
->s
-stdoutput1 to <span class=3DcodeformattingChar>NUL</span> because I wasn&#8=
-217;t
-interested in the files that didn&#8217;t cause errors, and stdoutput2 went=
- to
-an error file, json.log, which I could browse for all my files, finding tho=
-se
-that were not valid JSON. </p>
+in the current directory, feeding its contents to the Python <span
+class=3DSpellE>json.tool</span> module, which checks for valid JSON. It <sp=
+an
+class=3DSpellE><span class=3DcodeformattingChar>echo</span>s</span> stdoutp=
+ut1 to <span
+class=3DcodeformattingChar>NUL</span> because I wasn&#8217;t interested in =
+the
+files that didn&#8217;t cause errors, and stdoutput2 went to an error file,
+json.log, which I could browse for all my files, finding those that were not
+valid JSON. </p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -3104,12 +3268,13 @@ p>
  success
 rate: about 20 files were empty, which I&#8217;m going to assume was a resu=
 lt
-of some kind of problem with the network connection created by the Python
-urllib module, because this is a recurring problem that seems to be some ki=
-nd
-of timeout mechanism that stops me from downloading thousands of files too
-quickly. I had errors in parsing about 6 files. These were just unforeseen
-formats that wouldn&#8217;t take too long fix.</p>
+of some kind of problem with the network connection created by the Python <=
+span
+class=3DSpellE>urllib</span> module, because this is a recurring problem th=
+at
+seems to be some kind of timeout mechanism that stops me from downloading
+thousands of files too quickly. I had errors in parsing about 6 files. These
+were just unforeseen formats that wouldn&#8217;t take too long fix.</p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -3128,10 +3293,10 @@ ld
 be downloaded from client devices. I went with Node.js, since it seemed lik=
 e a
 cutting-edge development in web development, and I found that it was a
-relatively easy platform to pick up, similar in a lot of ways to Django for
-Python. Furthermore, all of the people I knew in person used Node.js for th=
-eir
-cool-looking sites.</p>
+relatively easy platform to pick up, similar in a lot of ways to <span
+class=3DSpellE>Django</span> for Python. Furthermore, all of the people I k=
+new in
+person used Node.js for their cool-looking sites.</p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -3175,27 +3340,29 @@ ction
 and <span class=3DcodeformattingChar>handle</span> dictionary to the server=
 . When
 a request to the site is received, it triggers the callback to <span
-class=3DcodeformattingChar>onRequest</span> in <span class=3Dcodeformatting=
-Char>server.js</span>.
-The server parses the query, and calls the <span class=3DcodeformattingChar=
->route</span>
-function that was passed from the main component, passing it the <span
-class=3DcodeformattingChar>handle</span> dictionary, along with the parsed =
-query.
-The router uses the <span class=3DcodeformattingChar>handle</span> dictiona=
-ry to
-find the correct function, and then calls it on the query. The request hand=
-lers
-do most of the heavy lifting: they perform the response to the requests
-received.</p>
+class=3DSpellE><span class=3DcodeformattingChar>onRequest</span></span> in =
+<span
+class=3DcodeformattingChar>server.js</span>. The server parses the query, a=
+nd
+calls the <span class=3DcodeformattingChar>route</span> function that was p=
+assed
+from the main component, passing it the <span class=3DcodeformattingChar>ha=
+ndle</span>
+dictionary, along with the parsed query. The router uses the <span
+class=3DcodeformattingChar>handle</span> dictionary to find the correct fun=
+ction,
+and then calls it on the query. The request handlers do most of the heavy
+lifting: they perform the response to the requests received.</p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'>The key in all of t=
 his is
-the callbacks and message passing, which allow non-blocking and flexibility.
-It&#8217;s complex and I still haven&#8217;t mastered it.</p>
+the callbacks and message passing, which allow non-blocking and flexibility=
+. <span
+class=3DGramE>It&#8217;s</span> complex and I still haven&#8217;t mastered =
+it.</p>
 
 <p class=3Ddocumentationpara style=3D'line-height:125%'><o:p>&nbsp;</o:p></=
 p>
@@ -3218,20 +3385,27 @@ straight to Beautiful Soup.</p>
 <p class=3Ddocumentationpara>From Step 2:</p>
 
 <p class=3Ddocumentationpara><span style=3D'mso-spacerun:yes'>&nbsp; </span=
->- Use the
-built-in Python 3 JSON tool. It turns out that turning Python lists into JS=
-ON
-arrays is trivially easy using the JSON encoder from the <span
+>- Use
+the built-in Python 3 JSON tool. It turns out that turning Python lists into
+JSON arrays is trivially easy using the JSON encoder from the <span
 class=3DdocumentationlinkChar><span style=3D'color:windowtext'><a
 href=3D"http://docs.python.org/3.1/library/json.html#encoders-and-decoders"=
 ><span
+class=3DSpellE><span style=3D'color:#558ED5;mso-themecolor:text2;mso-themet=
+int:
+153;mso-style-textfill-fill-color:#558ED5;mso-style-textfill-fill-themecolo=
+r:
+text2;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortra=
+nsforms:
+"lumm=3D60000 lumo=3D40000";text-decoration:none;text-underline:none'>json<=
+/span></span><span
 style=3D'color:#558ED5;mso-themecolor:text2;mso-themetint:153;mso-style-tex=
 tfill-fill-color:
 #558ED5;mso-style-textfill-fill-themecolor:text2;mso-style-textfill-fill-al=
 pha:
 100.0%;mso-style-textfill-fill-colortransforms:"lumm=3D60000 lumo=3D40000";
-text-decoration:none;text-underline:none'>json module</span></a></span></sp=
-an>.</p>
+text-decoration:none;text-underline:none'> module</span></a></span></span>.=
+</p>
 
 <p class=3Ddocumentationpara><span style=3D'mso-spacerun:yes'>&nbsp; </span=
 >-
@@ -3248,8 +3422,8 @@ like an unordered JSON object.</p>
 <p class=3Ddocumentationpara>From Step 3:</p>
 
 <p class=3Ddocumentationpara><span style=3D'mso-spacerun:yes'>&nbsp; </span=
->- Node.js
-is a great platform to start with web development.</p>
+>-
+Node.js is a great platform to start with web development.</p>
 
 <p class=3Ddocumentationpara><o:p>&nbsp;</o:p></p>
 
@@ -3285,7 +3459,7 @@ to show what my code worked on.</p>
 
 </html>
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/item0017.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -3294,17 +3468,17 @@ Content-Type: text/xml
 chemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns=3D"http:/=
 /schemas.openxmlformats.org/officeDocument/2006/bibliography"></b:Sources>
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/props018.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
 
 <?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
-<ds:datastoreItem ds:itemID=3D"{765C41B5-9C83-41A3-83EC-5B958063EFB4}" xmln=
+<ds:datastoreItem ds:itemID=3D"{03B8F409-484A-4E75-B1B4-C2F3E3451278}" xmln=
 s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
 s:schemaRefs><ds:schemaRef ds:uri=3D"http://schemas.openxmlformats.org/offi=
 ceDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -3365,7 +3539,7 @@ AAAAAAAAANYCAAB0aGVtZS90aGVtZS90aGVtZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAA
 GwEAACcAAAAAAAAAAAAAAAAAsgkAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwu
 cmVsc1BLBQYAAAAABQAFAF0BAACtCgAAAAA=
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -3375,7 +3549,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image001.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -3455,7 +3629,7 @@ Qoeu7Ppz6/quPOeu8rpz8VqvN0ev+Fpz97qvMaev/gpz/RqwLAewBGtyA3uwEHcxvViRLtqwCutz
 JNOwB2WpETt0BnuxqZawGjtlGduxJsaxIFteHzuy2iWyJstcJZuyyYWyLFtcK/uyxOWyMgtcMVuz
 vUWzOJtbN7uzuCULQDsLQTu0Qlu0RHu0Rpu0SLu0Stu0TPu0Thu1UAu1gQAAOw==
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image002.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -3751,7 +3925,7 @@ cl2yqa3aEELgnZsLDk2jwyzgCYKkSxysKM3SJKHTGD4SF77hUOHh0dHhIM4RGj7iTWziG4LiZ6ri
 asriNcIEAADjMh7jND7jNl7jOH7jOp7jPL7jPt7jQP7jQh7kRD7kRl7kSH7kSp7kTL7kTt7kUP7k
 Uh7lVD7lVl7lWH7lWp7lXL7lXt7lRR4IADs=
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image003.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -3957,7 +4131,7 @@ Xpvv/e6z/A7wTvvvA++yAm/wL1vwCc+wCM+a8Bt7Ql4xYxJ/CBT/8IOLQBafvhO/jBdv7h7Puw4P
 9EmP9Euv9E3P9E/v9FEP9VMv9VVP9Vdv9VmP9Vuv9V3P9V/v9WEP9mMv9mVP9mdv9mmP9muv9m3P
 9m/v9nEP91sfCAA7
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image004.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -4067,7 +4241,7 @@ N0TLxN5d016FSVwxzY71V2P2VYr2swTxar9sbd9KbP/2YdHwcn/2dW9KdH/3YRH3eo9vfT9KfP/3
 NZH3go8TgV9U+B9B+Ih/bUAAAI3/+I4f+ZA/+ZJf+ZR/+Zaf+Zi/+Zrf+Zz/+Z4f+qA/+qJf+qR/
 +qaf+qi/+qrf+qz/+q4f+7A/+7Jf+7R/+7af+7i/+7ov+oEAADs=
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image005.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -4103,7 +4277,7 @@ Y0H0yMc+ktGPgAzkH7ooyEIaMgx3PKQiF4kFQjLykZB0QiIjSclKFsGRlswkJAFAAk56spOg/KQo
 Q0nKUZqylKg8pSpTycpVurKVsHylLGNJy1naspa4vKUuc8nLXfqyl8D8pTCDScxhGrOYyDymMpNJ
 yyAAADs=
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image006.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -4136,7 +4310,7 @@ whQtFdIcGwGzcDO7CTHQWl6rjIpR2ZT1RlcT2THDBYcNBa4I60rJfp+g3UjCZah9ittix73EwVr2
 hChMoSpUyMIWduGELoxhDCMowxq6EIY2zOEIAVACHvqwh0D8oRCDSMQhGrGISDyiEpPIxCU6sYlQ
 fKIUo0jFKVqxili8ohazyMUterGLYPyiGMNIxjGasYxoPKMa00jFIAAAOw==
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image007.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -4196,7 +4370,7 @@ WQfGBPiVdJRjObpAXCnidDilRaZTBP51DQDGOkynf9LBdDlzcEy4KYuiZCriZYgBZoBEYT8id7My
 PFvgOT9mImInZF8IOqVGOzsGC4G0ZS6xhMS3hlOUBnDWJ9GXeIqYKLfneI0yfM0XiY6ye5i4iSlw
 fCtYcZzYepoYioroiaTIhKN4ijJoiqpof6nYitPHirCYe684i7gni7ZIe7WYi7GHiwW82HpBAAA7
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image008.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -4351,7 +4525,7 @@ MFPB3LIFjH2+DUM6fB2c9ZpBOMASTiWF+YtKDNes7WGsOtglMnb69rGQcY92ad0FcsX8OCuLLwqT
 +3zVXD737cI97xH/e9j7Pvjp2j3xk3z8HQOgDMtvPvOf7/zoQ3/60q8+9a9v/exjf/va7z73v+/9
 8IN//OIvP/nPb/70o3/96m8/+9/v/vjDf/7yrz/972///ON//IEAADs=
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image009.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -4618,7 +4792,7 @@ YZG1oY68eVa3GZzg5pu7YY/E+S7DmZzbZpzMyWzL+ZzU5pzSKWzRWZ3QRp3YKWvXuZ3Jpp3eeWjd
 GZ6/Bp7k6WQAYATpuZ7q2Z7s+UKe7hmf8Dmf8lmf9Hmf9pmf+Lmf+tmf/Pmf/hmgADqgAlqgBHqg
 BpqgCLqgCtqgDPqgDhqhEDqhElqhFHqhFhqggQAAOw==
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image010.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -4957,7 +5131,7 @@ uMp4HJe439gtc58L3ZAINrrUrW5FnGvd7Gr3e9vtrncp+N3wivcg0x2vec+bDeyid73shUZ52wvf
 +L5CvfKtr30Bct9R/OoXFvTdr3//ewgAPEHABB6wgQuM4AMrOMEMXrCDGwzhB0s4whSesIUrjOEL
 azjDHN6whzsM4g+LOMQkHrGJS4ziE6s4xSxesYtbDOMXazgQADs=
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/image011.gif
 Content-Transfer-Encoding: base64
 Content-Type: image/gif
@@ -5024,7 +5198,7 @@ ynhrL/aAupeO2RgA4rZM9VUczBhymNgPm7cwEdkNuqOHS6SDCHFy8gZVyqQPHZcxH7kOGyk4PCiH
 F3eSO4KSKvkwK9mSCYGRLhmT6CCTNPkPMFmTOEkNc5iTPAkNN9mTQLkMOxmURHkMP1mUSCkMQ5mU
 TPlHshALUPmUUhmVVDmVVlmVWHmVWpmVXLmVXtmVYPmVYikIgQAAOw==
 
-------=_NextPart_01CDCE34.6787D9B0
+------=_NextPart_01CDCFB2.362F72E0
 Content-Location: file:///C:/6E4BB24E/HymnalDocumentation_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -5048,4 +5222,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"image011.gif"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01CDCE34.6787D9B0--
+------=_NextPart_01CDCFB2.362F72E0--

@@ -1,6 +1,9 @@
+/************************************/
+/* GENERAL PAGE AND FONT FORMATTING */
+/************************************/
 h1, h2, p, .code {
 	position: relative;
-	top: 80px;
+	top: 50px;
 	z-index: 60;
 }
 h1, h2, p, .code {
@@ -13,7 +16,7 @@ h1, h2, p, .code, a {
 	width: 90%;
 }
 h1, h2, p, a {
-	font-family: "Arial";
+	font-family: "Arial", "Helvetica";
 }
 h1, h2 {
 	color: #545454;
@@ -31,11 +34,14 @@ a:hover {
 	text-decoration: underline;
 	color: #C0C0C0;
 	background-color: #000080;
-	border-radius: 15px;
+	border-radius: 3px;
 }
 p {
 	font-size: 11pt;
 }
+/*******************/
+/* CODE FORMATTING */
+/*******************/
 pre {
 	width: 700px;                          /* specify width  */
 	white-space: pre-wrap;                 /* CSS3 browsers  */
@@ -49,7 +55,7 @@ pre {
 .code, code {
 	background-color: white;
 	width: 700px;
-	font-family: "Courier New";
+	font-family: "Courier New", "Consolas";
 	font-size: 11pt;
 	border-radius: 2px;
 }
@@ -62,9 +68,14 @@ pre {
 .source {
 	color: #000080;
 }
+
+/***************************************************/
+/* TRANSPARENT NAVIGATION BAR FORMATTING AND STYLE */
+/***************************************************/
 nav {
 background: url("../nav.png") repeat-x;
 opacity: .8;
+left: -7px;
 position: fixed;
 width: 100%;
 border-bottom: 1px solid;
@@ -81,5 +92,5 @@ float: left;
 margin: 0 14px;
 }
 #logo {
-font-size: 20pt;
+	font-weight: bold;
 }

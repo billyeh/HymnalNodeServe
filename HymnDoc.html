@@ -6,17 +6,17 @@
 		<link rel="stylesheet" type="text/css" href="docmain.css">
 	</head>
 	<body>
-    <section id="content">
-        <nav>
-            <ul>
-                <li id="logo">the hymnal project</li>
-                <li class="menuitem">home</li>
-                <li class="menuitem">hymns</li>
-                <li class="menuitem">projects</li>
-            </ul>
-            <br><br>
-        </nav>
-		<pre><h2>a brute-force, copyright-infringing saga</h2></pre>
+	<section id="content">
+		<nav>
+			<ul>
+				<li id="logo">the hymnal project</li>
+				<li class="menuitem" id="home">home</li>
+				<li class="menuitem" id="hymns">hymns</li>
+				<li class="menuitem" id="projects">projects</li>
+			</ul>
+			<br><br>
+		</nav>
+		<h1>A brute-force, copyright-infringing saga</h1>
 		<h2>STEP 1: scrape hymns from hymnal.net for the lyrics</h2>
 			<p>Originally, the files from http://hymnal.net consisted of simple web pages containing the desired content, the lyrics, in <code>&lt;ol&gt;</code> and <code>&lt;li&gt;</code> tags.* <br>
 				For example, here&apos;s the HTML of interest from Hymn 100. You can see the current state of the site at <a href="http://www.hymnal.net/hymn.php/h/100" target="_blank">http://www.hymnal.net/hymn.php/h/100</a>.
@@ -46,38 +46,38 @@ web_page = urlopen(url)
 from html.parser import HTMLParser
 
 class HymnHTMLParser(HTMLParser):
-    def __init__(self, tagging, want_tag, start_on=None):
-        HTMLParser.__init__(self)
-        self.recording = 0
-        self.data = []
-        self.want_tag, self.tagging, self.start_on = want_tag, tagging, start_on
-        
-    def handle_starttag(self, tag, attribute):
-        if self.start_on:
-            if tag == self.start_on[0]:
-                for name, value in attribute:
-                    if name == self.start_on[1] and value == self.start_on[2]:
-                        self.tagging = True
-        if self.tagging:
-            if tag in self.want_tag:
-                for name, value in attribute:
-                    self.data.append(str(value) + ': ')
-                self.recording += 1
+	def __init__(self, tagging, want_tag, start_on=None):
+		HTMLParser.__init__(self)
+		self.recording = 0
+		self.data = []
+		self.want_tag, self.tagging, self.start_on = want_tag, tagging, start_on
+		
+	def handle_starttag(self, tag, attribute):
+		if self.start_on:
+			if tag == self.start_on[0]:
+				for name, value in attribute:
+					if name == self.start_on[1] and value == self.start_on[2]:
+						self.tagging = True
+		if self.tagging:
+			if tag in self.want_tag:
+				for name, value in attribute:
+					self.data.append(str(value) + ': ')
+				self.recording += 1
 
 ...
 
-    def handle_entityref(self, name):
-        if self.tagging:
-            if name == 'mdash':
-                self.data.append(str('-'))
-            elif name != 'nbsp':
-                logging.info(name)
+	def handle_entityref(self, name):
+		if self.tagging:
+			if name == 'mdash':
+				self.data.append(str('-'))
+			elif name != 'nbsp':
+				logging.info(name)
 
 ...
 
-    def handle_data(self, data):
-        if self.recording:
-            self.data.append(data)
+	def handle_data(self, data):
+		if self.recording:
+			self.data.append(data)
 			</div></pre>
 			<p>Obviously, there were a lot of details in this implementation that I would rather not have kept track of, including errant HTML characters, entities, and the dreaded conversion from bytes to strings, with all of the problems with encoding. I thought my needs were basic enough that I could handle this project with this simple class, but when I ran into errors with broken HTML, I finally made the switch to <a href="http://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>. This switch simplified a lot of things, including handling of the entities and malformed HTML, so I could focus on grabbing the structure and content of the document.
 			</p>
@@ -93,36 +93,36 @@ from string import punctuation
 import util
 
 def parse_url(url):
-    soup = BeautifulSoup(urlopen(url).read().decode('utf-8'))
-    def filt(tag):
-        return (tag.name == ‘font’ and
-                tag.has_key(‘class’) and
-                tag.parent.parent.parent.name == ‘table’ and
-                tag.parent.parent.parent.has_key(‘width’) and
-                (tag.parent.parent.parent[‘width’] in [‘400’, ‘500’] or
-                 tag.parent.parent.parent[‘width’] == ‘760’ and tag[‘class’] == [‘text2’]))
-        
-    soup = BeautifulSoup(str(soup.find_all(filt)))
-    return util.replace_unicode(soup.text)
+	soup = BeautifulSoup(urlopen(url).read().decode('utf-8'))
+	def filt(tag):
+		return (tag.name == ‘font’ and
+				tag.has_key(‘class’) and
+				tag.parent.parent.parent.name == ‘table’ and
+				tag.parent.parent.parent.has_key(‘width’) and
+				(tag.parent.parent.parent[‘width’] in [‘400’, ‘500’] or
+				 tag.parent.parent.parent[‘width’] == ‘760’ and tag[‘class’] == [‘text2’]))
+		
+	soup = BeautifulSoup(str(soup.find_all(filt)))
+	return util.replace_unicode(soup.text)
 ...
 			</div></pre>
 			<p>That simplified the code for parsing the second site from which I needed lyrics, though it’s clear from my giant filter statement that it still involved quite a bit of staring at the patterns in the pages to figure out what content I should scrape. I also didn’t know how to handle the Unicode characters that cropped up in my soup, so I just looked up their equivalents (thanks, <a href="http://webdesign.about.com/od/localization/l/blhtmlcodes-ascii.htm">about.com</a>, for once) and replaced them.</p>
 			<pre><div class="code">
 <span class="source">[Source: util.py]</span>
 def replace_unicode(s):
-    unicode_chars = {'\xa0': " ", 
-                      '\x91': "'", 
-                      '\x92': "'", 
-                      '\x20\x20': "\\n", 
-                      '\x20': " ", 
-                      '\x93': '\"', 
-                      '\x94': '\"', 
-                      ",,": "", 
-                      '\n, ': '\\n', 
-                      ' Chorus\n,\n,': 'chorus:'}
-    for char in unicode_chars:
-        s = s.replace(char, unicode_chars[char])
-    return s
+	unicode_chars = {'\xa0': " ", 
+					  '\x91': "'", 
+					  '\x92': "'", 
+					  '\x20\x20': "\\n", 
+					  '\x20': " ", 
+					  '\x93': '\"', 
+					  '\x94': '\"', 
+					  ",,": "", 
+					  '\n, ': '\\n', 
+					  ' Chorus\n,\n,': 'chorus:'}
+	for char in unicode_chars:
+		s = s.replace(char, unicode_chars[char])
+	return s
 			</div></pre>
 		<h2>STEP 2: turning the content into application-consumable json</h2>
 			<p>I wanted my application to have as lightweight a footprint on the network as possible, and JSON seemed like the ideal choice. I didn’t put much research into using the built-in module for this in Python 3, resulting in a headache of string-parsing that left me an expert at parsing strings in Python 3 (as wonderful an experience as parsing strings can be because of Python’s useful library of functions) without regular expressions (which I had and have not yet mastered) but used a lot of time that could have been avoided.
@@ -149,32 +149,73 @@ file.write(song_text)
 file = open(filename, 'r')
 song_text = file.read()
 			</div></pre>
-			<p>At this point, also, I became tired of waiting for every song to download once again when I ran my downloader. I added a function, in <code>util.py</code> that got all <code>.txt</code> files in the same directory and checked if they were already downloaded before going through the whole ordeal each time.</p>
+			<p>At this point, also, I became tired of waiting for every song to download once again when I ran my downloader. I added a function in <code>util.py</code> that got all <code>.txt</code> files in the same directory and checked if they were already downloaded before going through the whole ordeal each time.</p>
 			<pre><div class="code">
 <span class="source">[Source: util.py]</span>
 def get_files_in_directory(directory):
-    import os
-    dirList = os.listdir(directory)
-    files = []
-    for d in dirList:
-        if d[len(d) - 3: len(d)] == 'txt':
-            files.append(d)
-    return files
+	import os
+	dirList = os.listdir(directory)
+	files = []
+	for d in dirList:
+		if d[len(d) - 3: len(d)] == 'txt':
+			files.append(d)
+	return files
 
-[Source: run.py]
+<span class="source">[Source: run.py]</span>
 filenames = util.get_files_in_directory('./hymns') 
 
 def run(song_type, start_song, end_song):
 
 ...
 
-        # open file and replace symbols
-        if filename not in filenames:
-            parse.parse(url, filename, parser)
+		# open file and replace symbols
+		if filename not in filenames:
+			parse.parse(url, filename, parser)
 			</div></pre>
 			<p>In the end, with two different sites that I had to turn into a uniform JSON format, I resorted to a pretty reliable, but low-level method. I looped through every letter in all 1,885 songs, adding formatting where I needed it. </p>
-			<p>First, I set up a container string for my resulting JSON. I went through the original string, letter by letter. I checked the letters and words around it to see if I needed to add any special characters to the resulting string. Whether I did or didn’t, I would add the letter from the original string into the resulting string, preserving all of its content.</p>
+			<p>First, I set up a container string for my resulting JSON. I went through the original string, letter by letter. I checked the letters and words around it to see if I needed to add any special characters to the container string. Whether I did or didn’t, I would add the letter from the original string into the container string, preserving all of its content.</p>
 			<p>I began my attempt by outputting some JSON-object formatted songs. </p>
-        </section>
+			<pre><div class="code">
+<span class="source">[Source: util.py]</span>
+def jsonify(s):
+    """ Takes a string of the format
+    
+    [TAG]: Song words
+    Song words
+    Song words
+    [TAG]: Song words
+    Song words
+    Song words
+    ...
+    
+    and turns it into a JSON object of the format
+    {"[TAG]": "Song words
+    Song words
+    Song words",
+    "[TAG]": "Song words
+    Song words
+    Song words",
+    ...}
+    
+    """
+    TAGS = ['chorus', 'nonum', 'note', 'copyright']
+
+    song_s = '{"'
+    for i in range(len(s)):
+        for word in TAGS:
+            if (s[i - 1] == '\n' and s[i: i + len(word) + 1] == word + ':' or
+                s[i] == ':' and s[i - len(word): i] == word):
+                song_s += '"'
+        if (s[i - 1] == '\n' and is_numeric(s[i]) or
+            s[i] == ':' and is_numeric(s[i - 1]) or 
+            s[i - 1] == ' ' and s[i - 2] == ':'):
+            song_s += '"'
+        elif  s[i] == '\n' and (is_numeric(s[i + 1]) or s[i + 1] == 'c' or s[i + 1] == 'n'):
+            song_s += '",'
+        if not (i == len(s) - 2 and s[i] == '\n'):
+            song_s += s[i]
+    return song_s + '"}'
+			</div></pre>         
+		</section>
 	</body>
 </html>
