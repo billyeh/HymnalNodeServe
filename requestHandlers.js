@@ -19,40 +19,26 @@ function write(error, content, response, query, contentType) {
 	}
 }
 
-function start(response, query) {
+function start(response, query, pathname) {
 	fs.readFile("HymnDoc.html", function(error, content) {
 		write(error, content, response, query, mime.lookup("HymnDoc.html"));
 	});
 }
 
-function backgroundImg(response, query) {
-	fs.readFile("nav.png", function(error, content) {
-		write(error, content, response, query, mime.lookup("nav.png"));
-	});
-}
-
-function serveHymn(response, query) {
+function serveHymn(response, query, pathname) {
 	var file = "./" + querystring.parse(query).type + "/hymn" + querystring.parse(query).hymn + ".txt";
 	fs.readFile(file, function(error, content) {
-		write(error, content, respone, query, mime.lookup(file));
+		write(error, content, response, query, mime.lookup(file));
 	});
 }
 
-function favicon(response, query) {
-	fs.readFile("favicon.ico", function(error, content) {
-		write(error, content, response, query, mime.lookup("favicon.ico"));
-	});
-}
-
-function docmainCSS(response, query) {
-	fs.readFile("docmain.css", function(error, content) {
-		write(error, content, response, query, mime.lookup("docmain.css"));
+function serveFile(response, query, pathname) {
+	console.log(pathname);
+	fs.readFile(pathname, function(error, content) {
+		write(error, content, response, query, mime.lookup(pathname));
 	});
 }
 
 exports.start = start;
-exports.serveHymn = serveFile;
-exports.favicon = favicon;
-exports.docmainCSS = docmainCSS;
-exports.background = backgroundImg;
-exports.write = write;
+exports.serveHymn = serveHymn;
+exports.serveFile = serveFile;

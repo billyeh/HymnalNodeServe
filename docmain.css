@@ -12,7 +12,7 @@ h1, h2, p, .code {
 }
 h1, h2, p, .code, a {
 	line-height: 140%;
-	max-width: 800px;
+	max-width: 750px;
 	width: 90%;
 }
 h1, h2, p, a {
@@ -32,8 +32,7 @@ a {
 }
 a:hover {
 	text-decoration: underline;
-	color: #C0C0C0;
-	background-color: #000080;
+	color: #545454;
 	border-radius: 3px;
 }
 p {
@@ -54,10 +53,14 @@ pre {
 	}
 .code, code {
 	background-color: white;
-	width: 700px;
+	width: 640px;
 	font-family: "Courier New", "Consolas";
 	font-size: 11pt;
 	border-radius: 2px;
+}
+code {
+	background-color: #EEEEEE;
+	border-radius: 5px;
 }
 .code {
 	padding-left: 10px;
@@ -67,30 +70,48 @@ pre {
 }
 .source {
 	color: #000080;
+	font-family: "Arial", "Helvetica";
 }
 
 /***************************************************/
 /* TRANSPARENT NAVIGATION BAR FORMATTING AND STYLE */
 /***************************************************/
 nav {
-background: url("../nav.png") repeat-x;
-opacity: .8;
-left: -7px;
-position: fixed;
-width: 100%;
-border-bottom: 1px solid;
-border-bottom-color: #E7E7E7;
-z-index: 100;
-font-family: "Arial";
-top: 0px;
+	background: url("../nav.png") repeat-x;
+	opacity: .8;
+	left: -7px;
+	position: fixed;
+	width: 100%;
+	border-bottom: 1px solid;
+	border-bottom-color: #E7E7E7;
+	z-index: 100;
+	font-family: "Arial";
+	top: 0px;
 }
 nav ul {
-list-style: none;
+	list-style: none;
 }
 nav ul li {
-float: left;
-margin: 0 14px;
+	float: left;
+	margin: 0 14px;
 }
 #logo {
 	font-weight: bold;
+}
+
+/**********************************/
+/* SIDEBAR STYLING AND FORMATTING */
+/**********************************/
+#sidemenu {
+	position: fixed;
+	margin: 0;
+	padding: 0;
+	top: 100px;
+	left: 900px;
+	text-align: left;
+	font-family: "Arial";
+	color: #545454;
+	list-style: none;
+	line-height: 140%;
+	font-size: 11pt;
 }
