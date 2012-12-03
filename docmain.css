@@ -10,7 +10,7 @@ h1, h2, p, .code {
 	margin-left: 40px;
 	color: #545454;
 }
-h1, h2, p, .code, a {
+h2, p, .code, a {
 	line-height: 140%;
 	max-width: 750px;
 	width: 90%;
@@ -102,16 +102,20 @@ nav ul li {
 /**********************************/
 /* SIDEBAR STYLING AND FORMATTING */
 /**********************************/
-#sidemenu {
-	position: fixed;
+#sidebar {
+	position: absolute;
 	margin: 0;
-	padding: 0;
-	top: 100px;
+	padding-left: 20px;
+	top: 110px;
 	left: 900px;
+
 	text-align: left;
 	font-family: "Arial";
 	color: #545454;
 	list-style: none;
 	line-height: 140%;
 	font-size: 11pt;
+	width: 200px;
+	border-left: 1px solid;
+	border-color: #E7E7E7;
 }

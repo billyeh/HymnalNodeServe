@@ -16,7 +16,7 @@
 			</ul>
 			<br><br>
 		</nav>
-		<ul id="sidemenu">
+		<ul id="sidebar">
 			<li id="menuitem">1 Scraping the site</li>
 			<li id="menuitem">2 Parsing into JSON</li>
 			<li id="menuitem">3 Creating the Server</li>
@@ -287,5 +287,28 @@ FOR %%x IN (*.txt) DO (
 			<p>For those interested, this batch script loops through each text file, <code>%%x</code>, in the current directory, feeding its contents to the Python <code>json.tool</code> module, which checks for valid JSON. It echoes stdoutput1 to <code>NUL</code> because I wasn’t interested in the files that didn’t cause errors, and stdoutput2 went to an error file, <code>json.log</code>, which I could browse for all my files, finding those that were not valid JSON. </p>
 			<p>I had a pretty good success rate: about 20 files were empty, which I’m going to assume was a result of some kind of problem with the network connection created by the Python <code>urllib</code> module, because this is a recurring problem that seems to be some kind of timeout mechanism that stops me from downloading thousands of files too quickly. I had errors in parsing about 6 files. These were just unforeseen formats that wouldn’t take too long fix.</p>
 		</section>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+
+			/* This function scrolls the sidebar down the page. */
+		    var $sidebar   = $("#sidebar"), 
+		        $window    = $(window),
+		        offset     = $sidebar.offset(),
+		        topPadding = 100;
+
+		    $window.scroll(function() {
+		        if ($window.scrollTop() > offset.top - 100) {
+		            $sidebar.stop().animate({
+		                marginTop: $window.scrollTop() - offset.top + topPadding
+		            }, "slow");
+		        } else {
+		            $sidebar.stop().animate({
+		                marginTop: 0
+		            });
+		        }
+		    });
+		});
+	</script>
 	</body>
 </html>
