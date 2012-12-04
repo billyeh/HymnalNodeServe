@@ -26,7 +26,8 @@ function start(response, query, pathname) {
 }
 
 function serveHymn(response, query, pathname) {
-	var file = "./" + querystring.parse(query).type + "/hymn" + querystring.parse(query).hymn + ".txt";
+	var file = "./hymns/" + querystring.parse(query).type + "/hymn" + querystring.parse(query).hymn + ".txt";
+	console.log("FILE " + file);
 	fs.readFile(file, function(error, content) {
 		write(error, content, response, query, mime.lookup(file));
 	});
