@@ -17,11 +17,11 @@
 			<br><br>
 		</nav>
 		<ul id="sidebar">
-			<li class="sidemenu" id="step1">1 Scraping the site</li>
-			<li class="sidemenu"><a href="#step2">2 Parsing into JSON</a></li>
-			<li class="sidemenu"><a href="#step3">3 Creating the Server</a></li>
-			<li class="sidemenu"><a href="#step4">4 Making the app</a></li>
-			<li class="sidemenu"><a href="#step5">5 Adding Search</a></li>
+			<li class="sidemenu" id="1">Scraping the site</li>
+			<li class="sidemenu" id="2">Parsing into JSON</li>
+			<li class="sidemenu" id="3">Creating the Server</li>
+			<li class="sidemenu" id="4">Making the app</li>
+			<li class="sidemenu" id="5">Adding Search</li>
 		</ul>
 		<h1>How I Created My First App, the Hard Way</h1>
 		<h2 id="step1">STEP 1: scrape hymns from hymnal.net for the lyrics</h2>
@@ -103,11 +103,11 @@ def parse_url(url):
 	soup = BeautifulSoup(urlopen(url).read().decode('utf-8'))
 	def filt(tag):
 		return (tag.name == ‘font’ and
-				tag.has_key(‘class’) and
-				tag.parent.parent.parent.name == ‘table’ and
-				tag.parent.parent.parent.has_key(‘width’) and
-				(tag.parent.parent.parent[‘width’] in [‘400’, ‘500’] or
-				 tag.parent.parent.parent[‘width’] == ‘760’ and tag[‘class’] == [‘text2’]))
+			tag.has_key(‘class’) and
+			tag.parent.parent.parent.name == ‘table’ and
+			tag.parent.parent.parent.has_key(‘width’) and
+			(tag.parent.parent.parent[‘width’] in [‘400’, ‘500’] or
+			 tag.parent.parent.parent[‘width’] == ‘760’ and tag[‘class’] == [‘text2’]))
 		
 	soup = BeautifulSoup(str(soup.find_all(filt)))
 	return util.replace_unicode(soup.text)
@@ -297,9 +297,11 @@ FOR %%x IN (*.txt) DO (
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script>
 		$(document).ready(function() {
+			/* Adds sidebar scrolling animation */
 			$(".sidemenu").click(function() {
-				alert("#" + event.target.id);
-				window.scroll(1000);
+				$('html, body').animate({
+					scrollTop: $("#step" + event.target.id).offset().top - 65
+					}, 500);
 			});
 
 			/* This function adds the logo click to go to home page function */

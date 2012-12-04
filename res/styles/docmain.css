@@ -120,3 +120,8 @@ nav ul li {
 	border-left: 1px solid;
 	border-color: #E7E7E7;
 }
+
+.sidemenu:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
