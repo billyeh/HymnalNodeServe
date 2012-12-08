@@ -20,7 +20,8 @@ h1, h2, h3, p, a {
 	font-family: "Arial", "Helvetica";
 }
 h1, h2, h3 {
-	color: #545454;
+	color: black;
+	font-variant: small-caps;
 }
 h2 {
 	font-size: 15pt;
