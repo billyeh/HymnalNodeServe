@@ -16,7 +16,7 @@ h2, p, .code, a, img {
 	max-width: 750px;
 	width: 90%;
 }
-h1, h2, h3, p, a {
+h1, h2, h3, p, a, #footer {
 	font-family: "Arial", "Helvetica";
 }
 h1, h2, h3 {
@@ -39,6 +39,10 @@ a:hover {
 }
 p {
 	font-size: 11pt;
+}
+#footer {
+	font-size: 8pt;
+	color: #545454;
 }
 /*******************/
 /* CODE FORMATTING */
@@ -72,7 +76,6 @@ code {
 	color: #000000;
 	font-family: "Arial", "Helvetica";
 }
-
 /***************************************************/
 /* TRANSPARENT NAVIGATION BAR FORMATTING AND STYLE */
 /***************************************************/
@@ -102,6 +105,20 @@ nav ul li {
 #logo:hover {
 	cursor: pointer;
 }
+#footer ul {
+	list-style: none;
+	padding-bottom: 20px;
+	color: #545454;
+}
+#footer ul li {
+	float: left;
+	margin: 0 14px;
+	color: #545454;
+}
+hr {
+	height: 1px;
+	opacity: .5;
+}
 /**********************************/
 /* SIDEBAR STYLING AND FORMATTING */
 /**********************************/
@@ -118,8 +135,6 @@ nav ul li {
 	line-height: 140%;
 	font-size: 11pt;
 	width: 200px;
-	border-left: 1px solid;
-	border-color: #E7E7E7;
 }
 
 .sidemenu:hover {

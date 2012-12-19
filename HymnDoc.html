@@ -4,14 +4,16 @@
   <head>
     <title>Hymnal App</title>
     <link rel="stylesheet" type="text/css" href="/res/styles/docmain.css">
+    <link href="/res/styles/prettify.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/res/styles/prettify.js"></script>
   </head>
-  <body>
+  <body onload="prettyPrint()">
   <section id="content">
     <nav>
       <ul>
         <li id="logo">hymnal project</li>
         <li class="menuitem" id="home"><a href="/">home</a></li>
-        <li class="menuitem" id="hymns"><a href="hymns.html">hymns</a></li>
+        <li class="menuitem" id="hymns"><a href="/hymns.html">hymns</a></li>
         <li class="menuitem" id="projects"><a href="/projects.html">projects</a></li>
         <li class="menuitem" id="about"><a href="/about.html">about</a></li>
       </ul>
@@ -24,13 +26,15 @@
       <li class="sidemenu" id="4">Making the app</li>
       <li class="sidemenu" id="5">Adding Search</li>
     </ul>
-    <h1>how i created my first app, the hard way</h1>
-    <h2 id="step1">scraping hymns from hymnal.net for the lyrics</h2>
-      <p>Originally, the files from http://hymnal.net consisted of simple web pages containing the desired content, the lyrics, in <code>&lt;ol&gt;</code> and <code>&lt;li&gt;</code> tags.* <br>
-        For example, here&apos;s the HTML of interest from Hymn 100. You can see the current state of the site at <a href="http://www.hymnal.net/hymn.php/h/100" target="_blank">http://www.hymnal.net/hymn.php/h/100</a>.
+    <h1>a new way of viewing a site</h1>
+    <p>Web browsing on smartphones is often a time-consuming, eye-wrenching experience. Through this app, I intended to make it much easier for people to view what they actually wanted - the contents of a song from a website. I was hoping that idea could eventually be applied to other websites (see the <a href="/about.html">about page</a> for more details), but I soon realized that I wouldn't even be able to put this app up in the Android market because of copyright reasons. That's why this app is now only available to friends and family.</p>
+    <p>Even though the reach of the app is limited, I still believe in its basic premises, and I'm sure that anyone with the same idea and background that I have will find some help in what I learned in its making. The following saga is a chronological rehashing of the steps I took in developing a simple app.</p>
+    <h2 id="step1">scraping the site</h2>
+      <p>Originally, the files from http://hymnal.net consisted of simple web pages containing the desired content, the lyrics, in <code>&lt;ol&gt;</code> and <code>&lt;li&gt;</code> tags. I managed to get an archived version of the website, and you can view the source code in <a href="hymnalnetarchive.txt" target="_blank">this archive link</a>. It's pretty tough to sort through all of that source code, since it also contains some metadata from the Wayback Machine where I got the archive, but searching for the <code>div</code> tag labeled "lyrics" will give you the content I was after.</p>
+      <p>The HTML has since changed, and you can compare the HTML of interest from Hymn 100 when I parsed it to the current state of the site at <a href="view-source:http://www.hymnal.net/hymn.php/h/100" target="_blank">http://www.hymnal.net/hymn.php/h/100</a>.
       </p>
       <pre><div class="code">
-<span class ="source">[Source: http://www.hymnal.net/hymn.php/h/100]</span>
+<span class ="source">Source: http://www.hymnal.net/hymn.php/h/100</span>
 ...
 &lt;div id="lyrics"&gt;
 &lt;ol&gt;&lt;li value="1"&gt;The Maker of the universe&lt;br/&gt;As Man, for man was made a curse.&lt;br/&gt;The claims of law which He had made,&lt;br/&gt;Unto the uttermost He paid.&lt;/li&gt;&lt;li value="2"&gt;His holy fingers made the bough
@@ -39,7 +43,7 @@
       <p> Grabbing the content of these pages was straightforward, once I knew roughly what the structure of the website was. I controlled the downloading of songs with a simple loop that kept track of which number it had reached, resetting the URL every time, and sticking the number at the end of the URL each time another song was downloaded.
       </p>
       <pre><div class="code">
-<span class="source">[Source: parse.py]</span>
+<span class="source">Source: parse.py</span>
 ...
 from urllib.request import urlopen
 web_page = urlopen(url)
@@ -50,7 +54,7 @@ web_page = urlopen(url)
       <p>Behind the scenes, I had two classes that did much of the downloading work. The point was that I didn’t want all of the extra stuff in the HTML page, only the lyrics, as shown above. I began with the default package with which Python 3 ships, importing the <code>HTMLParser</code> class from html.parser and overriding most of its functions.
       </p>
       <pre><div class="code" id="code">
-<span class="source">[Source: site1.py]</span>
+<span class="source">Source: site1.py</span>
 from html.parser import HTMLParser
 
 class HymnHTMLParser(HTMLParser):
@@ -90,14 +94,14 @@ class HymnHTMLParser(HTMLParser):
     if self.recording:
       self.data.append(data)
       </div></pre>
-      <p>Obviously, there were a lot of details in this implementation that I would rather not have kept track of, including errant HTML characters, entities, and the dreaded conversion from bytes to strings, with all of the problems with encoding. I thought my needs were basic enough that I could handle this project with this simple class, but when I ran into errors with broken HTML, I finally made the switch to <a href="http://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>. This switch simplified a lot of things, including handling of the entities and malformed HTML, so I could focus on grabbing the structure and content of the document.
+      <p>Obviously, there were a lot of details in this implementation that I would rather not have kept track of, including errant HTML characters and entities, with all of the problems with encoding. I thought my needs were basic enough that I could handle this project with this simple class, but when I ran into errors with broken HTML, I finally made the switch to <a href="http://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>. This switch simplified a lot of things, including handling of the entities and malformed HTML, so I could focus on grabbing the structure and content of the document.
       </p>
       <p>An aside: why did I need the second site parser? Well, obviously I hadn’t made my <code>HymnHTMLParser</code> very extensible, and though I made some misguided attempts to do so (see the <code>want_tag</code> and <code>start_on</code> variables I introduced in an effort to make my code reusable), they were not going to cut it for any other web pages, as I soon realized.
       </p>
-      <p>Once I saw that many of the hymns on http://hymnal.net did not actually contain the lyrics, but instead placeholder text and a link to an external site, I realized I’d need another parser for these other sites. I made simple, hacky check for these links by checking if <code>line[:4] == 'http':</code> each time I got a line from the song. Then, I switched control of parsing to the function in the other class, by calling <code>site2.parse_html(line, file)</code> and changing a flag, <code>parsed</code>, that let the original parser know that the other function had taken care of all the parsing.
+      <p>Once I saw that many of the hymns on http://hymnal.net did not actually contain the lyrics, but instead placeholder text and a link to an external site, I realized I’d need another parser for these other sites. I made simple, hacky check for these links by checking <code>if line[:4] == 'http':</code> each time I got a line from the song. Then, I switched control of parsing to the function in the other class, by calling <code>site2.parse_html(line, file)</code> and changing a flag, <code>parsed</code>, that let the original parser know that the other function had taken care of all the parsing.
       </p>
       <pre><div class="code">
-<span class="source">[Source: site2.py]</span>
+<span class="source">Source: site2.py</span>
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 from string import punctuation
@@ -117,9 +121,9 @@ def parse_url(url):
   return util.replace_unicode(soup.text)
 ...
       </div></pre>
-      <p>That simplified the code for parsing the second site from which I needed lyrics, though it’s clear from my giant filter statement that it still involved quite a bit of staring at the patterns in the pages to figure out what content I should scrape. I also didn’t know how to handle the Unicode characters that cropped up in my soup, so I just looked up their equivalents (thanks, <a href="http://webdesign.about.com/od/localization/l/blhtmlcodes-ascii.htm" target="_blank">about.com</a>, for once) and replaced them.</p>
+      <p>That simplified the code for parsing the second site from which I needed lyrics, though it’s clear from my giant filter statement that it still involved quite a bit of staring at the patterns in the pages to figure out what content I should scrape. I also didn’t know how to handle the Unicode characters that cropped up in my soup, so I just looked up their equivalents (I spent a lot of time looking at <a href="http://webdesign.about.com/od/localization/l/blhtmlcodes-ascii.htm" target="_blank">this reference table for encoding characters</a>) and replaced them.</p>
       <pre><div class="code">
-<span class="source">[Source: util.py]</span>
+<span class="source">Source: util.py</span>
 def replace_unicode(s):
   unicode_chars = {'\xa0': " ", 
             '\x91': "'", 
@@ -135,10 +139,10 @@ def replace_unicode(s):
     s = s.replace(char, unicode_chars[char])
   return s
       </div></pre>
-    <h2 id="step2">turning the content into application-consumable json</h2>
+    <h2 id="step2">parsing into json</h2>
       <p>I wanted my application to have as lightweight a footprint on the network as possible, and JSON seemed like the ideal choice. I didn’t put much research into using the built-in module for this in Python 3, resulting in a headache of string-parsing that left me an expert at parsing strings in Python 3 (as wonderful an experience as parsing strings can be because of Python’s useful library of functions) without regular expressions (which I had and have not yet mastered) but used a lot of time that could have been avoided.
       </p>
-      <p>By the way, JSON took me a little while to learn, since I wasn’t familiar with Javascript before this project. I wasn’t clear that there are two different types: 1) JSON objects, and 2) JSON arrays. There are good libraries for dealing with both, and they’re both highly compatible with other languages, including Java, as I found out later. 
+      <p>JSON took me a little while to learn, since I wasn’t familiar with Javascript before this project. I wasn’t clear that there are two different types: 1) JSON objects, and 2) JSON arrays. There are good libraries for dealing with both, and they’re both highly compatible with other languages, including Java, as I found out later. 
       </p>
       <p>The basic format for a JSON Object looks like this:</p>
       <pre><div class="code">
@@ -150,7 +154,7 @@ def replace_unicode(s):
 [ “Ferrari”, “Porsche”, “Lamborghini”, “Corvette”, 
 ... ]
       </div></pre>
-      <p>And the two can be nested within each other, to create more complex structures, like XML, though I didn’t need that for this app. The important difference between objects and arrays, which I didn’t take into account before diving into string parsing, is that JSON arrays are ordered, while JSON objects make no guarantee about which components will be retrieved first.</p>
+      <p>The two can be nested within each other, to create more complex structures, like XML, though I didn’t need that for this app. The important difference between objects and arrays, which I didn’t take into account before diving into string parsing, is that JSON arrays are ordered, while JSON objects make no guarantee about which components will be retrieved first.</p>
       <p>I also had to learn how file I/O works in Python, and luckily, this was just as easy. Python will assume you are starting from the directory where your file is if you don’t have an absolute path, so I created a hymns folder that would hold the hymns I was currently downloading. Then, when I was writing my files, I just had to use some simple syntax:</p>
       <pre><div class="code">
 file = open(filename, 'w')
@@ -162,7 +166,7 @@ song_text = file.read()
       </div></pre>
       <p>At this point, also, I became tired of waiting for every song to download once again when I ran my downloader. I added a function in <code>util.py</code> that got all <code>.txt</code> files in the same directory and checked if they were already downloaded before going through the whole ordeal each time.</p>
       <pre><div class="code">
-<span class="source">[Source: util.py]</span>
+<span class="source">Source: util.py</span>
 def get_files_in_directory(directory):
   import os
   dirList = os.listdir(directory)
@@ -172,7 +176,7 @@ def get_files_in_directory(directory):
       files.append(d)
   return files
 
-<span class="source">[Source: run.py]</span>
+<span class="source">Source: run.py</span>
 filenames = util.get_files_in_directory('./hymns') 
 
 def run(song_type, start_song, end_song):
@@ -187,7 +191,7 @@ def run(song_type, start_song, end_song):
       <p>First, I set up a container string for my resulting JSON. I went through the original string, letter by letter. I checked the letters and words around it to see if I needed to add any special characters to the container string. Whether I did or didn’t, I would add the letter from the original string into the container string, preserving all of its content.</p>
       <p>I began my attempt by outputting some JSON-object formatted songs. </p>
       <pre><div class="code">
-<span class="source">[Source: util.py]</span>
+<span class="source">Source: util.py</span>
 def jsonify(s):
   """ Takes a string of the format
   
@@ -233,7 +237,7 @@ def jsonify(s):
       <p>It’s not pretty, but it worked. Comparing the structure of the strings that I began with (see the docstring in the beginning of the above function) to the format I needed for a JSON object (see the code above for that), I was basically adding some <code>“</code>, <code>{}</code>, and the occasional <code>,</code> to the strings where they were needed.</p>
       <p>I had JSON objects, but once I started downloading them from the Android application, I was horrified to find that they had no apparent order. Plus, I realized that those pesky line breaks had unescaped themselves when I put them on the website and sent them through the Internet, resulting in <a href="http://jsonlint.com/" target="_blank">invalid JSON</a>. (It’s not supposed to be broken by line breaks.) It was time to convert them into valid JSON arrays.</p>
       <pre><div class="code">
-<span class="source">[Source: jobjToArray.py]</span>
+<span class="source">Source: jobjToArray.py</span>
 def run(directory):
   """ Takes a JSON object of the format
     
@@ -285,7 +289,7 @@ def run(directory):
       <p>After this rickety attempt to download 1,885 hymns, I was understandably unsure about the quality of my JSON. As you can see above, I realized that validating it would be important if I wanted to be able to use it in my Java application. I couldn’t find an API for any JSON validators (though <a href="http://www.freeformatter.com/json-validator.html" target="_blank">this one</a> came close with its check for websites), so I looked it up and found a fun method: batch scripting. </p>
       <p>This is the simple script I used:</p>
       <pre><div class="code">
-<span class="source">[Source: validator.bat]</span>
+<span class="source">Source: validator.bat</span>
 @ECHO OFF
 FOR %%x IN (*.txt) DO (
     ECHO %%x>>json.log
@@ -293,13 +297,80 @@ FOR %%x IN (*.txt) DO (
       </div></pre>
       <p>For those interested, this batch script loops through each text file, <code>%%x</code>, in the current directory, feeding its contents to the Python <code>json.tool</code> module, which checks for valid JSON. It echoes <code>stdoutput1</code> to <code>NUL</code> because I wasn’t interested in the files that didn’t cause errors, and <code>stdoutput2</code> went to an error file, <code>json.log</code>, which I could browse for all my files, finding those that were not valid JSON. </p>
       <p>I had a pretty good success rate: about 20 files were empty, which I’m going to assume was a result of some kind of problem with the network connection created by the Python <code>urllib</code> module, because this is a recurring problem that seems to be some kind of timeout mechanism that stops me from downloading thousands of files too quickly. I had errors in parsing about 6 files. These were just unforeseen formats that wouldn’t take too long fix.</p>
-    <h2 id="step3">putting the text files on a web server</h2>
+    <h2 id="step3">creating the server</h2>
       <p>The final step in building the backend for the app was to create an API for my hymns, so that they could be downloaded from client devices. I went with <a href="http://nodejs.org/">Node.js</a> after a little bit of deliberation. Though small, it is a growing platform, and all of the students I knew at Berkeley had used it for their apps.</p>
       <p>I began with the <a href="http://www.nodebeginner.org/" target="_blank">Node Beginner</a> tutorial, which is probably the best application development tutorial I’ve come across in all my surfing, though that may be because I have almost exactly the same background that the author describes in his opening.</p>
       <p>The basic design of the backend consists of four parts: a router (<code>router.js</code>), request handler (<code>requestHandlers.js</code>), server (<code>server.js</code>), and main component (<code>app.js</code>). These four parts use some slick message passing to pull off a site that is easily extensible.</p>
       <p>The main component starts the server off, passing a route function and <code>handle</code> dictionary composed of functions exported from the request handlers to the server. When a request to the site is received, it triggers the callback to <code>onRequest</code> in <code>server.js</code>. The server parses the query, and calls the route function that was passed from the main component, passing it the <code>handle</code> dictionary, along with the parsed query. The router uses the <code>handle</code> dictionary to find the correct reqeust handler, and then calls it on the query. The request handlers do most of the actual work: they perform the response to the requests received.</p>
-      <p>The key in all of this is the callbacks and message passing, which allow non-blocking and flexibility. The following diagram traces the path of function calls and message passing.</p>
+      <p>The key in all of this is the callbacks and message passing, which allow non-blocking operations and flexibility. The following diagram traces the path of function calls and message passing.</p>
       <img src="res/images/nodejs.png">
+      <p>For now, we'll start with a basic walkthrough of the components to get a site up and running. It all starts off with the app component, which imports functions from the other three components and calls the start function from the server, passing it the handlers and router.</p>
+      <pre><div class="code">
+<span class="source">Source: app.js</span>
+var server = require('./server');
+var router = require('./router');
+var requestHandlers = require('./requestHandlers');
+
+var handle = {};
+handle["/"] = requestHandlers.start;
+handle["/start"] = requestHandlers.start;
+handle["/hymn"] = requestHandlers.serveHymn;
+handle["file"] = requestHandlers.serveFile;
+
+server.start(router.route, handle);
+      </div></pre>
+      <p>If you're used to programming in languages like Java and Python (though Python can also pass functions around), as I was, you might notice that the structure of the <code>start</code> function in the server file is interesting. Besides parsing the query string, the starting function contains the definition of another function, <code>onRequest</code>, which is passed as the argument to the <code>createServer</code> function.</p>
+      <pre><div class="code">
+<span class="source">Source: server.js</span>
+var http = require("http");
+var url = require("url");
+
+function start(route, handle) {
+  function onRequest (request, response) {
+    var pathname = url.parse(request.url).pathname;
+    var query = url.parse(request.url).query;
+    console.log("Request for " + pathname + " received");
+    route(handle, pathname, response, query);
+  }
+  http.createServer(onRequest).listen(process.env.VMC_APP_PORT || 1337, null);
+  console.log("Server has started");
+}
+
+exports.start = start;
+      </div></pre>
+      <p>This callback, a common occurrence in Javascript, is a function passed as an argument to the other, to be executed later within the function to which it was passed. Although all of the code in the function is executed in order, one thing after another, seemingly odd sequences of events can sometimes occur in Javascript code. But that's what makes the language so asynchronous.</p>
+      <p>For example, those logging statements that I placed at the bottom of the functions will be displayed immediately after I run them, even if the page has not loaded completely yet. Try it yourself and see.</p>
+      <p>From there, the router simply had to choose the correct function to display the webpage that was requested. At this point, I was concerned only with the function that would serve the JSON hymns I had put on the website.</p>
+      <pre><div class="code">
+<span class="source">Source: requestHandlers.js</span>
+var fs = require('fs');
+var querystring = require('querystring');
+var mime = require('mime');
+
+function serveHymn(response, query, pathname) {
+  var file = "./hymns/" + querystring.parse(query).type + "/hymn" + querystring.parse(query).hymn + ".txt";
+  console.log("FILE " + file);
+  fs.readFile(file, function(error, content) {
+    write(error, content, response, query, mime.lookup(file));
+  });
+}
+
+exports.serveHymn = serveHymn;
+      </div></pre>
+      <p>I had a lot more work to do before the site became as developed as it is now (all I had was a HelloWorld page and <a href="http://hymn.aws.af.cm/hymn?hymn=5&type=ns" target="_blank">some ugly JSON strings I could use in my app</a>), but I didn't work on anything else for the website at that point, so I'll describe the rest of its development, when I decided to display the app's documentation, later.</p>
+      <p>(Note: the structure of this website is somewhat influenced by the requirements of the hosting service that I chose to use, <a href="http://appfog.com" target="_blank">Appfog</a>. Each hosting service will require the starting component, in this case, <code>app.js</code>, to be named a certain way, and you need to set an environment label in starting the server. But that's about it. You can either upload the code to a website of your own or start the app by opening command prompt and running <code>node app.js</code> and checking localhost:1337.)</p>
+    <h2 id="step4">making the app</h2>
+    <p>Finally, I could begin with my original goal: creating an Android app!</p>
+    <p>My shaky background with Java had convinced me to put this part of the project off, but when I began, I realized that I had learned so much over the semester that it was just a matter of reading the <a href="http://developer.android.com/index.html" target="_blank">Android Documentation</a> for more information on how specific components worked.</p>
+    <p>In any case, </p>
+    </section>
+    <section id="footer">
+      <br><br><br><br><br><br><br>
+      <hr>
+      <ul id="footer">
+        <li>&copy; 2012 by Bill Yeh</li>
+        <li><a id="footer" href="https://github.com/billyeh" target="_blank">View Source Code at https://github.com/billyeh</a></li>
+      </ul>
     </section>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script>
@@ -342,6 +413,9 @@ FOR %%x IN (*.txt) DO (
         if (pathname == "/") {
           $("#home").css("font-weight", "bold");
         }
+
+        /*Using GoogleCode to prettyprint code snippets*/
+        $('pre').addClass('prettyprint');
     });
   </script>
   </body>

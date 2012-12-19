@@ -18,20 +18,23 @@
       <br><br>
     </nav>
     <ul id="sidebar">
-      <li class="sidemenu" id="1">Scraping the site</li>
-      <li class="sidemenu" id="2">Parsing into JSON</li>
-      <li class="sidemenu" id="3">Creating the Servea</li>
-      <li class="sidemenu" id="4">Making the app</li>
-      <li class="sidemenu" id="5">Adding Search</li>
+      <li class="sidemenu" id="1">Why This Project?</li>
+      <li class="sidemenu" id="2">About Me</li>
     </ul>
-    <h1>about this project, and myself</h1>
-    <h2>why this project?</h2>
-    <p>The goal of this project was to create an Android application that would display hymns. These hymns were copyrighted and printed in a book, titled <i>Hymns</i>, published by the Living Stream Ministry, and were generously put online at <a href="http://www.hymnal.net" target="_blank">hymnal.net</a>. There is also a mobile download already available, a .epub file that can be read by the <a href="http://www.isilo.com/">iSilo</a> reader.</p>
-    <p>I wanted a project to work on during my first semester at UC Berkeley, and I wanted to experiment with scraping websites and displaying them on client screens like smartphones compactly. I imagined that this could be applied to other websites as well, such as <a href="http://www.ultimate-guitar.com" target="_blank">Ultimate Guitar</a>. My reasoning was that a website should not have a free, ad-supported site which can be viewed by a mobile device any time, but force user to buy an app to use it more conveniently.</p>
-    <p>Though I've now realized that there's no way that a website-scraping app that displays the content of webpages would never fly with copyright rules, I still learned a lot from this application's development.</p>
-    <h2>about me</h2>
-    <p>I strongly believe that any code from this site would really only be useful to anyone who also has the same background as I do, just as I've found through my reading of other tutorials on the web. That's why I'm describing my coding background.</p>
-    <p>This documentation pretty much assumes that you're extremely comfortable with Python already, and thus the scripts from Python are sparsely explained. Furthermore, I've taken a class in HTML and I know CSS decently well. Javascript is still a mystery to me, since I've had no formal introduction to it, but having studied Python for a while, I obviously understand some concepts (like higher order functions). I took a Java class a while back, before I knew any programming, and I didn't learn that much from it. That's about it.</p>
+    <h1>about this project</h1>
+    <p>The simple goal of this project was to create an Android application that would display hymns. These hymns are available for free at <a href="http://www.hymnal.net" target="_blank">hymnal.net</a>. There is also a mobile download already available, an epub file that can be read by the <a href="http://www.isilo.com/">iSilo</a> reader.</p>
+    <p>I wanted a project to work on during my first semester at UC Berkeley, and I wanted to experiment with scraping websites and displaying them on client screens like smartphones compactly. I imagined that this could be applied to other websites as well, such as <a href="http://www.ultimate-guitar.com" target="_blank">Ultimate Guitar</a>, which, I felt, could easily be scraped in the same way that I had the hymns site.</p>
+    <p>My reasoning is that a website should not have a free, ad-supported site which can be viewed by a mobile device any time, but force user to buy an app to use it more conveniently, at the same time neglecting the mobile market completely with its website. Hymnal.net and UltimateGuitar were two websites that violated these principles.</p>
+    <p>Forcing smartphone users to buy an app to use the content of a freely available website is a model that must soon be phased out. Despite the development costs, a larger user base (with more advertising revenue!) and more convenience should be the priority for websites.</p>
+    <p>I've now realized that there's no way that a website-scraping app that displays the content of webpages would never fly with copyright rules. But even as I found that my app will never be published, I saw how hymnal.net changed its site from the original clunky design to the current, <i>mobile-friendly</i> design. And I now have hope that in due time, the Web will become smartphone friendly, driven as it is by the market. But I also hope that I'll be able to be a part of that transition.</p>
+    </section>
+    <section id="footer">
+      <br><br><br><br><br><br><br>
+      <hr>
+      <ul id="footer">
+        <li>&copy; 2012 by Bill Yeh</li>
+        <li>View Source Code at <a id="footer" href="https://github.com/billyeh">https://github.com/billyeh</a></li>
+      </ul>
     </section>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script>
@@ -74,6 +77,11 @@
         if (pathname == "/") {
           $("#home").css("font-weight", "bold");
         }
+        else {
+          pathname = pathname.slice(1, pathname.indexOf("."));
+          $("#" + pathname).css("font-weight", "bold");
+        }
+
     });
   </script>
   </body>
