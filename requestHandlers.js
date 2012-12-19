@@ -35,6 +35,10 @@ function serveHymn(response, query, pathname) {
 
 function serveFile(response, query, pathname) {
 	console.log(pathname);
+	if (pathname == 'favicon.ico') {
+		pathname = './res/images/favicon.ico';
+		console.log('Rerouting request for favicon');
+	}
 	fs.readFile(pathname, function(error, content) {
 		write(error, content, response, query, mime.lookup(pathname));
 	});

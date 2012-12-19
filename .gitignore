@@ -161,3 +161,10 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+#################
+## Stuff I Added
+#################
+.afignore
+project.properties
+npm-debug.log

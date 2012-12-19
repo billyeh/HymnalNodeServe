@@ -26,10 +26,10 @@
       <li class="sidemenu" id="4">Making the app</li>
       <li class="sidemenu" id="5">Adding Search</li>
     </ul>
-    <h1>a new way of viewing a site</h1>
-    <p>Web browsing on smartphones is often a time-consuming, eye-wrenching experience. Through this app, I intended to make it much easier for people to view what they actually wanted - the contents of a song from a website. I was hoping that idea could eventually be applied to other websites (see the <a href="/about.html">about page</a> for more details), but I soon realized that I wouldn't even be able to put this app up in the Android market because of copyright reasons. That's why this app is now only available to friends and family.</p>
+    <h1>A New Way of Viewing a Site</h1>
+    <p>Web browsing on smartphones is often a time-consuming, eye-wrenching thumb exercise. Through this app, I intended to make it much easier for people to view what they actually wanted - the contents of a song from a website. I was hoping that idea could eventually be applied to other websites (see the <a href="/about.html">about page</a> for more details), but I soon realized that I wouldn't even be able to put this app up in the Android market because of copyright reasons. That's why this app is now only available to friends and family.</p>
     <p>Even though the reach of the app is limited, I still believe in its basic premises, and I'm sure that anyone with the same idea and background that I have will find some help in what I learned in its making. The following saga is a chronological rehashing of the steps I took in developing a simple app.</p>
-    <h2 id="step1">scraping the site</h2>
+    <h2 id="step1">Scraping the Site</h2>
       <p>Originally, the files from http://hymnal.net consisted of simple web pages containing the desired content, the lyrics, in <code>&lt;ol&gt;</code> and <code>&lt;li&gt;</code> tags. I managed to get an archived version of the website, and you can view the source code in <a href="hymnalnetarchive.txt" target="_blank">this archive link</a>. It's pretty tough to sort through all of that source code, since it also contains some metadata from the Wayback Machine where I got the archive, but searching for the <code>div</code> tag labeled "lyrics" will give you the content I was after.</p>
       <p>The HTML has since changed, and you can compare the HTML of interest from Hymn 100 when I parsed it to the current state of the site at <a href="view-source:http://www.hymnal.net/hymn.php/h/100" target="_blank">http://www.hymnal.net/hymn.php/h/100</a>.
       </p>
@@ -139,7 +139,7 @@ def replace_unicode(s):
     s = s.replace(char, unicode_chars[char])
   return s
       </div></pre>
-    <h2 id="step2">parsing into json</h2>
+    <h2 id="step2">Parsing into JSON</h2>
       <p>I wanted my application to have as lightweight a footprint on the network as possible, and JSON seemed like the ideal choice. I didn’t put much research into using the built-in module for this in Python 3, resulting in a headache of string-parsing that left me an expert at parsing strings in Python 3 (as wonderful an experience as parsing strings can be because of Python’s useful library of functions) without regular expressions (which I had and have not yet mastered) but used a lot of time that could have been avoided.
       </p>
       <p>JSON took me a little while to learn, since I wasn’t familiar with Javascript before this project. I wasn’t clear that there are two different types: 1) JSON objects, and 2) JSON arrays. There are good libraries for dealing with both, and they’re both highly compatible with other languages, including Java, as I found out later. 
@@ -297,7 +297,7 @@ FOR %%x IN (*.txt) DO (
       </div></pre>
       <p>For those interested, this batch script loops through each text file, <code>%%x</code>, in the current directory, feeding its contents to the Python <code>json.tool</code> module, which checks for valid JSON. It echoes <code>stdoutput1</code> to <code>NUL</code> because I wasn’t interested in the files that didn’t cause errors, and <code>stdoutput2</code> went to an error file, <code>json.log</code>, which I could browse for all my files, finding those that were not valid JSON. </p>
       <p>I had a pretty good success rate: about 20 files were empty, which I’m going to assume was a result of some kind of problem with the network connection created by the Python <code>urllib</code> module, because this is a recurring problem that seems to be some kind of timeout mechanism that stops me from downloading thousands of files too quickly. I had errors in parsing about 6 files. These were just unforeseen formats that wouldn’t take too long fix.</p>
-    <h2 id="step3">creating the server</h2>
+    <h2 id="step3">Creating the Server</h2>
       <p>The final step in building the backend for the app was to create an API for my hymns, so that they could be downloaded from client devices. I went with <a href="http://nodejs.org/">Node.js</a> after a little bit of deliberation. Though small, it is a growing platform, and all of the students I knew at Berkeley had used it for their apps.</p>
       <p>I began with the <a href="http://www.nodebeginner.org/" target="_blank">Node Beginner</a> tutorial, which is probably the best application development tutorial I’ve come across in all my surfing, though that may be because I have almost exactly the same background that the author describes in his opening.</p>
       <p>The basic design of the backend consists of four parts: a router (<code>router.js</code>), request handler (<code>requestHandlers.js</code>), server (<code>server.js</code>), and main component (<code>app.js</code>). These four parts use some slick message passing to pull off a site that is easily extensible.</p>
@@ -359,7 +359,7 @@ exports.serveHymn = serveHymn;
       </div></pre>
       <p>I had a lot more work to do before the site became as developed as it is now (all I had was a HelloWorld page and <a href="http://hymn.aws.af.cm/hymn?hymn=5&type=ns" target="_blank">some ugly JSON strings I could use in my app</a>), but I didn't work on anything else for the website at that point, so I'll describe the rest of its development, when I decided to display the app's documentation, later.</p>
       <p>(Note: the structure of this website is somewhat influenced by the requirements of the hosting service that I chose to use, <a href="http://appfog.com" target="_blank">Appfog</a>. Each hosting service will require the starting component, in this case, <code>app.js</code>, to be named a certain way, and you need to set an environment label in starting the server. But that's about it. You can either upload the code to a website of your own or start the app by opening command prompt and running <code>node app.js</code> and checking localhost:1337.)</p>
-    <h2 id="step4">making the app</h2>
+    <h2 id="step4">Making the App</h2>
     <p>Finally, I could begin with my original goal: creating an Android app!</p>
     <p>My shaky background with Java had convinced me to put this part of the project off, but when I began, I realized that I had learned so much over the semester that it was just a matter of reading the <a href="http://developer.android.com/index.html" target="_blank">Android Documentation</a> for more information on how specific components worked.</p>
     <p>In any case, </p>
