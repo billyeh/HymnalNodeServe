@@ -6,7 +6,7 @@ import os
 #CONSTANT VALUES#
 #################
 
-SONG_TYPE = os.getcwd()[::-1][:os.getcwd().find('\\')][::-1]
+SONG_TYPE = os.getcwd()[::-1][:os.getcwd().find('\\')][::-1] # get current folder
 SONG_DB = 'song.db'
 
 ###################

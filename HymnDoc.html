@@ -175,7 +175,8 @@ def get_files_in_directory(directory):
     if d[len(d) - 3: len(d)] == 'txt':
       files.append(d)
   return files
-
+      </div></pre>
+      <pre><div class="code">
 <span class="source">Source: run.py</span>
 filenames = util.get_files_in_directory('./hymns') 
 
@@ -304,7 +305,7 @@ FOR %%x IN (*.txt) DO (
       <p>The main component starts the server off, passing a route function and <code>handle</code> dictionary composed of functions exported from the request handlers to the server. When a request to the site is received, it triggers the callback to <code>onRequest</code> in <code>server.js</code>. The server parses the query, and calls the route function that was passed from the main component, passing it the <code>handle</code> dictionary, along with the parsed query. The router uses the <code>handle</code> dictionary to find the correct reqeust handler, and then calls it on the query. The request handlers do most of the actual work: they perform the response to the requests received.</p>
       <p>The key in all of this is the callbacks and message passing, which allow non-blocking operations and flexibility. The following diagram traces the path of function calls and message passing.</p>
       <img src="res/images/nodejs.png">
-      <p>For now, we'll start with a basic walkthrough of the components to get a site up and running. It all starts off with the app component, which imports functions from the other three components and calls the start function from the server, passing it the handlers and router.</p>
+      <p>For now, we'll start with a basic walkthrough of the components to get a site up and running. It all begins with the app component, which imports functions from the other three components and calls the start function from the server, passing it the handlers and router.</p>
       <pre><div class="code">
 <span class="source">Source: app.js</span>
 var server = require('./server');
@@ -358,7 +359,7 @@ function serveHymn(response, query, pathname) {
 exports.serveHymn = serveHymn;
       </div></pre>
       <p>I had a lot more work to do before the site became as developed as it is now (all I had was a HelloWorld page and <a href="http://hymn.aws.af.cm/hymn?hymn=5&type=ns" target="_blank">some ugly JSON strings I could use in my app</a>), but I didn't work on anything else for the website at that point, so I'll describe the rest of its development, when I decided to display the app's documentation, later.</p>
-      <p>(Note: the structure of this website is somewhat influenced by the requirements of the hosting service that I chose to use, <a href="http://appfog.com" target="_blank">Appfog</a>. Each hosting service will require the starting component, in this case, <code>app.js</code>, to be named a certain way, and you need to set an environment label in starting the server. But that's about it. You can either upload the code to a website of your own or start the app by opening command prompt and running <code>node app.js</code> and checking localhost:1337.)</p>
+      <p>(Note: the structure of this website is somewhat influenced by the requirements of the hosting service that I chose to use, <a href="http://appfog.com" target="_blank">Appfog</a>. Each hosting service will require the starting component, in this case, <code>app.js</code>, to be named a certain way, and you need to set an environment variable in starting the server. But that's about it. You can either upload the code to a website of your own or start the app by opening command prompt and running <code>node app.js</code> and checking localhost:1337.)</p>
     <h2 id="step4">Making the App</h2>
     <p>Finally, I could begin with my original goal: creating an Android app!</p>
     <p>My shaky background with Java had convinced me to put this part of the project off, but when I began, I realized that I had learned so much over the semester that it was just a matter of reading the <a href="http://developer.android.com/index.html" target="_blank">Android Documentation</a> for more information on how specific components worked.</p>
@@ -375,32 +376,28 @@ exports.serveHymn = serveHymn;
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script>
     $(document).ready(function() {
+
       /* Adds sidebar scrolling animation */
-      $(".sidemenu").click(function() {
+      $('.sidemenu').click(function() {
         $('html, body').animate({
-          scrollTop: $("#step" + event.target.id).offset().top - 65
+          scrollTop: $('#step' + event.target.id).offset().top - 65
           }, 500);
       });
 
       /* This function adds the logo click to go to home page function */
-      $("#logo").click(function () {
-        window.open("/", "_self");
-      });
-      $("#logo").hover(function() {
-        $("#logo").css("text-decoration", "underline");
-      }, function() {
-        $("#logo").css("text-decoration", "none");
+      $('#logo').click(function () {
+        window.open('/', '_self');
       });
 
       /* This function scrolls the sidebar down the page. */
-        var $sidebar   = $("#sidebar"), 
+        var $sidebar   = $('#sidebar'), 
             offset     = $sidebar.offset(),
             topPadding = 100;
         $(window).scroll(function() {
             if ($(window).scrollTop() > offset.top - 100) {
                 $sidebar.stop().animate({
                     marginTop: $(window).scrollTop() - offset.top + topPadding
-                }, "slow");
+                }, 'slow');
             } else {
                 $sidebar.stop().animate({
                     marginTop: 0
@@ -410,12 +407,34 @@ exports.serveHymn = serveHymn;
 
         /* Highlighting for menu items */
         var pathname = window.location.pathname;
-        if (pathname == "/") {
-          $("#home").css("font-weight", "bold");
+        if (pathname == '/') {
+          $('#home').css('font-weight', 'bold');
         }
 
         /*Using GoogleCode to prettyprint code snippets*/
         $('pre').addClass('prettyprint');
+
+        /* Adding click function to source tags */
+        $('.source').click(function() {
+          var sourceName = ($(this).text()).slice(8);
+          if (sourceName == 'app.js' || 
+              sourceName == 'router.js' || 
+              sourceName == 'requestHandlers.js' ||
+              sourceName == 'server.js') {
+            window.open('https://github.com/billyeh/HymnalNodeServe/blob/master/' + sourceName);
+          }
+          else if (sourceName == 'parse.py' ||
+              sourceName == 'site1.py' ||
+              sourceName == 'site2.py' ||
+              sourceName == 'util.py' ||
+              sourceName == 'jobjToArray.py' ||
+              sourceName == 'validator.bat') {
+            window.open('https://github.com/billyeh/HymnalParse/blob/master/' + sourceName);
+          }
+          else {
+            window.open(sourceName);
+          }
+        });
     });
   </script>
   </body>

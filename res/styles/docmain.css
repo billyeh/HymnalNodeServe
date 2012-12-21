@@ -46,13 +46,17 @@ p {
 /*******************/
 /* CODE FORMATTING */
 /*******************/
+
+/* Note: none of this styling includes the syntax highlighting, which is done
+by GoogleCode PrettyPrint; see prettyprint.js and prettyprint.css. */
+
 pre {
-	width: 700px;                          /* specify width  */
-	white-space: pre-wrap;                 /* CSS3 browsers  */
-	white-space: -moz-pre-wrap !important; /* 1999+ Mozilla  */
-	white-space: -pre-wrap;                /* Opera 4 thru 6 */
-	white-space: -o-pre-wrap;              /* Opera 7 and up */
-	word-wrap: break-word;                 /* IE 5.5+ and up */
+	width: 700px;                          
+	white-space: pre-wrap;                 
+	white-space: -moz-pre-wrap !important;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
 	}
 .code, code {
 	background-color: white;
@@ -74,6 +78,10 @@ code {
 .source {
 	color: #000000;
 	font-family: "Arial", "Helvetica";
+}
+.source:hover {
+	text-decoration: underline;
+	cursor: pointer;
 }
 /***************************************************/
 /* TRANSPARENT NAVIGATION BAR FORMATTING AND STYLE */
@@ -103,6 +111,7 @@ nav ul li {
 }
 #logo:hover {
 	cursor: pointer;
+	text-decoration: underline;
 }
 #footer ul {
 	list-style: none;
