@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <head>
+    <title>Hymnal App</title>
+    <link rel="stylesheet" type="text/css" href="/res/styles/docmain.css">
+  </head>
+  <body>
+  <section id="content">
+    <nav>
+      <ul>
+        <li id="logo">hymnal project</li>
+        <li class="menuitem" id="home"><a href="/">home</a></li>
+        <li class="menuitem" id="hymns"><a href="hymns.html">hymns</a></li>
+        <li class="menuitem" id="projects"><a href="/projects.html">projects</a></li>
+        <li class="menuitem" id="about"><a href="/about.html">about</a></li>
+      </ul>
+      <br><br>
+    </nav>
+    <h1>404 Page not Found</h1>
+    <p>Sorry, this site is still in <img src="/res/images/beta.png" alt="beta">.</p>
+    <section id="footer">
+      <br><br><br><br><br><br><br>
+      <hr>
+      <ul id="footer">
+        <li>&copy; 2012 by Bill Yeh</li>
+        <li>View Source Code at <a id="footer" href="https://github.com/billyeh">https://github.com/billyeh</a></li>
+      </ul>
+    </section>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script>
+    $(document).ready(function() {
+
+      /* This function adds the logo click to go to home page function */
+      $("#logo").click(function () {
+        window.open("/", "_self");
+      });
+      $("#logo").hover(function() {
+        $("#logo").css("text-decoration", "underline");
+      }, function() {
+        $("#logo").css("text-decoration", "none");
+      });
+    });
+  </script>
+  </body>
+</html>
