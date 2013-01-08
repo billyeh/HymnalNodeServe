@@ -31,7 +31,7 @@
     <p>That lack of foresight characterized this whole project, but I'm glad I went through it. My first large-scale project taught me a lot, and hopefully this page will help me remember what I learned.</p>
     <p>Even though the reach of the app is limited, I still believe in its basic premises, and I'm sure that anyone with the same idea and background that I have will find some help in what I learned in its making. The following saga is a chronological rehashing of the steps I took in developing a simple app.</p>
     <h2 id="step1">Scraping the Site</h2>
-      <p>Originally, the files from <a src="http://hymnal.net">hymnal.net</a> consisted of simple web pages containing the desired content, the lyrics, in <code>&lt;ol&gt;</code> and <code>&lt;li&gt;</code> tags. I managed to get an archived version of the website, and you can view the source code that I was working with in <a href="/res/examples/hymnalnetarchive.txt" target="_blank">this archive link</a>. It's pretty tough to sort through all of that source code, since it also contains some metadata from the Wayback Machine where I got the archive, but searching for the <code>div</code> tag labeled "lyrics" will give you the content I was after.</p>
+      <p>Originally, the files from <a href="http://hymnal.net" target="_blank">hymnal.net</a> consisted of simple web pages containing the desired content, the lyrics, in <code>&lt;ol&gt;</code> and <code>&lt;li&gt;</code> tags. I managed to get an archived version of the website, and you can view the source code that I was working with in <a href="/res/examples/hymnalnetarchive.txt" target="_blank">this archive link</a>. It's pretty tough to sort through all of that source code, since it also contains some metadata from the Wayback Machine where I got the archive, but searching for the <code>div</code> tag labeled "lyrics" will give you the content I was after.</p>
       <p>The HTML has since changed, and you can compare the HTML of interest from Hymn 100 when I parsed it to the current state of the site at <a href="view-source:http://www.hymnal.net/hymn.php/h/100" target="_blank">http://www.hymnal.net/hymn.php/h/100</a>.
       </p>
       <pre><div class="code">
@@ -403,6 +403,81 @@ public class MainActivity extends Activity {
       
       ...
       </div></pre>
+      <p>The <code>DownloadTask</code> class extends the <code>AyncTask</code> class, which is an easy way to put asynchronous tasks into UI threads without blocking the updating of the UI. It's an alternative to using a Thread. I had to override two functions inside the task, the <code>doInBackground</code> method and the <code>onPostExecute</code> method. There are also useful functions for updating a dialog box, among other things.</p>
+      <p>The background downloading task calls the <code>downloadUrl</code> function, which checks if the song has already been downloaded, in which case it will have been saved as a file in the Android system already, and it simply retrieves that file. Otherwise, it uses an HttpUrlConnection to grab the song from the web backend. The byte stream is converted to a string by the function <code>convertStream</code>.</p>
+      <pre><div class="code">
+<span class="source">Source: MainActivity.java</span>
+  private String downloadUrl(String strUrl) throws IOException {
+    InputStream iStream = null;
+    String song = null;
+    if (inArray(fileList(), parseUrl(strUrl))){
+      Log.d("IO", "File found in cache");
+      iStream = openFileInput(parseUrl(strUrl));
+      song = convertStream(iStream).toString();
+    } else{
+      try {
+        URL url = new URL(strUrl);
+        HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+        urlConnection.connect();
+        iStream = urlConnection.getInputStream();
+        song = convertStream(iStream).toString();
+      } catch(Exception e) {
+        Log.d("Exception while downloading url", e.toString());
+      }
+    }
+    return song;
+  }
+      </div></pre>
+      <p>After the background task is executed, the <code>onPostExecute</code> function saves the string so that it won't have to be downloaded the next time. (Something I realized during this documentation: it does the saving whether the file was there already or not, something that needs to change. I guess documentation really does help).</p>
+      <p>Finally, the function passes control of the app from the <code>MainActivity</code> class to the other class in the app, the <code>HymnList</code> class, passing an extra variable, the song, with the <code>Intent</code>.</p>
+      <pre><div class="code">
+<span class="source">Source: MainActivity.java</span>
+  private class DownloadTask extends AsyncTask<String, Integer, String> {
+    String json = null;
+    @Override
+    protected String doInBackground(String... url) {
+      try {
+        json = downloadUrl(url[0]);
+      } catch(Exception e) {
+        Log.d("Background task", e.toString());
+      }
+      return json;
+    }
+    @Override
+    protected void onPostExecute(String result) {
+      ArrayList<String> stanza = null;
+      JSONArray jArray = null;
+      FileOutputStream songSaver = null;
+      String url = null;
+      if (result == null){
+        Toast.makeText(getBaseContext(), "Invalid song selection", Toast.LENGTH_SHORT).show();
+      } else{
+        try {
+          jArray = new JSONArray(result);
+          stanza = jsonToArrayList(jArray);
+        } catch (JSONException e) {
+          Toast.makeText(getBaseContext(), "Error downloading song", Toast.LENGTH_SHORT).show();
+        }
+        try {
+          url = parseUrl(((EditText) findViewById(R.id.et_url)).getText().toString());
+          songSaver = openFileOutput(url, Context.MODE_PRIVATE);
+        } catch (FileNotFoundException e) {
+          e.printStackTrace();
+        }
+        try {
+          songSaver.write(result.getBytes());
+          songSaver.close();
+        } catch (IOException e) {
+          e.printStackTrace();
+        }
+        Intent show_song = new Intent(getBaseContext(), HymnList.class);
+        show_song.putExtra("song", stanza);
+        startActivity(show_song);
+      }
+    }
+  }
+      </div></pre>
+      
     </section>
     <section id="footer">
       <br><br><br><br><br><br><br>
