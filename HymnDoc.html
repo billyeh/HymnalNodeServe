@@ -534,7 +534,7 @@ public class MainActivity extends Activity {
     <h2 id="step4">Adding Search</h2>
       <p>At this point, to make my app actually usuable, I had to consider how I would add search. The <a href="http://developer.android.com/training/search/search.html" target="_blank">Android docs</a> encourage developers to make use of <a href="http://www.sqlite.org/fts3.html">SQLite's full-text search capability</a>. (That SQLite documentation, by the way, is highly worth reading.)</p>
       <p>This would require me to go back to Python to do some scripting, so that I could move all the data I'd gathered into a database. It wasn't too difficult, with the help of <a href="http://zetcode.com/db/sqlitepythontutorial/" target="_blank">this tutorial</a>, though I had to wrap my mind around what a cursor was.</p>
-      <p>Once again, I brought out the <code>getFiles</code> directory from the old project, and used Python's SQLite library to add it to a new database.</p>
+      <p>Once again, I brought out the <code>getFiles</code> function from the old HymnalParse project, and used Python's SQLite library to add it to a new database.</p>
       <pre><div class="code">
 <span class="source">Source: songDatabaser.py</span>
 con = sqlite3.connect(SONG_DB)
@@ -551,7 +551,7 @@ with con:
           cur.execute("INSERT INTO songs VALUES(NULL, ?, ?, ?);", 
                       (song_num, song_text, ''))</span>
       </div></pre>
-      <p>I had quite a scare when I realized that there was no support for FTS tables in Python's SQLite library. I thought my SQLite might be out of date, so I deleted it. I had to find the right replacement at <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank">UCI's python library</a>.</p>
+      <p>I had quite a scare when I realized that there was no support for FTS tables in Python's SQLite library. I thought my SQLite DLL might be out of date, so I deleted it. I had to find the right replacement at <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank">UCI's super useful python library</a>.</p>
       <p>Putting each song into the database was now a matter of copying and pasting the script into each hymn directory, then running the script.</p>
       <p> I learned a few useful commands for working with Android databases along the way. The first set of commands set up the table schema so that my databasing script would work.</p>
       <ul>
