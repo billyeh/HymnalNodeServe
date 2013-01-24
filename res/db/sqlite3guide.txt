@@ -1,8 +1,0 @@
-sqlite3 commands
-CREATE TABLE songs(_id PRIMARY INTEGER KEY AUTOINCREMENT, url TEXT, song TEXT);
-CREATE TABLE android_metadata(locale TEXT DEFAULT 'en_us');
-INSERT INTO android_metadata VALUES('en_us');
-
-CREATE VIRTUAL TABLE songdb USING FTS3(_id PRIMARY INTEGER KEY AUTOINCREMENT, url TEXT, song TEXT);
-INSERT INTO songdb SELECT * FROM songs; 
-DROP TABLE songs;
