@@ -6,7 +6,7 @@ API Usage
 ------------------
 Queries for hymns can be made via standard RESTful queries. 
 
-For an example of a JSON hymn, try http://hymn.aws.af.cm/hymn?type=ns&hymn=100 (For an explanation of this query structure, view the HymnalParse project readme). This returns a JSON array consisting of the lyrics.
+For an example of a JSON hymn, try http://hymn.aws.af.cm/hymn?type=ns&hymn=100. For an explanation of this query structure, [view the HymnalParse project readme](https://github.com/billyeh/HymnalParse/blob/master/readme.md). This returns a JSON array consisting of the lyrics.
 Expect a format that will include tags as the first word of each item of the array. For example, a typical response will appear like
 
 	["1 lyrics lyrics", "chorus lyrics lyrics", "2 lyrics lyrics", "3 lyrics lyrics"]
