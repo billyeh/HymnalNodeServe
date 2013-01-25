@@ -6,6 +6,7 @@ var handle = {};
 handle["/"] = requestHandlers.start;
 handle["/start"] = requestHandlers.start;
 handle["/hymn"] = requestHandlers.serveHymn;
+handle["/search"] = requestHandlers.searchHymns;
 handle["file"] = requestHandlers.serveFile;
 
 server.start(router.route, handle);
