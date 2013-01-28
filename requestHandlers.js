@@ -1,7 +1,6 @@
 var fs = require('fs');
 var querystring = require('querystring');
 var mime = require('mime');
-var sqlite = require('sqlite3');
 
 function write(error, content, response, query, contentType) {
 	if (error) {
@@ -42,16 +41,16 @@ function serveFile(response, query, pathname) {
 		write(error, content, response, query, mime.lookup(pathname));
 	});
 }
-
+/*
 function searchHymns(response, query, pathname) {
 	var results = [];
 	var db = new sqlite.Database('./res/db/songdb.db');
 
 	console.log("Query: " + query);
 	db.serialize(function() {
-		db.each("SELECT url, SNIPPET(songdb, '', '', '...') AS snippet FROM songdb WHERE song MATCH ?", [query], 
+		db.each("SELECT url, SNIPPET(songdb, '', '', '...') AS snippet, sheet_music FROM songdb WHERE song MATCH ?", [query], 
 			function(error, row) {
-				results.push({"url": row.url, "snippet": row.snippet});
+				results.push({"url": row.url, "snippet": row.snippet, "sheet_music": row.sheet_music});
 		});
 	});
 	db.close(function() {	
@@ -59,7 +58,8 @@ function searchHymns(response, query, pathname) {
 		response.end(JSON.stringify(results), 'utf-8');
 	});
 }
+*/
 exports.start = start;
 exports.serveHymn = serveHymn;
 exports.serveFile = serveFile;
-exports.searchHymns = searchHymns;
+//exports.searchHymns = searchHymns;

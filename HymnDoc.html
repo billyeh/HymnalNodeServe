@@ -531,7 +531,7 @@ public class MainActivity extends Activity {
         <li class="body"><b>Make sure to decide how you're going to be passing your data around before you begin.</b>This is a broad, all-encompassing piece of advice. This includes deciding whether to use the Internet to store your information, or a database. This includes how you will access that information, and how you will organize it. I ended up creating a class of objects to manage my <code>Songs</code>, which, in Java programming is probably the best way to go. I only wish I had done it earlier.</li>
         <li class="body"><b>Learn how to read the Android docs.</b> This is pretty self-explanatory. During my development, my code went from about 90 percent copy-pasted to about 5 percent.</li>
       </ul>
-    <h2 id="step4">Adding Search</h2>
+    <h2 id="step5">Adding Search</h2>
       <p>At this point, to make my app actually usuable, I had to consider how I would add search. The <a href="http://developer.android.com/training/search/search.html" target="_blank">Android docs</a> encourage developers to make use of <a href="http://www.sqlite.org/fts3.html">SQLite's full-text search capability</a>. (That SQLite documentation, by the way, is highly worth reading.)</p>
       <p>This would require me to go back to Python to do some scripting, so that I could move all the data I'd gathered into a database. It wasn't too difficult, with the help of <a href="http://zetcode.com/db/sqlitepythontutorial/" target="_blank">this tutorial</a>, though I had to wrap my mind around what a cursor was.</p>
       <p>Once again, I brought out the <code>getFiles</code> function from the old HymnalParse project, and used Python's SQLite library to add it to a new database.</p>
@@ -566,7 +566,70 @@ with con:
         <li class="body"><code>DROP TABLE songs;</code></li>
       </ul>
       <p>Querying the resulting database was a simple matter of taking advantage of the <code>MATCH</code> selection that is unique to FTS tables. In my app, I also used the <code>SNIPPET</code> function so that I could retreive only the relevant parts of the songs that matched the queries. Hopefully, someday, I'll have an opportunity to implement something with the <code>MATCHINFO</code> function, which seems to present a lot of possibilities.</p>
-      <p></p>
+      <p>Once I had the database on my web server, using it in my app was a matter of downloading it and using a query to populate another ListView with results, in the same way that I had the hymn verses before. To do this, I made use of the <a href="http://developer.android.com/reference/android/app/DownloadManager.html" target="_blank"><code>DownloadManager</code></a> class. This was an easy way of handling the download of a 3 MB file that might otherwise have interruptions that would lose the users' progress. The <code>DownloadManager</code> class takes care of all of those problems by queueing the download in the notification bar.</p>
+      <pre><div class="code">
+<span class="src">Source: DownloadDatabase.java</span>
+public class DownloadDatabase {
+  
+  static Resources res;
+  public static void startDownload(Context context) {
+    res = context.getResources();
+    
+    String url = res.getString(R.string.str_database_url);
+    DownloadManager.Request request = new DownloadManager.Request(Uri.parse(url));
+    
+    request.setTitle(res.getString(R.string.str_download_title));
+    request.setDescription(res.getString(R.string.str_download_description));
+    request.setDestinationInExternalFilesDir(context, null,  
+        res.getString(R.string.str_database_name));
+    
+    DownloadManager manager = (DownloadManager) context.getSystemService(Context.DOWNLOAD_SERVICE);
+    manager.enqueue(request);
+  }
+}
+      </div></pre>
+      <p>Including the search bar in the <code>ActionBar</code> was more involved than creating much of the rest of the application. It was pretty simple to do, however, by following <a href="http://developer.android.com/guide/topics/search/search-dialog.html" target="_blank">Android's guide to searchable configurations.</a> I added a folder called <code>xml</code> to the <code>res/</code> path, and then wrote a file configuring the search inteface.</p>
+      <pre><div class="code">
+<span class="src">Source: searchable.xml</span>
+&lt;searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/app_name"
+    android:hint="@string/str_search_hint" &gt;
+&lt;/searchable&gt;
+      </div></pre>
+      <p>I also had to modify the <code>AndroidManifest.xml</code> file so that the app would know where the search queries would be directed. I added a few lines of metadata to do so.</p>
+      <pre><div class="code">
+<span class="src">Source: AndroidManifest.xml</span>
+...
+
+        &lt;activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" &gt;
+            &lt;intent-filter&gt;
+                &lt;action android:name="android.intent.action.MAIN" /&gt;
+
+                &lt;category android:name="android.intent.category.LAUNCHER" /&gt;
+            &lt;/intent-filter&gt;
+            &lt;meta-data android:name="android.app.searchable"
+              android:resource="@xml/searchable"/&gt;
+        &lt;/activity&gt;
+        
+        ...
+        
+        &lt;activity 
+            android:name=".DatabaseHandler"
+            android:exported="false"&gt;
+            &lt;intent-filter&gt;
+                &lt;action android:name="android.intent.action.SEARCH" /&gt;
+            &lt;/intent-filter&gt;
+            &lt;meta-data android:name="android.app.searchable"
+                android:resource="@xml/searchable"/&gt;
+        &lt;/activity&gt;
+        &lt;meta-data android:name="android.app.default_searchable"
+                   android:value=".DatabaseHandler" /&gt;
+    &lt;/application&gt;
+      </div></pre>
+      <p>Finally, the bulk of the code-writing was in the <code>DatabaseHandler</code> class that actually referenced the database and queried for hymns. The important thing to understand about using database queries with Java and Python is that they use a Cursor to keep track of where the user is currently reading data from the database.</p>
+      
     </section>
     <section id="footer">
       <br><br><br><br><br><br><br>
